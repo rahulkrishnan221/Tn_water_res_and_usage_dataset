@@ -1,0 +1,614 @@
+<html>
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>New Page 1</title>
+<style>
+<!--
+.Header1     { font-family: Verdana; font-size: 10pt; color: #306460; font-weight: bold; 
+               text-align: Center; background-color: #FFCC90 }
+.FirstCol    { font-family: Verdana; font-size: 8pt; line-height: 8pt; text-align: Left }
+.Footer      { font-family: Verdana; font-size: 8pt; color: #808080; text-align: Left; 
+               margin-left: 40; margin-right: 80 }
+.Column_Normal { font-family: Verdana; font-size: 8pt; line-height: 8pt;text-align: Right }
+.Column_Color { font-family: Verdana; font-size: 8pt; background-color: #FFD8A8; line-height: 8pt; text-align: 
+               Right }
+.Header2     { font-family: Verdana; font-size: 8pt; color: #306460; background-color: 
+               #A5E3E7; font-weight: bold; text-align: Center }
+-->
+</style>
+</head>
+
+ <body oncontextmenu='return false;' onload='javascript:MyIpIs();'  onkeydown='return onkeyDowEvent(event)'>  </noscript> <script language='JavaScript'>  function msg() { alert('Please download file, Save as not allowed');  }  function MyIpIs() { var elem = document.getElementById('toc'); elem.style.visibility='hidden';   var url=window.location.href;  var ind =url.indexOf('.com'); var ind1 =url.indexOf('.local'); if(ind == -1 || ind1 ==-1 ) { elem.style.visibility='visible'; } else { elem.style.visibility='hidden'; elem.parentNode.removeChild(elem); msg(); } } </script> <script type='text/javascript'>  function onkeyDowEvent(e) { var keycode; var keyName=''; if(window.event) {if(e.ctrlKey){return false ; } else {return true; }            } return true; } </script> <span style='display:none;' id='myIp'></span><span style='display:none;' id='S1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div id='toc' style='visibility=hidden;' oncopy='retuns false;'>
+
+<div align="center">
+  <center>
+  <table width="331" border="1" cellspacing="0" cellpadding="0" height="840">
+    <col width="108" style="mso-width-source:userset;mso-width-alt:3949;width:81pt">
+    <col width="80" style="mso-width-source:userset;mso-width-alt:2925;width:60pt">
+    <tr height="61" style="mso-height-source:userset;height:45.75pt">
+      <td colspan="2" class="Header1" height="29">
+        <p style="margin-left: 5; margin-right: 5" align="center"><font face="Verdana" size="2">Inflow
+        into Mettur Reservoir in Tamil Nadu<br>
+        </font><font face="Verdana" size="1">(1934-1935 to 2002-2003)</font></p>
+      </td>
+    </tr>
+  </center>
+  <tr height="17" style="height:12.75pt">
+    <td colspan="2" class="Header2" height="1">
+      <p style="margin-left: 5; margin-right: 5" align="right"><font face="Verdana" size="1">(In
+      TMC)</font></p>
+    </td>
+  </tr>
+  <center>
+  <tr height="39" style="mso-height-source:userset;height:29.25pt">
+    <td class="Header2" height="7">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">Year</font></p>
+    </td>
+    <td class="Header2" height="7">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">Inflows
+      into<br>
+      Mettur</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1934-35</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">282.2</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1935-36</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">289.4</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1936-37</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">334.7</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1937-38</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">280.7</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1938-39</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">301.3</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1939-40</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">327.4</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1940-41</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">430.2</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1941-42</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">349.5</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1942-43</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">367.4</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1943-44</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">476.8</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1944-45</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">302.6</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1945-46</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">234.4</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1946-47</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">516.8</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1947-48</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">376.0</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1948-49</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">395.5</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1949-50</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">326.2</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1950-51</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">389.5</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1951-52</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">288.4</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1952-53</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">270.0</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1953-54</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">489.1</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1954-55</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">458.4</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1955-56</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">290.9</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1956-57</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">542.0</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1957-58</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">402.1</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1958-59</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">452.1</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1959-60</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">628.7</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1960-61</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">370.9</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1961-62</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">750.2</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1962-63</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">563.8</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1963-64</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">329.2</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1964-65</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">476.7</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1965-66</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">188.8</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1966-67</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">277.8</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1967-68</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">264.1</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1968-69</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">306.4</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1969-70</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">304.2</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1970-71</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">346.9</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1971-72</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">347.3</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1972-73</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">341.7</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1973-74</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">344.4</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1974-75</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">279.9</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1975-76</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">427.7</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1976-77</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">135.1</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1977-78</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">304.7</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1978-79</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">380.9</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1979-80</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">324.4</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1980-81</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">394.0</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1981-82</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">403.2</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1982-83</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">173.1</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1983-84</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">230.4</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1984-85</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">284.4</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1985-86</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">158.3</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1986-87</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">187.4</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1987-88</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">103.9</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1988-89</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">181.4</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1989-90</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">175.6</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1990-91</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">143.9</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1991-92</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">335.0</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1992-93</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">351.7</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1993-94</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">223.4</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1994-95</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">373.2</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1995-96</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">183.0</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1996-97</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">244.0</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1997-98</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">268.0</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1998-99</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">237.2</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">1999-00</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">268.6</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">2000-01</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">306.1</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="13">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">2001-02</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">162.7</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="1">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">2002-03</font></p>
+    </td>
+    <td class="Column_Color" align="right" x:num height="1">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">94.9</font></p>
+    </td>
+  </tr>
+  </table>
+  </center>
+</div>
+<p class="Footer" style="MARGIN-LEFT: 80px; MARGIN-RIGHT: 40px"><font face="Verdana" size="1">Source
+: Ministry of Agriculture, Govt. of India.</font></p>
+
+</body>  </div>   </body></html>

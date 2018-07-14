@@ -1,0 +1,622 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 12">
+<link rel=File-List href="1_files/filelist.xml">
+<style id="Tamil NadustatHTML_22_ 05_16_20431_Styles">
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+.xl6320431
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6420431
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6520431
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#7F7F7F;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6620431
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid black;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.0pt solid black;
+	background:#005195;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl6720431
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid black;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	background:#005195;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl6820431
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid black;
+	border-right:1.0pt solid black;
+	border-bottom:none;
+	border-left:none;
+	background:#005195;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl6920431
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid black;
+	border-left:1.0pt solid black;
+	background:#005195;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl7020431
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid black;
+	border-left:none;
+	background:#005195;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl7120431
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid black;
+	border-bottom:1.0pt solid black;
+	border-left:none;
+	background:#005195;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl7220431
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#7F7F7F;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7320431
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:0;
+	text-align:right;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7420431
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:1.0pt solid black;
+	border-bottom:1.0pt solid black;
+	border-left:1.0pt solid black;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;
+	padding-left:9px;
+	mso-char-indent-count:1;}
+.xl7520431
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:1.0pt solid black;
+	border-bottom:1.0pt solid black;
+	border-left:1.0pt solid black;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;
+	padding-left:9px;
+	mso-char-indent-count:1;}
+.xl7620431
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7720431
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7820431
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border-top:1.0pt solid black;
+	border-right:none;
+	border-bottom:1.0pt solid black;
+	border-left:1.0pt solid black;
+	background:#8BC4F3;
+	mso-pattern:black none;
+	white-space:normal;
+	padding-right:9px;
+	mso-char-indent-count:1;}
+.xl7920431
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border-top:1.0pt solid black;
+	border-right:none;
+	border-bottom:1.0pt solid black;
+	border-left:none;
+	background:#8BC4F3;
+	mso-pattern:black none;
+	white-space:normal;
+	padding-right:9px;
+	mso-char-indent-count:1;}
+.xl8020431
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border-top:1.0pt solid black;
+	border-right:1.0pt solid black;
+	border-bottom:1.0pt solid black;
+	border-left:none;
+	background:#8BC4F3;
+	mso-pattern:black none;
+	white-space:normal;
+	padding-right:9px;
+	mso-char-indent-count:1;}
+.xl8120431
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:1.0pt solid black;
+	border-bottom:1.0pt solid black;
+	border-left:1.0pt solid black;
+	background:#8BC4F3;
+	mso-pattern:black none;
+	white-space:nowrap;
+	padding-left:9px;
+	mso-char-indent-count:1;}
+.xl8220431
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:1.0pt solid black;
+	border-bottom:1.0pt solid black;
+	border-left:none;
+	background:#8BC4F3;
+	mso-pattern:black none;
+	white-space:nowrap;
+	padding-right:9px;
+	mso-char-indent-count:1;}
+.xl8320431
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:0;
+	text-align:right;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:1.0pt solid black;
+	border-bottom:1.0pt solid black;
+	border-left:none;
+	background:#DFF0FF;
+	mso-pattern:black none;
+	white-space:nowrap;
+	padding-right:9px;
+	mso-char-indent-count:1;}
+.xl8420431
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:0;
+	text-align:right;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:1.0pt solid black;
+	border-bottom:1.0pt solid black;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;
+	padding-right:9px;
+	mso-char-indent-count:1;}
+.xl8520431
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:0;
+	text-align:right;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:1.0pt solid black;
+	border-bottom:1.0pt solid black;
+	border-left:none;
+	background:#DFF0FF;
+	mso-pattern:black none;
+	white-space:nowrap;
+	padding-right:9px;
+	mso-char-indent-count:1;}
+.xl8620431
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:0;
+	text-align:right;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:1.0pt solid black;
+	border-bottom:1.0pt solid black;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;
+	padding-right:9px;
+	mso-char-indent-count:1;}
+-->
+</style>
+</head>
+
+ <body oncontextmenu='return false;' onload='javascript:MyIpIs();'  onkeydown='return onkeyDowEvent(event)'>  </noscript> <script language='JavaScript'>  function msg() { alert('Please download file, Save as not allowed');  }  function MyIpIs() { var elem = document.getElementById('toc'); elem.style.visibility='hidden';   var url=window.location.href;  var ind =url.indexOf('.com'); var ind1 =url.indexOf('.local'); if(ind == -1 || ind1 ==-1 ) { elem.style.visibility='visible'; } else { elem.style.visibility='hidden'; elem.parentNode.removeChild(elem); msg(); } } </script> <script type='text/javascript'>  function onkeyDowEvent(e) { var keycode; var keyName=''; if(window.event) {if(e.ctrlKey){return false ; } else {return true; }            } return true; } </script> <span style='display:none;' id='myIp'></span><span style='display:none;' id='S1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div id='toc' style='visibility=hidden;' oncopy='retuns false;'>
+<!--[if !excel]>&nbsp;&nbsp;<![endif]-->
+<!--The following information was generated by Microsoft Office Excel's Publish
+as Web Page wizard.-->
+<!--If the same item is republished from Excel, all information between the DIV
+tags will be replaced.-->
+<!----------------------------->
+<!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
+<!----------------------------->
+
+<div id="Tamil NadustatHTML_22_ 05_16_20431" align=center x:publishsource="Excel"><!--The following information was generated by Microsoft Office Excel's Publish
+as Web Page wizard.--><!--If the same item is republished from Excel, all information between the DIV
+tags will be replaced.--><!-----------------------------><!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD --><!----------------------------->
+
+<table border=0 cellpadding=0 cellspacing=0 width=691 style='border-collapse:
+ collapse;table-layout:fixed;width:520pt'>
+ <col class=xl6320431 width=212 style='mso-width-source:userset;mso-width-alt:
+ 7753;width:159pt'>
+ <col class=xl6320431 width=97 style='mso-width-source:userset;mso-width-alt:
+ 3547;width:73pt'>
+ <col class=xl6320431 width=93 style='mso-width-source:userset;mso-width-alt:
+ 3401;width:70pt'>
+ <col class=xl6320431 width=94 style='mso-width-source:userset;mso-width-alt:
+ 3437;width:71pt'>
+ <col class=xl6320431 width=97 style='mso-width-source:userset;mso-width-alt:
+ 3547;width:73pt'>
+ <col class=xl6320431 width=98 style='mso-width-source:userset;mso-width-alt:
+ 3584;width:74pt'>
+ <tr class=xl7720431 height=17 style='height:12.75pt'>
+  <td colspan=6 height=17 class=xl6620431 width=691 style='border-right:1.0pt solid black;
+  height:12.75pt;width:520pt'>Per Capita Net State Domestic Product
+  at Factor Cost in Tamil Nadu</td>
+ </tr>
+ <tr class=xl7720431 height=19 style='mso-height-source:userset;height:14.25pt'>
+  <td colspan=6 height=19 class=xl6920431 width=691 style='border-right:1.0pt solid black;
+  height:14.25pt;width:520pt'>{(At Current Prices based on 2011-2012 Series)
+  (2011-2012 to 2015-2016)}</td>
+ </tr>
+ <tr class=xl7720431 height=14 style='mso-height-source:userset;height:10.9pt'>
+  <td colspan=6 height=14 class=xl7820431 width=691 style='border-right:1.0pt solid black;
+  height:10.9pt;width:520pt'>(In Rs.)</td>
+ </tr>
+ <tr class=xl6320431 height=14 style='mso-height-source:userset;height:10.9pt'>
+  <td height=14 class=xl8120431 style='height:10.9pt'>State</td>
+  <td class=xl8220431>2011-2012</td>
+  <td class=xl8220431>2012-2013</td>
+  <td class=xl8220431>2013-2014</td>
+  <td class=xl8220431>2014-2015</td>
+  <td class=xl8220431>2015-2016</td>
+ </tr>
+ <tr class=xl6320431 height=14 style='mso-height-source:userset;height:10.9pt'>
+  <td height=14 class=xl7420431 style='height:10.9pt'>Tamil Nadu</td>
+  <td class=xl8320431>93042</td>
+  <td class=xl8420431>104486</td>
+  <td class=xl8320431>120593</td>
+  <td class=xl8420431>135806</td>
+  <td class=xl8320431>NA</td>
+ </tr>
+ <tr class=xl6320431 height=14 style='mso-height-source:userset;height:10.9pt'>
+  <td height=14 class=xl7520431 style='height:10.9pt'>India</td>
+  <td class=xl8520431>63460</td>
+  <td class=xl8620431>71050</td>
+  <td class=xl8520431>79412</td>
+  <td class=xl8620431>86879</td>
+  <td class=xl8520431>93231</td>
+ </tr>
+ <tr class=xl6320431 height=14 style='mso-height-source:userset;height:10.9pt'>
+  <td height=14 class=xl6320431 style='height:10.9pt'></td>
+  <td class=xl6320431></td>
+  <td class=xl6320431></td>
+  <td class=xl6320431></td>
+  <td class=xl6320431></td>
+  <td class=xl6320431></td>
+ </tr>
+ <tr class=xl6320431 height=14 style='mso-height-source:userset;height:10.9pt'>
+  <td height=14 class=xl6520431 style='height:10.9pt'>Abbr. : NA : Not
+  Available.</td>
+  <td class=xl6320431></td>
+  <td class=xl6320431></td>
+  <td class=xl6320431></td>
+  <td class=xl6320431></td>
+  <td class=xl6320431></td>
+ </tr>
+ <tr class=xl6420431 height=12 style='mso-height-source:userset;height:9.6pt'>
+  <td height=12 class=xl6520431 style='height:9.6pt'>Note : Position As on
+  29.02.2016.</td>
+  <td class=xl7320431></td>
+  <td class=xl7320431></td>
+  <td class=xl7320431></td>
+  <td class=xl7320431></td>
+  <td class=xl7320431></td>
+ </tr>
+ <tr class=xl6420431 height=13 style='mso-height-source:userset;height:10.15pt'>
+  <td colspan=2 height=13 class=xl7220431 style='height:10.15pt'>Source :
+  Central Statistical Organisation. (ON997)</td>
+  <td class=xl7320431></td>
+  <td class=xl7320431></td>
+  <td class=xl7320431></td>
+  <td class=xl7320431></td>
+ </tr>
+ <tr class=xl6320431 height=14 style='mso-height-source:userset;height:10.9pt'>
+  <td height=14 class=xl6320431 style='height:10.9pt'></td>
+  <td class=xl6320431></td>
+  <td class=xl6320431></td>
+  <td class=xl6320431></td>
+  <td class=xl6320431></td>
+  <td class=xl6320431><!-----------------------------><!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD--><!-----------------------------></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=212 style='width:159pt'></td>
+  <td width=97 style='width:73pt'></td>
+  <td width=93 style='width:70pt'></td>
+  <td width=94 style='width:71pt'></td>
+  <td width=97 style='width:73pt'></td>
+  <td width=98 style='width:74pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</div>
+
+
+<!----------------------------->
+<!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
+<!----------------------------->
+</body>  </div>   </body></html>

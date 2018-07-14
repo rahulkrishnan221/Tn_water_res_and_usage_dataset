@@ -1,0 +1,139 @@
+<html>
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>New Page 1</title>
+<style>
+<!--
+.Header1     { font-family: Verdana; font-size: 10pt; color: #306460; font-weight: bold; 
+               text-align: Center; background-color: #FFCC90 }
+.FirstCol    { font-family: Verdana; font-size: 8pt; line-height: 8pt; text-align: Left }
+.Footer      { font-family: Verdana; font-size: 8pt; color: #808080; text-align: Left; 
+               margin-left: 40; margin-right: 80 }
+.Column_Normal { font-family: Verdana; font-size: 8pt; line-height: 8pt;text-align: Right }
+.Column_Color { font-family: Verdana; font-size: 8pt; background-color: #FFD8A8; line-height: 8pt; text-align: 
+               Right }
+.Header2     { font-family: Verdana; font-size: 8pt; color: #306460; background-color: 
+               #A5E3E7; font-weight: bold; text-align: Center }
+-->
+</style>
+</head>
+
+ <body oncontextmenu='return false;' onload='javascript:MyIpIs();'  onkeydown='return onkeyDowEvent(event)'>  </noscript> <script language='JavaScript'>  function msg() { alert('Please download file, Save as not allowed');  }  function MyIpIs() { var elem = document.getElementById('toc'); elem.style.visibility='hidden';   var url=window.location.href;  var ind =url.indexOf('.com'); var ind1 =url.indexOf('.local'); if(ind == -1 || ind1 ==-1 ) { elem.style.visibility='visible'; } else { elem.style.visibility='hidden'; elem.parentNode.removeChild(elem); msg(); } } </script> <script type='text/javascript'>  function onkeyDowEvent(e) { var keycode; var keyName=''; if(window.event) {if(e.ctrlKey){return false ; } else {return true; }            } return true; } </script> <span style='display:none;' id='myIp'></span><span style='display:none;' id='S1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div id='toc' style='visibility=hidden;' oncopy='retuns false;'>
+
+<div align="center">
+  <center>
+  <table width="490" border="1" cellspacing="0" cellpadding="0">
+    <col width="182" style="mso-width-source:userset;mso-width-alt:6656;width:137pt">
+    <col width="100" style="mso-width-source:userset;mso-width-alt:3657;width:75pt">
+    <col width="54" span="5" style="mso-width-source:userset;mso-width-alt:1974;
+ width:41pt">
+    <col width="56" style="mso-width-source:userset;mso-width-alt:2048;width:42pt">
+   <tr height="50" style="mso-height-source:userset;height:37.5pt">
+      <td colspan="8" class="Header1" height="30">
+        <p style="margin-left: 3; margin-right: 3" align="center">
+		<font face="Verdana" size="2">	Coverage Status of Rural Habitations with Adequate Safe Drinking Water Supply in Tamil Nadu <BR>
+		</font><font face="Verdana" size="1">(As on 05.08.2010)</font></p>
+      </td>
+    </tr>
+   <tr height="17" style="height:12.75pt">
+      <td rowspan="2" class="Header2" height="67">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">State</font></p>
+      </td>
+      <td rowspan="2" class="Header2" height="67">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">Total
+        Number of Habitations</font></p>
+      </td>
+      <td colspan="6" class="Header2" height="13">
+        <p style="margin-left: 2; margin-right: 2" align="center"><font size="1" face="Verdana">Number
+        of Habitations with Population Covered</font></p>
+      </td>
+    </tr>
+    <tr height="51" style="height:38.25pt">
+      <td class="Header2" x:num="0" height="52">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">0%</font></p>
+      </td>
+      <td class="Header2" height="52">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">&gt;0
+        % to &lt;25 %</font></p>
+      </td>
+      <td class="Header2" height="52">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">&gt;25
+        % to &lt;50 %</font></p>
+      </td>
+      <td class="Header2" height="52">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">&gt;50
+        % to &lt;75 %</font></p>
+      </td>
+      <td class="Header2" height="52">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">&gt;75
+        % to &lt;100 %</font></p>
+      </td>
+      <td class="Header2" x:num="1" height="52">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">100%</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td class="FirstCol" height="13">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Tamil
+        Nadu</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">93699</font></p>
+      </td>
+      <td class="Column_Normal" x:num height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">0</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">288</font></p>
+      </td>
+      <td class="Column_Normal" x:num height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">3901</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">4021</font></p>
+      </td>
+      <td class="Column_Normal" x:num height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">743</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">84746</font></p>
+      </td>
+    </tr>
+   <tr height="17" style="height:12.75pt">
+      <td class="FirstCol" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana"><b>India</b></font></p>
+      </td>
+      <td class="Column_Color" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana"><b>1661015</b></font></p>
+      </td>
+      <td class="Column_Normal" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana"><b>70511</b></font></p>
+      </td>
+      <td class="Column_Color" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana"><b>44409</b></font></p>
+      </td>
+      <td class="Column_Normal" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana"><b>97917</b></font></p>
+      </td>
+      <td class="Column_Color" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana"><b>154666</b></font></p>
+      </td>
+      <td class="Column_Normal" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana"><b>117191</b></font></p>
+      </td>
+      <td class="Column_Color" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana"><b>1176321</b></font></p>
+      </td>
+    </tr></table>
+  </center>
+</div>
+<p style="margin-left: 80; margin-right: 40" class="Footer"><font size="1" face="Verdana">Source
+: Lok Sabha Unstarred Question No. 2496, dated on 09.08.2010.<br>
+<br>
+
+<br><br></font></p>
+
+</body>  </div>   </body></html>

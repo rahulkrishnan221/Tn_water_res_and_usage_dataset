@@ -1,0 +1,370 @@
+<html>
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>New Page 1</title>
+<style>
+<!--
+.Header1     { font-family: Verdana; font-size: 10pt; color: #306460; font-weight: bold; 
+               text-align: Center; background-color: #FFCC90 }
+.FirstCol    { font-family: Verdana; font-size: 8pt; line-height: 8pt; text-align: Left }
+.Footer      { font-family: Verdana; font-size: 8pt; color: #808080; text-align: Left; 
+               margin-left: 40; margin-right: 80 }
+.Column_Normal { font-family: Verdana; font-size: 8pt; line-height: 8pt;text-align: Right }
+.Column_Color { font-family: Verdana; font-size: 8pt; background-color: #FFD8A8; line-height: 8pt; text-align: 
+               Right }
+.Header2     { font-family: Verdana; font-size: 8pt; color: #306460; background-color: 
+               #A5E3E7; font-weight: bold; text-align: Center }
+-->
+</style>
+</head>
+
+ <body oncontextmenu='return false;' onload='javascript:MyIpIs();'  onkeydown='return onkeyDowEvent(event)'>  </noscript> <script language='JavaScript'>  function msg() { alert('Please download file, Save as not allowed');  }  function MyIpIs() { var elem = document.getElementById('toc'); elem.style.visibility='hidden';   var url=window.location.href;  var ind =url.indexOf('.com'); var ind1 =url.indexOf('.local'); if(ind == -1 || ind1 ==-1 ) { elem.style.visibility='visible'; } else { elem.style.visibility='hidden'; elem.parentNode.removeChild(elem); msg(); } } </script> <script type='text/javascript'>  function onkeyDowEvent(e) { var keycode; var keyName=''; if(window.event) {if(e.ctrlKey){return false ; } else {return true; }            } return true; } </script> <span style='display:none;' id='myIp'></span><span style='display:none;' id='S1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div id='toc' style='visibility=hidden;' oncopy='retuns false;'>
+
+<div align="center">
+  <center>
+  <table width="480" border="1" cellspacing="0" cellpadding="0" height="1">
+    <col width="84" style="mso-width-source:userset;mso-width-alt:3072;width:63pt">
+    <col width="64" span="7" style="width:48pt">
+  </center>
+  <tr height="17" style="height:12.75pt">
+    <td colspan="8" height="1" class="Header1" width="532" style="width: 399pt">
+      <p style="margin-left: 5; margin-right: 5" align="center"><font face="Verdana" size="2">Capacity
+      and Storage of Water
+      Level of&nbsp;<br>
+ Important Reservoirs in Tamil Nadu <br>
+      </font><font face="Verdana" size="1">(As on 31.03.2004 to 31.01.2006)</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td colspan="8" height="15" class="Header2" width="532" style="width: 399pt">
+      <p style="margin-left: 5; margin-right: 5" align="right"><font face="Verdana" size="1">(In
+      Million cu. ft.)</font></p>
+    </td>
+  </tr>
+  <center>
+  <tr height="51" style="height:38.25pt">
+    <td height="1" class="Header2" width="84" style="width: 63pt">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">Reservoir</font></p>
+    </td>
+    <td class="Header2" width="64" style="width: 48pt" height="1">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">Capacity
+      at FRL</font></p>
+    </td>
+    <td class="Header2" width="64" style="width: 48pt" height="1">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">Storage
+      as on 31.1.04</font></p>
+    </td>
+    <td class="Header2" width="64" style="width: 48pt" height="1">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">%</font></p>
+    </td>
+    <td class="Header2" width="64" style="width: 48pt" height="1">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">Storage
+      as on 31.1.05</font></p>
+    </td>
+    <td class="Header2" width="64" style="width: 48pt" height="1">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">%</font></p>
+    </td>
+    <td class="Header2" width="64" style="width: 48pt" height="1">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">Storage
+      as on 31.1.06</font></p>
+    </td>
+    <td class="Header2" width="64" style="width: 48pt" height="1">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">%</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="1">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">Mettur</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="1">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">93470</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="1">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">7802</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="1">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">8.35</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="1">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">21292</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="1">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">22.78</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="1">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">82027</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="1">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">87.76</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="15">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">Bhavanisagar</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">32800</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">1264</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">3.85</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">13781</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">42.02</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">28799</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">87.8</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="15">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">Periyar</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">10570</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">1038</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">9.82</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">1247</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">11.8</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">4814</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">45.54</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="15">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">Sathanur</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">7321</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">1373</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">18.75</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">4848</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">66.22</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">7321</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">100</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="15">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">Vaigai</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">6091</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">610</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">10.01</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">422</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">6.93</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">5040</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">82.75</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="15">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">Manimuthar</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">5511</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">2311</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">41.93</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">4622</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">83.87</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">5337</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">96.84</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="15">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">Papanasam</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">5500</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">1369</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">24.89</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">3662</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">66.58</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">5151</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">93.65</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="15">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">Pechiparai</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">4450</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">199</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">4.47</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">1214</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">27.28</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">3246</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">72.94</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="15">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">Amaravathi</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">4047</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">446</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">11.02</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">1023</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">25.28</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">3460</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">85.5</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="15">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">Perunchani</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">2890</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">108</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">3.74</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">220</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">7.61</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">1295</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="15">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">44.81</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td height="1">
+      <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">Krishnagiri</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="1">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">1666</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="1">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">464</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="1">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">27.85</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="1">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">1147</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="1">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">68.85</font></p>
+    </td>
+    <td align="right" x:num class="Column_Normal" height="1">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">1607</font></p>
+    </td>
+    <td align="right" x:num class="Column_Color" height="1">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">96.46</font></p>
+    </td>
+  </tr>
+  </table>
+  </center>
+</div>
+<p style="margin-left: 80; margin-right: 40" class="Footer"><font face="Verdana" size="1">
+Compiled from the statistics released by : Evaluation and Applied Research Department, Govt. of Tamil Nadu</font>.</p>
+
+</body>  </div>   </body></html>

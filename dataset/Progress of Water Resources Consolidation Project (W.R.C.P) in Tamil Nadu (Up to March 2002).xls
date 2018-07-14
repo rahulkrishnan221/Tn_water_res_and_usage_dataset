@@ -1,0 +1,230 @@
+<html>
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>New Page 1</title>
+<style>
+<!--
+.Header1     { font-family: Verdana; font-size: 10pt; color: #306460; font-weight: bold; 
+               text-align: Center; background-color: #FFCC90 }
+.FirstCol    { font-family: Verdana; font-size: 8pt; line-height: 8pt; text-align: Left }
+.Footer      { font-family: Verdana; font-size: 8pt; color: #808080; text-align: Left; 
+               margin-left: 40; margin-right: 80 }
+.Column_Normal { font-family: Verdana; font-size: 8pt; line-height: 8pt;text-align: Right }
+.Column_Color { font-family: Verdana; font-size: 8pt; background-color: #FFD8A8; line-height: 8pt; text-align: 
+               Right }
+.Header2     { font-family: Verdana; font-size: 8pt; color: #306460; background-color: 
+               #A5E3E7; font-weight: bold; text-align: Center }
+-->
+</style>
+</head>
+
+ <body oncontextmenu='return false;' onload='javascript:MyIpIs();'  onkeydown='return onkeyDowEvent(event)'>  </noscript> <script language='JavaScript'>  function msg() { alert('Please download file, Save as not allowed');  }  function MyIpIs() { var elem = document.getElementById('toc'); elem.style.visibility='hidden';   var url=window.location.href;  var ind =url.indexOf('.com'); var ind1 =url.indexOf('.local'); if(ind == -1 || ind1 ==-1 ) { elem.style.visibility='visible'; } else { elem.style.visibility='hidden'; elem.parentNode.removeChild(elem); msg(); } } </script> <script type='text/javascript'>  function onkeyDowEvent(e) { var keycode; var keyName=''; if(window.event) {if(e.ctrlKey){return false ; } else {return true; }            } return true; } </script> <span style='display:none;' id='myIp'></span><span style='display:none;' id='S1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div id='toc' style='visibility=hidden;' oncopy='retuns false;'>
+
+<div align="center">
+  <center>
+  <table width="396" border="1" cellspacing="0" cellpadding="0" height="1">
+    <col width="147" style="mso-width-source:userset;mso-width-alt:5376;width:110pt">
+    <col width="94" style="mso-width-source:userset;mso-width-alt:3437;width:71pt">
+    <col width="77" style="mso-width-source:userset;mso-width-alt:2816;width:58pt">
+    <tr height="47" style="mso-height-source:userset;height:35.25pt">
+      <td colspan="3" height="1" class="Header1" width="392">
+        <p style="margin-left: 2; margin-right: 2"><font face="Verdana" size="2">Progress
+        of Water Resources Consolidation Project (W.R.C.P) in Tamil Nadu</font><font size="1" face="Verdana"><br>
+        (Up to March 2002)</font></p>
+      </td>
+    </tr>
+  </center>
+  <tr height="85" style="height:63.75pt">
+    <td height="1" class="Header2" width="181" x:str="Details of Works ">
+      <p style="margin-left: 2; margin-right: 2" align="left"><font size="1" face="Verdana">Details
+      of Works</font></p>
+    </td>
+    <center>
+    <td class="Header2" width="117" x:str="No. of packages Approved (including slices)&nbsp; " height="1" align="right">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">No.
+      of packages Approved (Including Slices)&nbsp;</font></p>
+    </td>
+    <td class="Header2" width="90" x:str="Value (Rs. in Crore) " height="1" align="right">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">Value
+      <br>
+      (Rs. in Crore)</font></p>
+    </td>
+    </tr>
+    <tr height="68" style="height:51.0pt">
+      <td height="1" class="FirstCol" width="181">
+        <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana">a)
+        System Improvement and Farmers' Training (SIFT) and scheme Completion</font></p>
+      </td>
+      <td class="Column_Color" width="117" x:num height="1" align="right">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">343</font></p>
+      </td>
+      <td rowspan="2" class="Column_Normal" width="90" x:num height="1" align="right">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">722.50</font></p>
+      </td>
+    </tr>
+    <tr height="34" style="height:25.5pt">
+      <td height="1" class="FirstCol" width="181">
+        <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana">b)
+        Minimum Rehabilitation Works</font></p>
+      </td>
+      <td class="Column_Color" width="117" x:num height="1" align="right">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">946</font></p>
+      </td>
+    </tr>
+    <tr height="34" style="height:25.5pt">
+      <td height="1" class="FirstCol" width="181">
+        <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana">Farmers'
+        Organization Turnover</font></p>
+      </td>
+      <td class="Column_Color" width="117" x:num height="1" align="right">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">15</font></p>
+      </td>
+      <td class="Column_Normal" width="90" x:num height="1" align="right">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">5.30</font></p>
+      </td>
+    </tr>
+    <tr height="51" style="height:38.25pt">
+      <td height="1" class="FirstCol" width="181">
+        <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana">Equipment
+        for Operation &amp; Maintenance</font></p>
+      </td>
+      <td class="Column_Color" width="117" x:num height="1" align="right">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">3</font></p>
+      </td>
+      <td class="Column_Normal" width="90" x:num height="1" align="right">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">30.00</font></p>
+      </td>
+    </tr>
+    <tr height="34" style="height:25.5pt">
+      <td height="1" class="FirstCol" width="181">
+        <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana">Irrigation
+        Management and Training Institute</font></p>
+      </td>
+      <td class="Column_Color" width="117" x:num height="1" align="right">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">14</font></p>
+      </td>
+      <td class="Column_Normal" width="90" height="1" align="right">
+        <p style="margin-left: 2; margin-right: 2" align="right"><span style="mso-spacerun:
+  yes"><font size="1" face="Verdana">&nbsp;&nbsp;&nbsp; </font></span><font size="1" face="Verdana">6.90&nbsp;</font></p>
+      </td>
+    </tr>
+    <tr height="34" style="height:25.5pt">
+      <td height="1" class="FirstCol" width="181">
+        <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana">Water
+        Planning and Research</font></p>
+      </td>
+      <td class="Column_Color" width="117" x:num height="1" align="right">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">68</font></p>
+      </td>
+      <td class="Column_Normal" width="90" x:num height="1" align="right">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">44.70</font></p>
+      </td>
+    </tr>
+    <tr height="34" style="height:25.5pt">
+      <td height="1" class="FirstCol" width="181">
+        <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana">Environmental
+        Management</font></p>
+      </td>
+      <td class="Column_Color" width="117" x:num height="1" align="right">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">12</font></p>
+      </td>
+      <td class="Column_Normal" width="90" x:num height="1" align="right">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">10.00</font></p>
+      </td>
+    </tr>
+    <tr height="51" style="height:38.25pt">
+      <td height="1" class="FirstCol" width="181">
+        <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana">Land
+        Acquisition &amp; Economic Rehabilitation</font></p>
+      </td>
+      <td class="Column_Color" width="117" x:num height="1" align="right">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">4</font></p>
+      </td>
+      <td class="Column_Normal" width="90" x:num height="1" align="right">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">12.60</font></p>
+      </td>
+    </tr>
+    <tr height="119" style="height:89.25pt">
+      <td height="1" class="FirstCol" width="181">
+        <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana">Institutional
+        Strengthening and General Such as Buildings, Computers, Vehicles,
+        Furniture's, Telephones etc and Consultancy.</font></p>
+      </td>
+      <td class="Column_Color" width="117" x:num height="1" align="right">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">311</font></p>
+      </td>
+      <td class="Column_Normal" width="90" x:num height="1" align="right">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">73.00</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="1" class="FirstCol" width="181">
+        <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana"><b>Additional
+        Schemes</b></font></p>
+      </td>
+      <td class="Column_Color" width="117" height="1" align="right">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana"><b>&nbsp;</b></font></td>
+      <td class="Column_Normal" height="1" align="right" width="90">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana"><b>&nbsp;</b></font></td>
+    </tr>
+    <tr height="51" style="height:38.25pt">
+      <td height="1" class="FirstCol" width="181">
+        <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana">a)
+        Rehabilitation of Non-System Tanks 620 Nos.</font></p>
+      </td>
+      <td class="Column_Color" width="117" x:num height="1" align="right">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">620</font></p>
+      </td>
+      <td class="Column_Normal" width="90" x:num height="1" align="right">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">106.26</font></p>
+      </td>
+    </tr>
+    <tr height="68" style="height:51.0pt">
+      <td height="1" class="FirstCol" width="181">
+        <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana">b)
+        Dam Safety spill over works. (Gomukhi, Sathanaur, willington, Vidur and
+        Sethiathope)</font></p>
+      </td>
+      <td class="Column_Color" width="117" x:num height="1" align="right">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">5</font></p>
+      </td>
+      <td class="Column_Normal" width="90" x:num height="1" align="right">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">35.74</font></p>
+      </td>
+    </tr>
+    <tr height="85" style="height:63.75pt">
+      <td height="1" class="FirstCol" width="181">
+        <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana">c)
+        Institutional Strengthening (Computerization of Management information
+        system)</font></p>
+      </td>
+      <td class="Column_Color" width="117" height="1" align="right">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">&nbsp;6</font></p>
+      </td>
+      <td class="Column_Normal" width="90" height="1" align="right">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">&nbsp;<span style="mso-spacerun:
+  yes">&nbsp; </span>15.00</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="1" class="FirstCol" width="181">
+        <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana"><b>Total</b></font></p>
+      </td>
+      <td class="Column_Color" width="117" x:num height="1" align="right">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana"><b>2347</b></font></p>
+      </td>
+      <td class="Column_Normal" width="90" x:num height="1" align="right">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana"><b>1062.00</b></font></p>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+<p class="Footer" style="margin-left: 80; margin-right: 40"><font size="1" face="Verdana">Source
+: Department of Agriculture Govt. of Tamil Nadu.
+<br><br><p align='left' style='margin-left: 80;margin-right: 80; margin-top: 0'><font size='1' face='Verdana' color='#808080'>Year: Period of fiscal year in India is April to March, e.g. year shown as 1990-91 relates to April 1990 to March 1991.</font></p><p align='left' style='margin-left: 80;margin-right: 80; margin-top: 0'><font size='1' face='Verdana' color='#808080'>Units: (a) 1 Lakh (or Lac) = 100000.</font></p><p align='left' style='margin-left: 115;margin-right: 80; margin-top: 0'><font size='1' face='Verdana' color='#808080'>(b) 1 Crore (or Cr.) = 10000000.</font></p><p align='left' style='margin-left: 80;margin-right: 80; margin-top: 0'><font size='1' face='Verdana' color='#808080'>Some part of the footnotes/units may not be applicable for this table.</font></p></font></p>
+
+</body>  </div>   </body></html>

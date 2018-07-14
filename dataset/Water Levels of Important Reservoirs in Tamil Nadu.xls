@@ -1,0 +1,613 @@
+<html>
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>New Page 1</title>
+<style>
+<!--
+.Header1     { font-family: Verdana; font-size: 10pt; color: #306460; font-weight: bold; 
+               text-align: Center; background-color: #FFCC90 }
+.FirstCol    { font-family: Verdana; font-size: 8pt; line-height: 8pt; text-align: Left }
+.Footer      { font-family: Verdana; font-size: 8pt; color: #808080; text-align: Left; 
+               margin-left: 40; margin-right: 80 }
+.Column_Normal { font-family: Verdana; font-size: 8pt; line-height: 8pt;text-align: Right }
+.Column_Color { font-family: Verdana; font-size: 8pt; background-color: #FFD8A8; line-height: 8pt; text-align: 
+               Right }
+.Header2     { font-family: Verdana; font-size: 8pt; color: #306460; background-color: 
+               #A5E3E7; font-weight: bold; text-align: Center }
+-->
+</style>
+</head>
+
+ <body oncontextmenu='return false;' onload='javascript:MyIpIs();'  onkeydown='return onkeyDowEvent(event)'>  </noscript> <script language='JavaScript'>  function msg() { alert('Please download file, Save as not allowed');  }  function MyIpIs() { var elem = document.getElementById('toc'); elem.style.visibility='hidden';   var url=window.location.href;  var ind =url.indexOf('.com'); var ind1 =url.indexOf('.local'); if(ind == -1 || ind1 ==-1 ) { elem.style.visibility='visible'; } else { elem.style.visibility='hidden'; elem.parentNode.removeChild(elem); msg(); } } </script> <script type='text/javascript'>  function onkeyDowEvent(e) { var keycode; var keyName=''; if(window.event) {if(e.ctrlKey){return false ; } else {return true; }            } return true; } </script> <span style='display:none;' id='myIp'></span><span style='display:none;' id='S1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div id='toc' style='visibility=hidden;' oncopy='retuns false;'>
+
+<div align="center">
+  <center>
+  <table width="580" border="1" cellspacing="0" cellpadding="0" height="1">
+    <col width="177" style="mso-width-source:userset;mso-width-alt:6473;width:133pt">
+    <col width="101" style="mso-width-source:userset;mso-width-alt:3693;width:76pt">
+    <col width="85" style="mso-width-source:userset;mso-width-alt:3108;width:64pt">
+    <col width="108" style="mso-width-source:userset;mso-width-alt:3949;width:81pt">
+    <col width="72" style="mso-width-source:userset;mso-width-alt:2633;width:54pt">
+    <col width="120" style="mso-width-source:userset;mso-width-alt:4388;width:90pt">
+    <col width="80" style="mso-width-source:userset;mso-width-alt:2925;width:60pt">
+    <tr height="17" style="height:12.75pt">
+      <td colspan="7" class="Header1" x:str="Water Levels of Important Reservoirs in Tamil Nadu " height="16">
+        <p style="margin-left: 5; margin-right: 5"><font face="Verdana" size="2">Water
+        Levels of Important Reservoirs in Tamil Nadu</font></p>
+      </td>
+    </tr>
+  </center>
+  <tr height="17" style="height:12.75pt">
+    <td colspan="7" class="Header2" height="13">
+      <p align="right" style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">&nbsp;(in
+      Meter)</font></p>
+    </td>
+  </tr>
+  <tr height="51" style="height:38.25pt">
+    <td class="Header2" height="1">
+      <p align="left" style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Reservoir</font></p>
+    </td>
+    <td class="Header2" height="1">
+      <p align="left" style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">District</font></p>
+    </td>
+    <td class="Header2" height="1">
+      <p align="right" style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Depth
+      of Reservoir</font></p>
+    </td>
+    <td class="Header2" height="1">
+      <p align="right" style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Live
+      Storage Level as on 31.05.2002</font></p>
+    </td>
+    <td class="Header2" height="1">
+      <p align="right" style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Storage
+      %</font></p>
+    </td>
+    <td class="Header2" height="1">
+      <p align="right" style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Live
+      Storage Level as on 1.6.2001</font></p>
+    </td>
+    <td class="Header2" height="1">
+      <p align="right" style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Storage
+      %</font></p>
+    </td>
+  </tr>
+  <center>
+  <tr height="17" style="mso-height-source:userset;height:12.75pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Irrigation
+      Reservoirs</font></p>
+    </td>
+    <td class="Column_Color" x:str="  " height="13">
+      <p style="margin-left: 5; margin-right: 5"><span style="mso-spacerun: yes"><font size="1" face="Verdana">&nbsp;</font></span></p>
+    </td>
+    <td class="Column_Normal" x:str="  " height="13">
+      <p style="margin-left: 5; margin-right: 5"><span style="mso-spacerun: yes"><font size="1" face="Verdana">&nbsp;</font></span></p>
+    </td>
+    <td class="Column_Color" x:str="  " height="13">
+      <p style="margin-left: 5; margin-right: 5"><span style="mso-spacerun: yes"><font size="1" face="Verdana">&nbsp;</font></span></p>
+    </td>
+    <td class="Column_Normal" x:str="  " height="13">
+      <p style="margin-left: 5; margin-right: 5"><span style="mso-spacerun: yes"><font size="1" face="Verdana">&nbsp;</font></span></p>
+    </td>
+    <td class="Column_Color" x:str="  " height="13">
+      <p style="margin-left: 5; margin-right: 5"><span style="mso-spacerun: yes"><font size="1" face="Verdana">&nbsp;</font></span></p>
+    </td>
+    <td class="Column_Normal" x:str="  " height="13">
+      <p style="margin-left: 5; margin-right: 5"><span style="mso-spacerun: yes"><font size="1" face="Verdana">&nbsp;</font></span></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Mettur</font></p>
+    </td>
+  </center>
+  <td class="Column_Color" height="13">
+    <p align="left" style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Salem</font></p>
+  </td>
+  <center>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">36.58</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">11.75</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">32.12</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">30.21</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">82.59</font></p>
+  </td>
+  </tr>
+  <tr height="15" style="mso-height-source:userset;height:11.25pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Bhavani
+      sagar</font></p>
+    </td>
+  </center>
+  <td class="Column_Color" height="13">
+    <p align="left" style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Erode</font></p>
+  </td>
+  <center>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">32.00</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">10.20</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">31.88</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">12.70</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">39.69</font></p>
+  </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Amaravathi</font></p>
+    </td>
+  </center>
+  <td class="Column_Color" height="13">
+    <p align="left" style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Coimbatore</font></p>
+  </td>
+  <center>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">33.53</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">12.17</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">36.30</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">12.84</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">38.29</font></p>
+  </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Sholaiyar</font></p>
+    </td>
+  </center>
+  <td class="Column_Color" height="13">
+    <p align="left" style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Coimbatore</font></p>
+  </td>
+  <center>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">48.77</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">15.58</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">31.95</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">8.38</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">17.18</font></p>
+  </td>
+  </tr>
+  <tr height="18" style="mso-height-source:userset;height:13.5pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Parambikulam</font></p>
+    </td>
+  </center>
+  <td class="Column_Color" height="13">
+    <p align="left" style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Coimbatore</font></p>
+  </td>
+  <center>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">21.95</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">2.76</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">12.57</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">3.52</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">16.04</font></p>
+  </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Aliyar</font></p>
+    </td>
+  </center>
+  <td class="Column_Color" height="13">
+    <p align="left" style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Coimbatore</font></p>
+  </td>
+  <center>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">36.58</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">22.07</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">60.33</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">19.39</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">53.01</font></p>
+  </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Thirumurthy</font></p>
+    </td>
+  </center>
+  <td class="Column_Color" height="13">
+    <p align="left" style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Coimbatore</font></p>
+  </td>
+  <center>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">18.29</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">8.02</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">43.85</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">5.60</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">30.62</font></p>
+  </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Periyar</font></p>
+    </td>
+  </center>
+  <td class="Column_Color" height="13">
+    <p align="left" style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Madurai</font></p>
+  </td>
+  <center>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">46.33</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">33.56</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">72.44</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">36.58</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">78.96</font></p>
+  </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Vaigai</font></p>
+    </td>
+  </center>
+  <td class="Column_Color" height="13">
+    <p align="left" style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Madurai</font></p>
+  </td>
+  <center>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">21.64</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">9.48</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">43.81</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">16.34</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">75.51</font></p>
+  </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Papanasam</font></p>
+    </td>
+  </center>
+  <td class="Column_Color" height="13">
+    <p align="left" style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Tirunelveli</font></p>
+  </td>
+  <center>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">45.11</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">15.99</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">35.45</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">15.67</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">34.74</font></p>
+  </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Manimuthar</font></p>
+    </td>
+  </center>
+  <td class="Column_Color" height="13">
+    <p align="left" style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Tirunelveli</font></p>
+  </td>
+  <center>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">35.97</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">23.82</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">66.22</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">15.87</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">44.12</font></p>
+  </td>
+  </tr>
+  <tr height="22" style="mso-height-source:userset;height:16.5pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Pechiparai</font></p>
+    </td>
+  </center>
+  <td class="Column_Color" height="13">
+    <p align="left" style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Kanniyakumari</font></p>
+  </td>
+  <center>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">14.63</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">5.64</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">38.55</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">7.01</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">47.92</font></p>
+  </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Perunchani</font></p>
+    </td>
+  </center>
+  <td class="Column_Color" height="13">
+    <p align="left" style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Kanniyakumari</font></p>
+  </td>
+  <center>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">22.47</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">8.52</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">37.92</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">9.59</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">42.68</font></p>
+  </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Krishnagiri</font></p>
+    </td>
+  </center>
+  <td class="Column_Color" height="13">
+    <p align="left" style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Dharmapuri</font></p>
+  </td>
+  <center>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">15.85</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">12.62</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">79.62</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">13.73</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">86.62</font></p>
+  </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Sathanur</font></p>
+    </td>
+  </center>
+  <td class="Column_Color" height="13">
+    <p align="left" style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Thiruvannamalai</font></p>
+  </td>
+  <center>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">36.27</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">23.03</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">63.50</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">25.66</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">70.75</font></p>
+  </td>
+  </tr>
+  <tr height="18" style="mso-height-source:userset;height:13.5pt">
+    <td class="FirstCol" height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Chembaram-bakkam</font></p>
+    </td>
+  </center>
+  <td class="Column_Color" height="1">
+    <p align="left" style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Kancheepuram</font></p>
+  </td>
+  <center>
+  <td class="Column_Normal" x:num height="1">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">6.71</font></p>
+  </td>
+  <td class="Column_Color" x:num height="1">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">2.34</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="1">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">34.87</font></p>
+  </td>
+  <td class="Column_Color" height="1">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Below
+    Sill Level</font></p>
+  </td>
+  <td class="Column_Normal" height="1">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">--</font></p>
+  </td>
+  </tr>
+  <tr height="17" style="mso-height-source:userset;height:12.75pt">
+    <td class="FirstCol" height="24">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Water
+      Supply Reservoirs</font></p>
+    </td>
+    <td class="Column_Color" x:str="  " height="24">
+      <p style="margin-left: 5; margin-right: 5"><span style="mso-spacerun: yes"><font size="1" face="Verdana">&nbsp;</font></span></p>
+    </td>
+    <td class="Column_Normal" x:str="  " height="24">
+      <p style="margin-left: 5; margin-right: 5"><span style="mso-spacerun: yes"><font size="1" face="Verdana">&nbsp;</font></span></p>
+    </td>
+    <td class="Column_Color" x:str="  " height="24">
+      <p style="margin-left: 5; margin-right: 5"><span style="mso-spacerun: yes"><font size="1" face="Verdana">&nbsp;</font></span></p>
+    </td>
+    <td class="Column_Normal" x:str="  " height="24">
+      <p style="margin-left: 5; margin-right: 5"><span style="mso-spacerun: yes"><font size="1" face="Verdana">&nbsp;</font></span></p>
+    </td>
+    <td class="Column_Color" x:str="  " height="24">
+      <p style="margin-left: 5; margin-right: 5"><span style="mso-spacerun: yes"><font size="1" face="Verdana">&nbsp;</font></span></p>
+    </td>
+    <td class="Column_Normal" x:str="  " height="24">
+      <p style="margin-left: 5; margin-right: 5"><span style="mso-spacerun: yes"><font size="1" face="Verdana">&nbsp;</font></span></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Poondi</font></p>
+    </td>
+  </center>
+  <td class="Column_Color" height="13">
+    <p align="left" style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Tiruvallur</font></p>
+  </td>
+  <center>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">10.66</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">7.21</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">67.64</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">5.32</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">49.91</font></p>
+  </td>
+  </tr>
+  <tr height="18" style="mso-height-source:userset;height:13.5pt">
+    <td class="FirstCol" height="24">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Sholavaram</font></p>
+    </td>
+  </center>
+  <td class="Column_Color" height="24">
+    <p align="left" style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Tiruvallur</font></p>
+  </td>
+  <center>
+  <td class="Column_Normal" x:num height="24">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">5.44</font></p>
+  </td>
+  <td class="Column_Color" height="24">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Below
+    Sill Level</font></p>
+  </td>
+  <td class="Column_Normal" height="24">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">--</font></p>
+  </td>
+  <td class="Column_Color" height="24">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Below
+    Sill Level</font></p>
+  </td>
+  <td class="Column_Normal" height="24">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">--</font></p>
+  </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Red
+      Hills</font></p>
+    </td>
+  </center>
+  <td class="Column_Color" height="13">
+    <p align="left" style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Tiruvallur</font></p>
+  </td>
+  <center>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">6.46</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">5.11</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">79.10</font></p>
+  </td>
+  <td class="Column_Color" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">1.42</font></p>
+  </td>
+  <td class="Column_Normal" x:num height="13">
+    <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">21.98</font></p>
+  </td>
+  </tr>
+  </table>
+  </center>
+</div>
+<p class="Footer" style="margin-left: 80; margin-right: 40"><font size="1" face="Verdana">Source
+: Department of Agriculture
+<br><br><p align='left' style='margin-left: 80;margin-right: 80; margin-top: 0'><font size='1' face='Verdana' color='#808080'>Year: Period of fiscal year in India is April to March, e.g. year shown as 1990-91 relates to April 1990 to March 1991.</font></p><p align='left' style='margin-left: 80;margin-right: 80; margin-top: 0'><font size='1' face='Verdana' color='#808080'>Units: (a) 1 Lakh (or Lac) = 100000.</font></p><p align='left' style='margin-left: 115;margin-right: 80; margin-top: 0'><font size='1' face='Verdana' color='#808080'>(b) 1 Crore (or Cr.) = 10000000.</font></p><p align='left' style='margin-left: 80;margin-right: 80; margin-top: 0'><font size='1' face='Verdana' color='#808080'>Some part of the footnotes/units may not be applicable for this table.</font></p></font></p>
+
+</body>  </div>   </body></html>

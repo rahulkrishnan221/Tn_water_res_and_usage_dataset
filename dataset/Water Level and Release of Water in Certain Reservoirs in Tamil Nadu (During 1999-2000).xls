@@ -1,0 +1,507 @@
+<html>
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>New Page 1</title>
+<style>
+<!--
+.Header1     { font-family: Verdana; font-size: 10pt; color: #306460; font-weight: bold; 
+               text-align: Center; background-color: #FFCC90 }
+.FirstCol    { font-family: Verdana; font-size: 8pt; line-height: 8pt; text-align: Left }
+.Footer      { font-family: Verdana; font-size: 8pt; color: #808080; text-align: Left; 
+               margin-left: 40; margin-right: 80 }
+.Column_Normal { font-family: Verdana; font-size: 8pt; line-height: 8pt;text-align: Right }
+.Column_Color { font-family: Verdana; font-size: 8pt; background-color: #FFD8A8; line-height: 8pt; text-align: 
+               Right }
+.Header2     { font-family: Verdana; font-size: 8pt; color: #306460; background-color: 
+               #A5E3E7; font-weight: bold; text-align: Center }
+-->
+</style>
+</head>
+
+ <body oncontextmenu='return false;' onload='javascript:MyIpIs();'  onkeydown='return onkeyDowEvent(event)'>  </noscript> <script language='JavaScript'>  function msg() { alert('Please download file, Save as not allowed');  }  function MyIpIs() { var elem = document.getElementById('toc'); elem.style.visibility='hidden';   var url=window.location.href;  var ind =url.indexOf('.com'); var ind1 =url.indexOf('.local'); if(ind == -1 || ind1 ==-1 ) { elem.style.visibility='visible'; } else { elem.style.visibility='hidden'; elem.parentNode.removeChild(elem); msg(); } } </script> <script type='text/javascript'>  function onkeyDowEvent(e) { var keycode; var keyName=''; if(window.event) {if(e.ctrlKey){return false ; } else {return true; }            } return true; } </script> <span style='display:none;' id='myIp'></span><span style='display:none;' id='S1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div id='toc' style='visibility=hidden;' oncopy='retuns false;'>
+
+<div align="center">
+  <center>
+  <table width="580" border="1" cellspacing="0" cellpadding="0" height="1">
+    <col width="182" style="mso-width-source:userset;mso-width-alt:6656;width:137pt">
+    <col width="78" style="mso-width-source:userset;mso-width-alt:2852;width:59pt">
+    <col width="64" span="6" style="width:48pt">
+    <tr height="17" style="height:12.75pt">
+      <td colspan="8" class="Header1" height="1">
+        <p align="center" style="margin-left: 3; margin-right: 3"><font face="Verdana" size="2">Water
+        Level &amp; Release of Water in Certain Reservoirs in Tamil Nadu <br>
+        </font><font size="1" face="Verdana">(During 1999-2000)</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td rowspan="2" class="Header2" height="1">
+        <p align="left" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Reservoir</font></p>
+      </td>
+      <td rowspan="2" class="Header2" height="1">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Full
+        Reservoir Depth (Metres)</font></p>
+      </td>
+      <td colspan="3" class="Header2" height="1">
+        <p align="center" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Highest
+        Level</font></p>
+      </td>
+      <td rowspan="2" class="Header2" height="1">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Lowest
+        Level (Metres)</font></p>
+      </td>
+      <td rowspan="2" class="Header2" height="1">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Date</font></p>
+      </td>
+      <td rowspan="2" class="Header2" height="1">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Total
+        Water Released (Tmc)</font></p>
+      </td>
+    </tr>
+    <tr height="34" style="height:25.5pt">
+      <td class="Header2" height="1">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Capacity
+        F.R.L</font></p>
+      </td>
+      <td class="Header2" height="1">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Metres</font></p>
+      </td>
+      <td class="Header2" height="1">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Date</font></p>
+      </td>
+    </tr>
+    <tr height="51" style="height:38.25pt">
+      <td class="xl27" height="1">
+        <p align="left" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Mettur<br>
+        (M.W.L. is 37.49 m)</font></p>
+      </td>
+      <td class="Column_Color" x:num height="1">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">36</font></p>
+      </td>
+      <td class="xl28" x:num height="1">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">93470</font></p>
+      </td>
+      <td class="Column_Color" x:num height="1">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">36.16</font></p>
+      </td>
+      <td class="xl28" height="1">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">24.11.99*</font></p>
+      </td>
+      <td class="Column_Color" x:num height="1">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">9.98</font></p>
+      </td>
+      <td class="xl29" height="1">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">28.09.99
+        (20.00 Hrs)</font></p>
+      </td>
+      <td class="Column_Color" x:num="216.905" height="1">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">216.905</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td class="xl30" height="13">
+        <p align="left" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Bhavani
+        Sagar</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">32</font></p>
+      </td>
+      <td class="xl28" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">32800</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">26.9</font></p>
+      </td>
+      <td class="xl28" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">15.08.99</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">53.2</font></p>
+      </td>
+      <td class="xl28" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">23.03.00</font></p>
+      </td>
+      <td class="Column_Color" x:num="55.295000000000002" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">55.295</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td class="xl30" height="13">
+        <p align="left" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Amaravathy</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">33.53</font></p>
+      </td>
+      <td class="xl28" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">-4047</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">33.44</font></p>
+      </td>
+      <td class="xl28" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">26.12.99</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">40.86</font></p>
+      </td>
+      <td class="xl28" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">18.04.99</font></p>
+      </td>
+      <td class="Column_Color" x:num="17.117999999999999" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">17.118</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td class="xl30" height="13">
+        <p align="left" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Periyar</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">46.33</font></p>
+      </td>
+      <td class="xl28" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">10570</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">39.44</font></p>
+      </td>
+      <td class="xl28" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">21.06.99</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">112.7</font></p>
+      </td>
+      <td class="xl28" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">31.01.00</font></p>
+      </td>
+      <td class="Column_Color" x:num="19.187999999999999" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">19.188</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td class="xl30" height="13">
+        <p align="left" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Vaigai</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">21.64</font></p>
+      </td>
+      <td class="xl28" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">6091</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">21.06</font></p>
+      </td>
+      <td class="xl28" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">01.04.99</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">38.6</font></p>
+      </td>
+      <td class="xl28" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">04.02.00</font></p>
+      </td>
+      <td class="Column_Color" x:num="21.995999999999999" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">21.996</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td class="xl30" height="13">
+        <p align="left" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Papanasam</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">45.11</font></p>
+      </td>
+      <td class="xl28" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">5500</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">44.81</font></p>
+      </td>
+      <td class="xl28" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">17.06.99</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">49</font></p>
+      </td>
+      <td class="xl28" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">01.10.99</font></p>
+      </td>
+      <td class="Column_Color" x:num="24.073" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">24.073</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td class="xl30" height="13">
+        <p align="left" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Manimuthar</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">35.97</font></p>
+      </td>
+      <td class="xl28" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">5511</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">31.49</font></p>
+      </td>
+      <td class="xl28" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">16.01.00</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">37.53</font></p>
+      </td>
+      <td class="xl28" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">31.08.99</font></p>
+      </td>
+      <td class="Column_Color" x:num="4.6989999999999998" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">4.699</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td class="xl30" height="13">
+        <p align="left" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Pechiparai</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">14.63</font></p>
+      </td>
+      <td class="xl28" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">4450</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">14.17</font></p>
+      </td>
+      <td class="xl28" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">23.06.99</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">18.5</font></p>
+      </td>
+      <td class="xl28" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">11.03.00</font></p>
+      </td>
+      <td class="Column_Color" x:num="18.423999999999999" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">18.424</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td class="xl30" height="13">
+        <p align="left" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Perunchani</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">23.47</font></p>
+      </td>
+      <td class="xl28" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">2890</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">22.34</font></p>
+      </td>
+      <td class="xl28" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">13.06.99</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">11</font></p>
+      </td>
+      <td class="xl28" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">28.09.99</font></p>
+      </td>
+      <td class="Column_Color" x:num="8.6609999999999996" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">8.661</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td class="xl30" height="13">
+        <p align="left" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Krishnagiri</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">15.85</font></p>
+      </td>
+      <td class="xl28" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">1666</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">15.85</font></p>
+      </td>
+      <td class="xl28" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">26.11.99</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">39.5</font></p>
+      </td>
+      <td class="xl28" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">28.04.99</font></p>
+      </td>
+      <td class="Column_Color" x:num="15.743" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">15.743</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td class="xl30" height="13">
+        <p align="left" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Sathanur</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">36.27</font></p>
+      </td>
+      <td class="xl28" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">7321</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">36.12</font></p>
+      </td>
+      <td class="xl28" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">29.12.99</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">84.75</font></p>
+      </td>
+      <td class="xl28" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">30.03.00</font></p>
+      </td>
+      <td class="Column_Color" x:num="9.6310000000000002" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">9.631</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td class="xl30" height="1">
+        <p align="left" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Sholayar
+        ( M.W.L. is 50.29 m)</font></p>
+      </td>
+      <td class="Column_Color" x:num height="1">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">48.77</font></p>
+      </td>
+      <td class="xl28" x:num height="1">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">5052</font></p>
+      </td>
+      <td class="Column_Color" x:num height="1">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">49.59</font></p>
+      </td>
+      <td class="xl28" height="1">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">22.07.99</font></p>
+      </td>
+      <td class="Column_Color" x:num height="1">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">50.21</font></p>
+      </td>
+      <td class="xl28" height="1">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">01.05.99</font></p>
+      </td>
+      <td class="Column_Color" x:num="20.972000000000001" height="1">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">20.972</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td class="xl30" height="13">
+        <p align="left" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Parambikulam</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">21.95</font></p>
+      </td>
+      <td class="xl28" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">13408</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">21.95</font></p>
+      </td>
+      <td class="xl28" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">31.07.99</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">37.7</font></p>
+      </td>
+      <td class="xl28" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">30.03.00</font></p>
+      </td>
+      <td class="Column_Color" x:num="23.529" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">23.529</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td class="xl30" height="13">
+        <p align="left" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Aliyar</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">36.58</font></p>
+      </td>
+      <td class="xl28" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">3864</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">35.51</font></p>
+      </td>
+      <td class="xl28" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">10.12.99</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">62.4</font></p>
+      </td>
+      <td class="xl28" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">30.03.00</font></p>
+      </td>
+      <td class="Column_Color" x:num="11.111000000000001" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">11.111</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td class="xl30" height="13">
+        <p align="left" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Thirumoorthy</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">18.29</font></p>
+      </td>
+      <td class="xl28" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">1744</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">17.78</font></p>
+      </td>
+      <td class="xl28" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">26.01.00</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">6.13</font></p>
+      </td>
+      <td class="xl28" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">26.07.99</font></p>
+      </td>
+      <td class="Column_Color" x:num="17.895" height="13">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">17.895</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td class="xl30" height="1">
+        <p align="left" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Poondi</font></p>
+      </td>
+      <td class="Column_Color" x:num height="1">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">10.67</font></p>
+      </td>
+      <td class="xl28" x:num height="1">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">3231</font></p>
+      </td>
+      <td class="Column_Color" x:num height="1">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">8.85</font></p>
+      </td>
+      <td class="xl28" height="1">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">01.04.99</font></p>
+      </td>
+      <td class="Column_Color" x:num height="1">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">8.64</font></p>
+      </td>
+      <td class="xl28" height="1">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">22.02.00</font></p>
+      </td>
+      <td class="Column_Color" x:num="3.734" height="1">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">3.734</font></p>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+<p class="Footer" style="margin-left: 80; margin-right: 40"><font size="1" face="Verdana">Note
+: * : 24.11.99 12.00 Moon<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+M.W.L. denotes Maximum Water Level<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Capacity at F.R.L are in MCft.<br>
+Compiled from the statistics released by : Directorate of Agriculture, Govt. of Tamil Nadu.
+<br><br><p align='left' style='margin-left: 80;margin-right: 80; margin-top: 0'><font size='1' face='Verdana' color='#808080'>Year: Period of fiscal year in India is April to March, e.g. year shown as 1990-91 relates to April 1990 to March 1991.</font></p><p align='left' style='margin-left: 80;margin-right: 80; margin-top: 0'><font size='1' face='Verdana' color='#808080'>Units: (a) 1 Lakh (or Lac) = 100000.</font></p><p align='left' style='margin-left: 115;margin-right: 80; margin-top: 0'><font size='1' face='Verdana' color='#808080'>(b) 1 Crore (or Cr.) = 10000000.</font></p><p align='left' style='margin-left: 80;margin-right: 80; margin-top: 0'><font size='1' face='Verdana' color='#808080'>Some part of the footnotes/units may not be applicable for this table.</font></p></font></p>
+
+</body>  </div>   </body></html>

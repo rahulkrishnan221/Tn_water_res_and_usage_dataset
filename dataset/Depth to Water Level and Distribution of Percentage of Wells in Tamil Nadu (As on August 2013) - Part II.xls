@@ -1,0 +1,177 @@
+<html>
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>New Page 1</title>
+<style>
+<!--
+.Header1     { font-family: Verdana; font-size: 10pt; color: #306460; font-weight: bold; 
+               text-align: Center; background-color: #FFCC90 }
+.FirstCol    { font-family: Verdana; font-size: 8pt; line-height: 8pt; text-align: Left }
+.Footer      { font-family: Verdana; font-size: 8pt; color: #808080; text-align: Left; 
+               margin-left: 40; margin-right: 80 }
+.Column_Normal { font-family: Verdana; font-size: 8pt; line-height: 8pt;text-align: Right }
+.Column_Color { font-family: Verdana; font-size: 8pt; background-color: #FFD8A8; line-height: 8pt; text-align: 
+               Right }
+.Header2     { font-family: Verdana; font-size: 8pt; color: #306460; background-color: 
+               #A5E3E7; font-weight: bold; text-align: Center }
+-->
+</style>
+</head>
+
+ <body oncontextmenu='return false;' onload='javascript:MyIpIs();'  onkeydown='return onkeyDowEvent(event)'>  </noscript> <script language='JavaScript'>  function msg() { alert('Please download file, Save as not allowed');  }  function MyIpIs() { var elem = document.getElementById('toc'); elem.style.visibility='hidden';   var url=window.location.href;  var ind =url.indexOf('.com'); var ind1 =url.indexOf('.local'); if(ind == -1 || ind1 ==-1 ) { elem.style.visibility='visible'; } else { elem.style.visibility='hidden'; elem.parentNode.removeChild(elem); msg(); } } </script> <script type='text/javascript'>  function onkeyDowEvent(e) { var keycode; var keyName=''; if(window.event) {if(e.ctrlKey){return false ; } else {return true; }            } return true; } </script> <span style='display:none;' id='myIp'></span><span style='display:none;' id='S1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div id='toc' style='visibility=hidden;' oncopy='retuns false;'>
+
+<div align="center">
+  <center>
+  <table width="560" border="1" cellspacing="0" cellpadding="0">
+    <col width="99" span="4" style="mso-width-source:userset;mso-width-alt:4224;
+ width:74pt">
+    <col width="94" style="mso-width-source:userset;mso-width-alt:4010;width:71pt">
+    <col width="70" style="mso-width-source:userset;mso-width-alt:2986;width:53pt">
+    <col width="73" style="mso-width-source:userset;mso-width-alt:3114;width:55pt">
+    <col width="93" style="mso-width-source:userset;mso-width-alt:3968;width:70pt">
+    <col width="65" style="mso-width-source:userset;mso-width-alt:2773;width:49pt">
+    <col width="51" style="mso-width-source:userset;mso-width-alt:2176;width:38pt">
+   <tr height="17" style="height:12.75pt">
+      <td class="Header1" colspan="10" style="mso-ignore: colspan" height="1">
+        <p style="margin-left: 0; margin-right: 0" align="center">
+		<font face="Verdana" size="2">	Depth to Water Level and Distribution of Percentage<br>
+        of Wells in Tamil Nadu - Part II <BR>
+		</font><font face="Verdana" size="1">(As on August 2013)</font></p>
+      </td>
+    </tr>
+   <tr height="17" style="mso-height-source:userset;height:12.75pt">
+      <td rowspan="3" class="Header2" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="left"><font face="Verdana" size="1">State</font></p>
+      </td>
+      <td rowspan="3" class="Header2" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">Number
+        of wells Ana-<br>
+        lysed</font></p>
+      </td>
+      <td colspan="2" rowspan="2" class="Header2" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="center"><font class="font6" size="1" face="Verdana">Depth
+        to Water<br>
+        Level (m bgl)</font></p>
+      </td>
+      <td class="Header2" colspan="6" style="mso-ignore: colspan" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="center"><font class="font6" size="1" face="Verdana">Number
+        and Percentage of Wells Showing Depth to Water Level (m bgl) in the
+        Range of</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td colspan="2" class="Header2" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="center"><font class="font6" size="1" face="Verdana">10-20</font></p>
+      </td>
+      <td colspan="2" class="Header2" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="center"><font class="font6" size="1" face="Verdana">20-40</font></p>
+      </td>
+      <td colspan="2" class="Header2" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="center"><font class="font6" size="1" face="Verdana">&gt;
+        40</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td class="Header2" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font class="font6" size="1" face="Verdana">Min</font></p>
+      </td>
+      <td class="Header2" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font class="font6" size="1" face="Verdana">Max</font></p>
+      </td>
+      <td class="Header2" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">Num-<br>
+        ber</font></p>
+      </td>
+      <td class="Header2" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font class="font6" size="1" face="Verdana">%</font></p>
+      </td>
+      <td class="Header2" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">Num-<br>
+        ber</font></p>
+      </td>
+      <td class="Header2" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font class="font6" size="1" face="Verdana">%</font></p>
+      </td>
+      <td class="Header2" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">Num-<br>
+        ber</font></p>
+      </td>
+      <td class="Header2" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font class="font6" size="1" face="Verdana">%</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td class="FirstCol" height="13">
+        <p style="margin-left: 2; margin-right: 2" align="left"><font class="font5" size="1" face="Verdana">Tamil
+        Nadu</font></p>
+      </td>
+      <td class="Column_Color" height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">589</font></p>
+      </td>
+      <td class="Column_Normal" height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">0.15</font></p>
+      </td>
+      <td class="Column_Color" height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">70.15</font></p>
+      </td>
+      <td class="Column_Normal" height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">155</font></p>
+      </td>
+      <td class="Column_Color" height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">26.32</font></p>
+      </td>
+      <td class="Column_Normal" height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">28</font></p>
+      </td>
+      <td class="Column_Color" height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">4.75</font></p>
+      </td>
+      <td class="Column_Normal" height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">5</font></p>
+      </td>
+      <td class="Column_Color" height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">0.85</font></p>
+      </td>
+    </tr>
+   <tr height="17" style="height:12.75pt">
+      <td class="FirstCol" height="13">
+        <p style="margin-left: 2; margin-right: 2" align="left"><b><font face="Verdana" size="1">India</font></b></p>
+      </td>
+      <td class="Column_Color" height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><b><font face="Verdana" size="1">12673</font></b></p>
+      </td>
+      <td class="Column_Normal" height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><b><font face="Verdana" size="1">0</font></b></p>
+      </td>
+      <td class="Column_Color" height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><b><font face="Verdana" size="1">119.6</font></b></p>
+      </td>
+      <td class="Column_Normal" height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><b><font face="Verdana" size="1">1280</font></b></p>
+      </td>
+      <td class="Column_Color" height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><b><font face="Verdana" size="1">10.1</font></b></p>
+      </td>
+      <td class="Column_Normal" height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><b><font face="Verdana" size="1">416</font></b></p>
+      </td>
+      <td class="Column_Color" height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><b><font face="Verdana" size="1">3.28</font></b></p>
+      </td>
+      <td class="Column_Normal" height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><b><font face="Verdana" size="1">214</font></b></p>
+      </td>
+      <td class="Column_Color" height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><b><font face="Verdana" size="1">1.69</font></b></p>
+      </td>
+    </tr></table>
+  </center>
+</div>
+<p style="margin-left: 80; margin-right: 40" class="Footer"><font face="Verdana" size="1">Source
+: Ministry of Water Resources, Govt. of India. (ON583)
+<br></font></p>
+
+</body>  </div>   </body></html>

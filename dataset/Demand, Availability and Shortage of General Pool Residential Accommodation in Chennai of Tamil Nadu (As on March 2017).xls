@@ -1,0 +1,284 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 12">
+<link rel=File-List href="1084714_files/filelist.xml">
+<style id="Lok Sabha 5.04.2017 HTML.Parvej_853_Styles">
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+.font5853
+	{color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;}
+.font6853
+	{color:white;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;}
+.xl78853
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#7F7F7F;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl79853
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl80853
+	{color:black;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;
+	padding-right:12px;
+	mso-char-indent-count:1;}
+.xl81853
+	{color:black;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	background:#DFF0FF;
+	mso-pattern:black none;
+	white-space:nowrap;
+	padding-right:12px;
+	mso-char-indent-count:1;}
+.xl82853
+	{color:black;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	background:#8BC4F3;
+	mso-pattern:black none;
+	white-space:nowrap;
+	padding-left:12px;
+	mso-char-indent-count:1;}
+.xl83853
+	{color:black;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	background:#8BC4F3;
+	mso-pattern:black none;
+	white-space:nowrap;
+	padding-right:12px;
+	mso-char-indent-count:1;}
+.xl84853
+	{color:black;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;
+	padding-left:12px;
+	mso-char-indent-count:1;}
+.xl85853
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	background:#005195;
+	mso-pattern:black none;
+	white-space:normal;}
+-->
+</style>
+</head>
+
+ <body oncontextmenu='return false;' onload='javascript:MyIpIs();'  onkeydown='return onkeyDowEvent(event)'>  </noscript> <script language='JavaScript'>  function msg() { alert('Please download file, Save as not allowed');  }  function MyIpIs() { var elem = document.getElementById('toc'); elem.style.visibility='hidden';   var url=window.location.href;  var ind =url.indexOf('.com'); var ind1 =url.indexOf('.local'); if(ind == -1 || ind1 ==-1 ) { elem.style.visibility='visible'; } else { elem.style.visibility='hidden'; elem.parentNode.removeChild(elem); msg(); } } </script> <script type='text/javascript'>  function onkeyDowEvent(e) { var keycode; var keyName=''; if(window.event) {if(e.ctrlKey){return false ; } else {return true; }            } return true; } </script> <span style='display:none;' id='myIp'></span><span style='display:none;' id='S1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div id='toc' style='visibility=hidden;' oncopy='retuns false;'>
+<!--[if !excel]>&nbsp;&nbsp;<![endif]-->
+<!--The following information was generated by Microsoft Office Excel's Publish
+as Web Page wizard.-->
+<!--If the same item is republished from Excel, all information between the DIV
+tags will be replaced.-->
+<!----------------------------->
+<!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
+<!----------------------------->
+
+<div id="Lok Sabha 5.04.2017 HTML.Parvej_853" align=center
+x:publishsource="Excel">
+
+<table border=0 cellpadding=0 cellspacing=0 width=516 class=xl79853
+ style='border-collapse:collapse;table-layout:fixed;width:388pt'>
+ <col class=xl79853 width=129 span=4 style='mso-width-source:userset;
+ mso-width-alt:4579;width:97pt'>
+ <tr height=53 style='mso-height-source:userset;height:40.05pt'>
+  <td colspan=4 height=53 class=xl85853 width=516 style='height:40.05pt;
+  width:388pt'><font class="font6853">Demand, Availability and Shortage of
+  General Pool Residential<br>
+    Accommodation in Chennai of Tamil Nadu</font><font class="font5853"><br>
+    (As on March 2017)</font></td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td height=18 class=xl82853 style='height:14.1pt;border-top:none'>Types</td>
+  <td class=xl83853 style='border-top:none;border-left:none'>Demand</td>
+  <td class=xl83853 style='border-top:none;border-left:none'>Availability</td>
+  <td class=xl83853 style='border-top:none;border-left:none'>Shortage</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.9pt'>
+  <td height=17 class=xl84853 style='height:12.9pt;border-top:none'>I</td>
+  <td class=xl81853 style='border-top:none;border-left:none'>834</td>
+  <td class=xl80853 style='border-top:none;border-left:none'>450</td>
+  <td class=xl81853 style='border-top:none;border-left:none'>384</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.9pt'>
+  <td height=17 class=xl84853 style='height:12.9pt;border-top:none'>II</td>
+  <td class=xl81853 style='border-top:none;border-left:none'>1953</td>
+  <td class=xl80853 style='border-top:none;border-left:none'>944</td>
+  <td class=xl81853 style='border-top:none;border-left:none'>1009</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.9pt'>
+  <td height=17 class=xl84853 style='height:12.9pt;border-top:none'>III</td>
+  <td class=xl81853 style='border-top:none;border-left:none'>1839</td>
+  <td class=xl80853 style='border-top:none;border-left:none'>660</td>
+  <td class=xl81853 style='border-top:none;border-left:none'>1179</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.9pt'>
+  <td height=17 class=xl84853 style='height:12.9pt;border-top:none'>IV</td>
+  <td class=xl81853 style='border-top:none;border-left:none'>877</td>
+  <td class=xl80853 style='border-top:none;border-left:none'>379</td>
+  <td class=xl81853 style='border-top:none;border-left:none'>498</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.9pt'>
+  <td height=17 class=xl84853 style='height:12.9pt;border-top:none'>V</td>
+  <td class=xl81853 style='border-top:none;border-left:none'>210</td>
+  <td class=xl80853 style='border-top:none;border-left:none'>138</td>
+  <td class=xl81853 style='border-top:none;border-left:none'>72</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.9pt'>
+  <td height=17 class=xl84853 style='height:12.9pt;border-top:none'>VI</td>
+  <td class=xl81853 style='border-top:none;border-left:none'>37</td>
+  <td class=xl80853 style='border-top:none;border-left:none'>20</td>
+  <td class=xl81853 style='border-top:none;border-left:none'>17</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.9pt'>
+  <td height=17 class=xl84853 style='height:12.9pt;border-top:none'>HSU</td>
+  <td class=xl81853 style='border-top:none;border-left:none'>120</td>
+  <td class=xl80853 style='border-top:none;border-left:none'>20</td>
+  <td class=xl81853 style='border-top:none;border-left:none'>100</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.9pt'>
+  <td height=17 class=xl84853 style='height:12.9pt;border-top:none'>HUD</td>
+  <td class=xl81853 style='border-top:none;border-left:none'>93</td>
+  <td class=xl80853 style='border-top:none;border-left:none'>30</td>
+  <td class=xl81853 style='border-top:none;border-left:none'>63</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.9pt'>
+  <td height=17 class=xl79853 style='height:12.9pt'></td>
+  <td class=xl79853></td>
+  <td class=xl79853></td>
+  <td class=xl79853></td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.9pt'>
+  <td height=17 class=xl78853 colspan=4 style='height:12.9pt'>Source : Lok
+  Sabha Unstarred Question No. 5114, dated on 05.04.2017.</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.9pt'>
+  <td height=17 class=xl79853 style='height:12.9pt'></td>
+  <td class=xl79853></td>
+  <td class=xl79853></td>
+  <td class=xl79853></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=129 style='width:97pt'></td>
+  <td width=129 style='width:97pt'></td>
+  <td width=129 style='width:97pt'></td>
+  <td width=129 style='width:97pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</div>
+
+
+<!----------------------------->
+<!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
+<!----------------------------->
+</body>  </div>   </body></html>

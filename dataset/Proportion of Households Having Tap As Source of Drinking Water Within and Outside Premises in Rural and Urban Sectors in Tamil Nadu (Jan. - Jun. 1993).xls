@@ -1,0 +1,124 @@
+<html>
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>New Page 1</title>
+<style>
+<!--
+.Header1     { font-family: Verdana; font-size: 10pt; color: #306460; font-weight: bold; 
+               text-align: Center; background-color: #FFCC90 }
+.FirstCol    { font-family: Verdana; font-size: 8pt; line-height: 8pt; text-align: Left }
+.Footer      { font-family: Verdana; font-size: 8pt; color: #808080; text-align: Left; 
+               margin-left: 40; margin-right: 80 }
+.Column_Normal { font-family: Verdana; font-size: 8pt; line-height: 8pt;text-align: Right }
+.Column_Color { font-family: Verdana; font-size: 8pt; background-color: #FFD8A8; line-height: 8pt; text-align: 
+               Right }
+.Header2     { font-family: Verdana; font-size: 8pt; color: #306460; background-color: 
+               #A5E3E7; font-weight: bold; text-align: Center }
+-->
+</style>
+</head>
+
+ <body oncontextmenu='return false;' onload='javascript:MyIpIs();'  onkeydown='return onkeyDowEvent(event)'>  </noscript> <script language='JavaScript'>  function msg() { alert('Please download file, Save as not allowed');  }  function MyIpIs() { var elem = document.getElementById('toc'); elem.style.visibility='hidden';   var url=window.location.href;  var ind =url.indexOf('.com'); var ind1 =url.indexOf('.local'); if(ind == -1 || ind1 ==-1 ) { elem.style.visibility='visible'; } else { elem.style.visibility='hidden'; elem.parentNode.removeChild(elem); msg(); } } </script> <script type='text/javascript'>  function onkeyDowEvent(e) { var keycode; var keyName=''; if(window.event) {if(e.ctrlKey){return false ; } else {return true; }            } return true; } </script> <span style='display:none;' id='myIp'></span><span style='display:none;' id='S1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div id='toc' style='visibility=hidden;' oncopy='retuns false;'>
+
+<div align="center">
+  <center>
+  <table width="580" border="1" cellspacing="0" cellpadding="0">
+    <col width="179" style="mso-width-source:userset;mso-width-alt:6546;width:134pt">
+    <col width="65" span="4" style="mso-width-source:userset;mso-width-alt:2377;
+ width:49pt">
+   <tr height="17">
+      <td colspan="5" class="Header1" height="7">
+        <p style="margin-left: 5; margin-right: 5">
+		<font face="Verdana" size="2">	Proportion of Households Having Tap As Source of Drinking Water Within and Outside Premises in Rural and Urban Sectors in Tamil Nadu <BR>
+		</font><font face="Verdana" size="1">(Jan. - Jun. 1993)</font></p>
+      </td>
+    </tr>
+   <tr height="17">
+      <td colspan="5" class="Header2" height="13">
+        <p style="margin-left: 5; margin-right: 5" align="right"><font face="Verdana" size="1">(Percentage)</font></p>
+      </td>
+    </tr>
+  </center>
+    <tr height="17">
+      <td rowspan="2" class="Header2" height="1">
+        <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">States/UTs</font></p>
+      </td>
+  <center>
+      <td colspan="2" class="Header2" height="13">
+        <p style="margin-left: 5; margin-right: 5"><font face="Verdana" size="1">Rural</font></p>
+      </td>
+      <td colspan="2" class="Header2" height="13">
+        <p style="margin-left: 5; margin-right: 5"><font face="Verdana" size="1">Urban</font></p>
+      </td>
+    </tr>
+    <tr height="34" style="height:25.5pt">
+      <td class="Header2" height="1">
+        <p style="margin-left: 5; margin-right: 5" align="right"><font face="Verdana" size="1">Within<br>
+        Premises</font></p>
+      </td>
+      <td class="Header2" height="1">
+        <p style="margin-left: 5; margin-right: 5" align="right"><font face="Verdana" size="1">Outside<br>
+        Premises</font></p>
+      </td>
+      <td class="Header2" height="1">
+        <p style="margin-left: 5; margin-right: 5" align="right"><font face="Verdana" size="1">Within<br>
+        Premises</font></p>
+      </td>
+      <td class="Header2" height="1">
+        <p style="margin-left: 5; margin-right: 5" align="right"><font face="Verdana" size="1">Outside<br>
+        Premises</font></p>
+      </td>
+    </tr>
+    <tr height="17">
+      <td class="FirstCol" height="15">
+        <p style="margin-left: 5; margin-right: 5"><font face="Verdana" size="1">Tamil
+        Nadu</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 5; margin-right: 5"><font face="Verdana" size="1">5</font></p>
+      </td>
+      <td class="Column_Normal" height="15">
+        <p style="margin-left: 5; margin-right: 5"><font face="Verdana" size="1">34</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 5; margin-right: 5"><font face="Verdana" size="1">39</font></p>
+      </td>
+      <td class="Column_Normal" height="15">
+        <p style="margin-left: 5; margin-right: 5"><font face="Verdana" size="1">28</font></p>
+      </td>
+    </tr>
+   <tr height="17">
+      <td class="FirstCol" height="13">
+        <p style="margin-left: 5; margin-right: 5"><font face="Verdana" size="1"><b>India</b></font></p>
+      </td>
+      <td class="Column_Color" height="13">
+        <p style="margin-left: 5; margin-right: 5"><font face="Verdana" size="1"><b>8</b></font></p>
+      </td>
+      <td class="Column_Normal" height="13">
+        <p style="margin-left: 5; margin-right: 5"><font face="Verdana" size="1"><b>11</b></font></p>
+      </td>
+      <td class="Column_Color" height="13">
+        <p style="margin-left: 5; margin-right: 5"><font face="Verdana" size="1"><b>51</b></font></p>
+      </td>
+      <td class="Column_Normal" height="13">
+        <p style="margin-left: 5; margin-right: 5"><font face="Verdana" size="1"><b>19</b></font></p>
+      </td>
+    </tr></table>
+  </center>
+</div><p class="Footer" style="MARGIN-LEFT: 80px; MARGIN-RIGHT: 40px"><font face="Verdana" size="1">Source
+: NSS Report No. 429, 49th Round (Jan.-Jun. 1993).</font></p>
+<p class="Footer" style="MARGIN-LEFT: 80px; MARGIN-RIGHT: 40px"><font color="#808080" face="Verdana" size="1">Year:
+Period of fiscal year in India is April to March, e.g. year shown as 1990-91
+relates to April 1990 to March 1991.</font></p>
+<p align="left" style="MARGIN-LEFT: 80px; MARGIN-RIGHT: 80px; MARGIN-TOP: 0px"><font color="#808080" face="Verdana" size="1">Units:
+(a) 1 Lakh (or Lac) = 100000.</font></p>
+<p align="left" style="MARGIN-LEFT: 115px; MARGIN-RIGHT: 80px; MARGIN-TOP: 0px"><font color="#808080" face="Verdana" size="1">(b)
+1 Crore (or Cr.) = 10000000.</font></p>
+<p align="left" style="MARGIN-LEFT: 80px; MARGIN-RIGHT: 80px; MARGIN-TOP: 0px"><font color="#808080" face="Verdana" size="1">Some
+part of the footnotes/units may not be applicable for this table.
+<br><br>Some part of the footnotes/units may not be applicable for this table.</font></p>
+
+</body>  </div>   </body></html>

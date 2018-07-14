@@ -1,0 +1,127 @@
+<html>
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>New Page 1</title>
+<style>
+<!--
+.Header1     { font-family: Verdana; font-size: 10pt; color: #306460; font-weight: bold; 
+               text-align: Center; background-color: #FFCC90 }
+.FirstCol    { font-family: Verdana; font-size: 8pt; line-height: 8pt; text-align: Left }
+.Footer      { font-family: Verdana; font-size: 8pt; color: #808080; text-align: Left; 
+               margin-left: 40; margin-right: 80 }
+.Column_Normal { font-family: Verdana; font-size: 8pt; line-height: 8pt;text-align: Right }
+.Column_Color { font-family: Verdana; font-size: 8pt; background-color: #FFD8A8; line-height: 8pt; text-align: 
+               Right }
+.Header2     { font-family: Verdana; font-size: 8pt; color: #306460; background-color: 
+               #A5E3E7; font-weight: bold; text-align: Center }
+-->
+</style>
+</head>
+
+ <body oncontextmenu='return false;' onload='javascript:MyIpIs();'  onkeydown='return onkeyDowEvent(event)'>  </noscript> <script language='JavaScript'>  function msg() { alert('Please download file, Save as not allowed');  }  function MyIpIs() { var elem = document.getElementById('toc'); elem.style.visibility='hidden';   var url=window.location.href;  var ind =url.indexOf('.com'); var ind1 =url.indexOf('.local'); if(ind == -1 || ind1 ==-1 ) { elem.style.visibility='visible'; } else { elem.style.visibility='hidden'; elem.parentNode.removeChild(elem); msg(); } } </script> <script type='text/javascript'>  function onkeyDowEvent(e) { var keycode; var keyName=''; if(window.event) {if(e.ctrlKey){return false ; } else {return true; }            } return true; } </script> <span style='display:none;' id='myIp'></span><span style='display:none;' id='S1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div id='toc' style='visibility=hidden;' oncopy='retuns false;'>
+
+
+<div align="center" style=margin-left:5;margin-right:5>  <center>
+  <table width="623" style="border-collapse: collapse" border="1" cellspacing="0" cellpadding="0" >
+    <col width="101" style="width:75.75pf;">
+    <col width="68" style="width:51.00pf;">
+    <col width="54">
+    <col width="80" style="width:60.00pf;">
+    <col width="54">
+    <col width="54">
+    <col width="56" style="width:42.00pf;">
+    <tr height="41" style="height:30.75pf;">
+      <td class="Header1" colspan="7" x:str style="color: #000000; font-size: 8.0pt; font-weight: 700; font-style: normal; text-decoration: none; text-align: center; vertical-align: middle; white-space: normal; mso-protection: locked visible" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="center"><font face="Verdana" size="2">Number<span style="mso-spacerun:yes">&nbsp;</span>of<span style="mso-spacerun:yes">&nbsp;</span>Bore<span style="mso-spacerun:yes">&nbsp;</span>Holes<span style="mso-spacerun:yes">&nbsp;</span>Drilled<span style="mso-spacerun:yes">&nbsp;</span>by
+        Central<span style="mso-spacerun:yes">&nbsp;</span>Ground<span style="mso-spacerun:yes">&nbsp;</span>Water<span style="mso-spacerun:yes">&nbsp;</span>Board
+        (CGWB)<span style="mso-spacerun:yes">&nbsp;</span>in<span style="mso-spacerun:yes">&nbsp;</span>Tamil Nadu<span style="mso-spacerun:yes"><br>
+        </span></font><font face="Verdana" size="1">(As<span style="mso-spacerun:yes">&nbsp;</span>on<span style="mso-spacerun:yes">&nbsp;</span>31.03.2011)</font></p>
+      </td>
+    </tr>
+    <tr height="32" style="height:24.00pf;">
+      <td class="Header2" x:str style="color: #000000; font-size: 8.0pt; font-weight: 700; font-style: normal; text-decoration: none; text-align: left; vertical-align: middle; white-space: normal; mso-protection: locked visible" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="left"><font face="Verdana" size="1">State</font></p>
+      </td>
+      <td class="Header2" x:str style="color: #000000; font-size: 8.0pt; font-weight: 700; font-style: normal; text-decoration: none; text-align: right; vertical-align: middle; white-space: normal; mso-protection: locked visible" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">Exploratory<span style="mso-spacerun:yes"><br>
+        </span>Well</font></p>
+      </td>
+      <td class="Header2" x:str style="color: #000000; font-size: 8.0pt; font-weight: 700; font-style: normal; text-decoration: none; text-align: right; vertical-align: middle; white-space: normal; mso-protection: locked visible" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">Pizo<br>
+        Metre</font></p>
+      </td>
+      <td class="Header2" x:str style="color: #000000; font-size: 8.0pt; font-weight: 700; font-style: normal; text-decoration: none; text-align: right; vertical-align: middle; white-space: normal; mso-protection: locked visible" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">Observation<span style="mso-spacerun:yes"><br>
+        </span>Well</font></p>
+      </td>
+      <td class="Header2" x:str style="color: #000000; font-size: 8.0pt; font-weight: 700; font-style: normal; text-decoration: none; text-align: right; vertical-align: middle; white-space: normal; mso-protection: locked visible" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">Slim<span style="mso-spacerun:yes"><br>
+        </span>Hole</font></p>
+      </td>
+      <td class="Header2" x:str style="color: #000000; font-size: 8.0pt; font-weight: 700; font-style: normal; text-decoration: none; text-align: right; vertical-align: middle; white-space: normal; mso-protection: locked visible" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">Deposit<span style="mso-spacerun:yes"><br>
+        </span>Well</font></p>
+      </td>
+      <td class="Header2" x:str style="color: #000000; font-size: 8.0pt; font-weight: 700; font-style: normal; text-decoration: none; text-align: right; vertical-align: middle; white-space: normal; mso-protection: locked visible" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">Total</font></p>
+      </td>
+    </tr>
+    <tr height="21" style="height:15.95pf;">
+      <td class="FirstCol" x:str style="color: #000000; font-size: 8.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: left; vertical-align: middle; white-space: normal; mso-protection: locked visible" height="13">
+        <p style="margin-left: 2; margin-right: 2" align="left"><font face="Verdana" size="1">Tamil<span style="mso-spacerun:yes">&nbsp;</span>Nadu</font></p>
+      </td>
+      <td class="Column_Color" x:num="1029" 00000000000 style="color: #000000; font-size: 8.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: right; vertical-align: middle; white-space: normal; mso-protection: locked visible" height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">1029</font></p>
+      </td>
+      <td class="Column_Normal" x:num="385" 000000000000 style="color: #000000; font-size: 8.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: right; vertical-align: middle; white-space: normal; mso-protection: locked visible" height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">385</font></p>
+      </td>
+      <td class="Column_Color" x:num="919" 000000000000 style="color: #000000; font-size: 8.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: right; vertical-align: middle; white-space: normal; mso-protection: locked visible" height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">919</font></p>
+      </td>
+      <td class="Column_Normal" x:num="13" 0000000000000 style="color: #000000; font-size: 8.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: right; vertical-align: middle; white-space: normal; mso-protection: locked visible" height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">13</font></p>
+      </td>
+      <td class="Column_Color" x:num="93" 0000000000000 style="color: #000000; font-size: 8.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: right; vertical-align: middle; white-space: normal; mso-protection: locked visible" height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">93</font></p>
+      </td>
+      <td class="Column_Normal" x:num="1878" 00000000000 style="color: #000000; font-size: 8.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: right; vertical-align: middle; white-space: normal; mso-protection: locked visible" height="13">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">1878</font></p>
+      </td>
+    </tr>
+    <tr height="19">
+      <td class="FirstCol" x:str style="color: #000000; font-size: 8.0pt; font-weight: 700; font-style: normal; text-decoration: none; text-align: left; vertical-align: middle; white-space: normal; mso-protection: locked visible" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="left"><font face="Verdana" size="1">India</font></p>
+      </td>
+      <td class="Column_Color" x:num="15802" 0000000000 style="color: #000000; font-size: 8.0pt; font-weight: 700; font-style: normal; text-decoration: none; text-align: right; vertical-align: middle; white-space: normal; mso-protection: locked visible" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">15802</font></p>
+      </td>
+      <td class="Column_Normal" x:num="4162" 00000000000 style="color: #000000; font-size: 8.0pt; font-weight: 700; font-style: normal; text-decoration: none; text-align: right; vertical-align: middle; white-space: normal; mso-protection: locked visible" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">4162</font></p>
+      </td>
+      <td class="Column_Color" x:num="13656" 0000000000 style="color: #000000; font-size: 8.0pt; font-weight: 700; font-style: normal; text-decoration: none; text-align: right; vertical-align: middle; white-space: normal; mso-protection: locked visible" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">13656</font></p>
+      </td>
+      <td class="Column_Normal" x:num="361" 000000000000 style="color: #000000; font-size: 8.0pt; font-weight: 700; font-style: normal; text-decoration: none; text-align: right; vertical-align: middle; white-space: normal; mso-protection: locked visible" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">361</font></p>
+      </td>
+      <td class="Column_Color" x:num="3635" 00000000000 style="color: #000000; font-size: 8.0pt; font-weight: 700; font-style: normal; text-decoration: none; text-align: right; vertical-align: middle; white-space: normal; mso-protection: locked visible" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">3635</font></p>
+      </td>
+      <td class="Column_Normal" x:num="30202" 0000000000 style="color: #000000; font-size: 8.0pt; font-weight: 700; font-style: normal; text-decoration: none; text-align: right; vertical-align: middle; white-space: normal; mso-protection: locked visible" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">30202</font></p>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p class="Footer" style="MARGIN-LEFT: 80px; MARGIN-RIGHT: 40px"><font face="Verdana" size="1">Source
+:<span style="mso-spacerun: yes">&nbsp;</span>Water Resources Information System
+Directorate, Govt. of India. (ON502)<br>
+</font></p>
+
+</body>  </div>   </body></html>

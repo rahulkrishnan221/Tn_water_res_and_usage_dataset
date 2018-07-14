@@ -1,0 +1,284 @@
+<html>
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>New Page 1</title>
+<style>
+<!--
+.Header1     { font-family: Verdana; font-size: 10pt; color: #306460; font-weight: bold; 
+               text-align: Center; background-color: #FFCC90 }
+.FirstCol    { font-family: Verdana; font-size: 8pt; line-height: 8pt; text-align: Left }
+.Footer      { font-family: Verdana; font-size: 8pt; color: #808080; text-align: Left; 
+               margin-left: 40; margin-right: 80 }
+.Column_Normal { font-family: Verdana; font-size: 8pt; line-height: 8pt;text-align: Right }
+.Column_Color { font-family: Verdana; font-size: 8pt; background-color: #FFD8A8; line-height: 8pt; text-align: 
+               Right }
+.Header2     { font-family: Verdana; font-size: 8pt; color: #306460; background-color: 
+               #A5E3E7; font-weight: bold; text-align: Center }
+-->
+</style>
+</head>
+
+ <body oncontextmenu='return false;' onload='javascript:MyIpIs();'  onkeydown='return onkeyDowEvent(event)'>  </noscript> <script language='JavaScript'>  function msg() { alert('Please download file, Save as not allowed');  }  function MyIpIs() { var elem = document.getElementById('toc'); elem.style.visibility='hidden';   var url=window.location.href;  var ind =url.indexOf('.com'); var ind1 =url.indexOf('.local'); if(ind == -1 || ind1 ==-1 ) { elem.style.visibility='visible'; } else { elem.style.visibility='hidden'; elem.parentNode.removeChild(elem); msg(); } } </script> <script type='text/javascript'>  function onkeyDowEvent(e) { var keycode; var keyName=''; if(window.event) {if(e.ctrlKey){return false ; } else {return true; }            } return true; } </script> <span style='display:none;' id='myIp'></span><span style='display:none;' id='S1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div id='toc' style='visibility=hidden;' oncopy='retuns false;'>
+
+<div align="center">
+  <center>
+  <table width="480" border="1" cellspacing="0" cellpadding="0" height="1">
+    <col width="123" style="mso-width-source:userset;mso-width-alt:4498;width:92pt">
+    <col width="100" style="mso-width-source:userset;mso-width-alt:3657;width:75pt">
+    <col width="108" style="mso-width-source:userset;mso-width-alt:3949;width:81pt">
+    <col width="99" style="mso-width-source:userset;mso-width-alt:3620;width:74pt">
+    <col width="103" style="mso-width-source:userset;mso-width-alt:3766;width:77pt">
+    <col width="94" style="mso-width-source:userset;mso-width-alt:3437;width:71pt">
+    <col width="100" style="mso-width-source:userset;mso-width-alt:3657;width:75pt">
+    <col width="94" style="mso-width-source:userset;mso-width-alt:3437;width:71pt">
+    <col width="109" style="mso-width-source:userset;mso-width-alt:3986;width:82pt">
+    <col width="64" span="2" style="width:48pt">
+    <tr height="17" style="height:12.75pt">
+      <td colspan="11" class="Header1" style="width: 794pt" height="1">
+        <p style="margin-left: 5; margin-right: 5" align="center"><font face="Verdana" size="2">Category-wise
+        Water Supply Schemes in Municipalities of Tamil Nadu<br>
+        </font><font face="Verdana" size="1">(2000-2001)</font></p>
+      </td>
+    </tr>
+    <tr height="85" style="height:63.75pt">
+      <td class="Header2" style="width: 92pt" height="1">
+        <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">Classifications</font></p>
+      </td>
+      <td class="Header2" style="width: 75pt" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">Capital
+        cost of Prot-<br>
+        ected Water Supply Scheme (Rs. in Lakhs)</font></p>
+      </td>
+      <td class="Header2" style="width: 81pt" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">Total
+        Length of Pipe Line in Oper-<br>
+        ation (In Km.)</font></p>
+      </td>
+      <td class="Header2" style="width: 74pt" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">No.
+        of House Conne-<br>
+        ctions Given Till the End of the Year (In ' 000)</font></p>
+      </td>
+      <td class="Header2" style="width: 77pt" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">No.
+        of Public Tabs Prov-<br>
+        ided Till the End of the Year (In '00)</font></p>
+      </td>
+      <td class="Header2" style="width: 71pt" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">No.
+        of Pumps Prov-<br>
+        ided Till the End of the Year (In ' 00)</font></p>
+      </td>
+      <td class="Header2" style="width: 75pt" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">No.
+        of Workers Employed Under Water Supply</font></p>
+      </td>
+      <td class="Header2" style="width: 71pt" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">Total
+        Receipts (Rs. in Lakhs) Water Charges</font></p>
+      </td>
+      <td class="Header2" style="width: 82pt" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">Total
+        Running Charges for the year (Rs. in Lakhs) other Receipts</font></p>
+      </td>
+      <td class="Header2" style="width: 48pt" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">No.
+        of Drin-<br>
+        king Water Wells (In ' 00')</font></p>
+      </td>
+      <td class="Header2" style="width: 48pt" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">No.
+        of Tanks</font></p>
+      </td>
+    </tr>
+    <tr height="34" style="height:25.5pt">
+      <td class="FirstCol" style="width: 92pt" height="1">
+        <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">Special
+        Grade Municipalities</font></p>
+      </td>
+      <td class="Column_Color" style="width: 75pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">49.3</font></p>
+      </td>
+      <td class="Column_Normal" style="width: 81pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">110</font></p>
+      </td>
+      <td class="Column_Color" style="width: 74pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">48</font></p>
+      </td>
+      <td class="Column_Normal" style="width: 77pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">437</font></p>
+      </td>
+      <td class="Column_Color" style="width: 71pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">346</font></p>
+      </td>
+      <td class="Column_Normal" style="width: 75pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">567</font></p>
+      </td>
+      <td class="Column_Color" style="width: 71pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">767</font></p>
+      </td>
+      <td class="Column_Normal" style="width: 82pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">24</font></p>
+      </td>
+      <td class="Column_Color" style="width: 48pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">313</font></p>
+      </td>
+      <td class="Column_Normal" style="width: 48pt" height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">-</font></p>
+      </td>
+    </tr>
+    <tr height="34" style="height:25.5pt">
+      <td class="FirstCol" style="width: 92pt" height="1">
+        <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">Selection
+        Grade Municipalities</font></p>
+      </td>
+      <td class="Column_Color" style="width: 75pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">56.8</font></p>
+      </td>
+      <td class="Column_Normal" style="width: 81pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">127</font></p>
+      </td>
+      <td class="Column_Color" style="width: 74pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">53</font></p>
+      </td>
+      <td class="Column_Normal" style="width: 77pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">235</font></p>
+      </td>
+      <td class="Column_Color" style="width: 71pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">183</font></p>
+      </td>
+      <td class="Column_Normal" style="width: 75pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">678</font></p>
+      </td>
+      <td class="Column_Color" style="width: 71pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">351</font></p>
+      </td>
+      <td class="Column_Normal" style="width: 82pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">35</font></p>
+      </td>
+      <td class="Column_Color" style="width: 48pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">289</font></p>
+      </td>
+      <td class="Column_Normal" style="width: 48pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">97</font></p>
+      </td>
+    </tr>
+    <tr height="34" style="height:25.5pt">
+      <td class="FirstCol" style="width: 92pt" height="1">
+        <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">First
+        Grade Municipalities</font></p>
+      </td>
+      <td class="Column_Color" style="width: 75pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">78.5</font></p>
+      </td>
+      <td class="Column_Normal" style="width: 81pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">166</font></p>
+      </td>
+      <td class="Column_Color" style="width: 74pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">60</font></p>
+      </td>
+      <td class="Column_Normal" style="width: 77pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">262</font></p>
+      </td>
+      <td class="Column_Color" style="width: 71pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">237</font></p>
+      </td>
+      <td class="Column_Normal" style="width: 75pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">501</font></p>
+      </td>
+      <td class="Column_Color" style="width: 71pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">905</font></p>
+      </td>
+      <td class="Column_Normal" style="width: 82pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">72</font></p>
+      </td>
+      <td class="Column_Color" style="width: 48pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">360</font></p>
+      </td>
+      <td class="Column_Normal" style="width: 48pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">88</font></p>
+      </td>
+    </tr>
+    <tr height="34" style="height:25.5pt">
+      <td class="FirstCol" style="width: 92pt" height="1">
+        <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1">Second
+        Grade Municipalities</font></p>
+      </td>
+      <td class="Column_Color" style="width: 75pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">87.1</font></p>
+      </td>
+      <td class="Column_Normal" style="width: 81pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">263</font></p>
+      </td>
+      <td class="Column_Color" style="width: 74pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">85</font></p>
+      </td>
+      <td class="Column_Normal" style="width: 77pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">384</font></p>
+      </td>
+      <td class="Column_Color" style="width: 71pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">249</font></p>
+      </td>
+      <td class="Column_Normal" style="width: 75pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">221</font></p>
+      </td>
+      <td class="Column_Color" style="width: 71pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">450</font></p>
+      </td>
+      <td class="Column_Normal" style="width: 82pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">53</font></p>
+      </td>
+      <td class="Column_Color" style="width: 48pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">116</font></p>
+      </td>
+      <td class="Column_Normal" style="width: 48pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">62</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td class="FirstCol" style="width: 92pt" height="1">
+        <p style="margin-left: 5; margin-right: 5" align="left"><font face="Verdana" size="1"><b>Total</b></font></p>
+      </td>
+      <td class="Column_Color" style="width: 75pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1"><b>271.7</b></font></p>
+      </td>
+      <td class="Column_Normal" style="width: 81pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1"><b>666</b></font></p>
+      </td>
+      <td class="Column_Color" style="width: 74pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1"><b>246</b></font></p>
+      </td>
+      <td class="Column_Normal" style="width: 77pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1"><b>1318</b></font></p>
+      </td>
+      <td class="Column_Color" style="width: 71pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1"><b>1015</b></font></p>
+      </td>
+      <td class="Column_Normal" style="width: 75pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1"><b>1967</b></font></p>
+      </td>
+      <td class="Column_Color" style="width: 71pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1"><b>2413</b></font></p>
+      </td>
+      <td class="Column_Normal" style="width: 82pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1"><b>184</b></font></p>
+      </td>
+      <td class="Column_Color" style="width: 48pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1"><b>1078</b></font></p>
+      </td>
+      <td class="Column_Normal" style="width: 48pt" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1"><b>247</b></font></p>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+<p class="Footer" style="MARGIN-LEFT: 80px; MARGIN-RIGHT: 40px"><font face="Verdana" size="1">Source
+: Department of Economics and Statistics, Govt. of Tamil Nadu.<br>
+<br>
+</font></p>
+
+</body>  </div>   </body></html>

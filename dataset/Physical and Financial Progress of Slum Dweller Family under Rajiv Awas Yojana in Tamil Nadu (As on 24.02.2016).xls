@@ -1,0 +1,92 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252" /><meta name="ProgId" content="Excel.Sheet" /><meta name="Generator" content="Microsoft Excel 12" /><link rel="File-List" href="967125_files/filelist.xml" /><style id="correction data (Autosaved)_8820_Styles"><!--table {mso-displayed-decimal-separator:"\."; mso-displayed-thousand-separator:"\,";} .font58820 {color:white; font-size:8.0pt; font-weight:700; font-style:normal; text-decoration:none; font-family:Verdana, sans-serif; mso-font-charset:0;} .font68820 {color:white; font-size:10.0pt; font-weight:700; font-style:normal; text-decoration:none; font-family:Verdana, sans-serif; mso-font-charset:0;} .xl768820 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:8.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Verdana, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:general; vertical-align:bottom; mso-background-source:auto; mso-pattern:auto; white-space:nowrap;} .xl778820 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:#7F7F7F; font-size:8.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Verdana, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:general; vertical-align:bottom; mso-background-source:auto; mso-pattern:auto; white-space:nowrap;} .xl788820 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:#7F7F7F; font-size:8.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Verdana, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:left; vertical-align:middle; mso-background-source:auto; mso-pattern:auto; white-space:nowrap;} .xl798820 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:white; font-size:8.0pt; font-weight:700; font-style:normal; text-decoration:none; font-family:Verdana, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:center; vertical-align:middle; border:1.0pt solid black; background:#005195; mso-pattern:black none; white-space:normal;} .xl808820 {color:black; font-size:8.0pt; font-weight:700; font-style:normal; text-decoration:none; font-family:Verdana, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:right; vertical-align:middle; border:1.0pt solid black; background:#8BC4F3; mso-pattern:black none; white-space:normal; padding-right:9px; mso-char-indent-count:1;} .xl818820 {color:black; font-size:8.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Verdana, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:left; vertical-align:middle; border:1.0pt solid black; mso-background-source:auto; mso-pattern:auto; white-space:normal; padding-left:9px; mso-char-indent-count:1;} .xl828820 {color:black; font-size:8.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Verdana, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:right; vertical-align:middle; border:1.0pt solid black; background:#DFF0FF; mso-pattern:black none; white-space:normal; padding-right:9px; mso-char-indent-count:1;} .xl838820 {color:black; font-size:8.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Verdana, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:right; vertical-align:middle; border:1.0pt solid black; mso-background-source:auto; mso-pattern:auto; white-space:normal; padding-right:9px; mso-char-indent-count:1;} .xl848820 {color:black; font-size:8.0pt; font-weight:700; font-style:normal; text-decoration:none; font-family:Verdana, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:left; vertical-align:middle; border:1.0pt solid black; mso-background-source:auto; mso-pattern:auto; white-space:normal; padding-left:9px; mso-char-indent-count:1;} .xl858820 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:8.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Verdana, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:right; vertical-align:bottom; mso-background-source:auto; mso-pattern:auto; white-space:nowrap;} .xl868820 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:8.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Verdana, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:left; vertical-align:bottom; mso-background-source:auto; mso-pattern:auto; white-space:nowrap;} .xl878820 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:#7F7F7F; font-size:8.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Verdana, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:left; vertical-align:bottom; mso-background-source:auto; mso-pattern:auto; white-space:nowrap;} .xl888820 {color:black; font-size:8.0pt; font-weight:700; font-style:normal; text-decoration:none; font-family:Verdana, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:left; vertical-align:middle; border:1.0pt solid black; background:#8BC4F3; mso-pattern:black none; white-space:normal; padding-left:9px; mso-char-indent-count:1;} .xl898820 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:8.0pt; font-weight:700; font-style:normal; text-decoration:none; font-family:Verdana, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:center; vertical-align:middle; border:1.0pt solid black; background:#8BC4F3; mso-pattern:black none; white-space:normal;} .xl908820 {color:black; font-size:8.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Verdana, sans-serif; mso-font-charset:0; mso-number-format:"0\.0"; text-align:right; vertical-align:middle; border:1.0pt solid black; background:#DFF0FF; mso-pattern:black none; white-space:normal; padding-right:9px; mso-char-indent-count:1;} .xl918820 {color:black; font-size:8.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Verdana, sans-serif; mso-font-charset:0; mso-number-format:"0\.0"; text-align:right; vertical-align:middle; border:1.0pt solid black; mso-background-source:auto; mso-pattern:auto; white-space:normal; padding-right:9px; mso-char-indent-count:1;} .xl928820 {color:black; font-size:8.0pt; font-weight:700; font-style:normal; text-decoration:none; font-family:Verdana, sans-serif; mso-font-charset:0; mso-number-format:"0\.0"; text-align:right; vertical-align:middle; border:1.0pt solid black; background:#DFF0FF; mso-pattern:black none; white-space:normal; padding-right:9px; mso-char-indent-count:1;} .xl938820 {color:black; font-size:8.0pt; font-weight:700; font-style:normal; text-decoration:none; font-family:Verdana, sans-serif; mso-font-charset:0; mso-number-format:"0\.0"; text-align:right; vertical-align:middle; border:1.0pt solid black; mso-background-source:auto; mso-pattern:auto; white-space:normal; padding-right:9px; mso-char-indent-count:1;} .xl948820 {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:#7F7F7F; font-size:8.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Verdana, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:right; vertical-align:bottom; mso-background-source:auto; mso-pattern:auto; white-space:nowrap;} --></style></head><body></style> <!--[if !excel]>&nbsp;&nbsp;<![endif]--><!--The following information was generated by Microsoft Office Excel's Publish as Web Page wizard.--><!--If the same item is republished from Excel, all information between the DIV tags will be replaced.--><!-----------------------------><!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD --><!----------------------------->
+<div id="correction data (Autosaved)_8820" align="center" x:publishsource="Excel">
+<table border="0" cellpadding="0" cellspacing="0" width="897" class="xl768820" style="border-collapse:collapse;table-layout:fixed;width:672pt"> <colgroup><col class="xl868820" width="191" style="mso-width-source:userset;mso-width-alt:  6985;width:143pt" /> <col class="xl858820" width="83" span="2" style="mso-width-source:userset;  mso-width-alt:3035;width:62pt" /> <col class="xl768820" width="83" style="mso-width-source:userset;mso-width-alt:  3035;width:62pt" /> <col class="xl768820" width="89" style="mso-width-source:userset;mso-width-alt:  3254;width:67pt" /> <col class="xl768820" width="83" style="mso-width-source:userset;mso-width-alt:  3035;width:62pt" /> <col class="xl768820" width="89" style="mso-width-source:userset;mso-width-alt:  3254;width:67pt" /> <col class="xl768820" width="96" style="mso-width-source:userset;mso-width-alt:  3510;width:72pt" /> <col class="xl768820" width="100" style="mso-width-source:userset;mso-width-alt:  3657;width:75pt" /> </colgroup>
+<tbody>
+<tr height="undefined" style="mso-height-source:userset;height:30.0pt">  
+<td colspan="9" height="40" class="xl798820" width="897" style="height:30.0pt;   width:672pt"><font class="font68820">Physical and Financial Progress of Slum Dweller Family under Rajiv Awas Yojana in Tamil Nadu</font><font class="font58820"><br />
+    (As on 24.02.2016)</font></td> </tr> 
+<tr height="undefined" style="mso-height-source:userset;height:14.25pt">  
+<td rowspan="2" height="62" class="xl888820" width="191" style="height:46.5pt;   border-top:none;width:143pt">State</td>  
+<td rowspan="2" class="xl808820" width="83" style="border-top:none;width:62pt">No.   of<br />
+    Project<br />
+    Approved</td>  
+<td rowspan="2" class="xl808820" width="83" style="border-top:none;width:62pt">No.   of<br />
+    City/Town<br />
+    Covered</td>  
+<td colspan="3" class="xl898820" width="255" style="border-left:none;width:191pt">Financial   Progress (Rs in Crores)</td>  
+<td colspan="3" class="xl898820" width="285" style="border-left:none;width:214pt">Physical   Progress of Dwelling Units (Nos)</td> </tr> 
+<tr height="undefined" style="height:32.25pt">  
+<td height="43" class="xl808820" width="83" style="height:32.25pt;border-top:none;   border-left:none;width:62pt">Project<br />
+    Cost</td>  
+<td class="xl808820" width="89" style="border-top:none;border-left:none;   width:67pt">Committed</td>  
+<td class="xl808820" width="83" style="border-top:none;border-left:none;   width:62pt">Released</td>  
+<td class="xl808820" width="89" style="border-top:none;border-left:none;   width:67pt">Sanctio-<br />
+    ned</td>  
+<td class="xl808820" width="96" style="border-top:none;border-left:none;   width:72pt">Construction<br />
+    Completed</td>  
+<td class="xl808820" width="100" style="border-top:none;border-left:none;   width:75pt">At Various<br />
+    Stages of<br />
+    Construction</td> </tr> 
+<tr height="undefined" style="mso-height-source:userset;height:12.95pt">  
+<td height="17" class="xl818820" width="191" style="height:12.95pt;border-top:none;   width:143pt">Tamil Nadu</td>  
+<td class="xl908820" width="83" style="border-top:none;border-left:none;   width:62pt">15.00</td>  
+<td class="xl918820" width="83" style="border-top:none;border-left:none;   width:62pt">8.00</td>  
+<td class="xl908820" width="83" style="border-top:none;border-left:none;   width:62pt">317.40</td>  
+<td class="xl918820" width="89" style="border-top:none;border-left:none;   width:67pt">135.30</td>  
+<td class="xl908820" width="83" style="border-top:none;border-left:none;   width:62pt">84.50</td>  
+<td class="xl918820" width="89" style="border-top:none;border-left:none;   width:67pt">4880.00</td>  
+<td class="xl908820" width="96" style="border-top:none;border-left:none;   width:72pt">1416.00</td>  
+<td class="xl918820" width="100" style="border-top:none;border-left:none;   width:75pt">3464.00</td> </tr> 
+<tr height="undefined" style="mso-height-source:userset;height:12.95pt">  
+<td height="17" class="xl848820" width="191" style="height:12.95pt;border-top:none;   width:143pt">India</td>  
+<td class="xl928820" width="83" style="border-top:none;border-left:none;   width:62pt">183.00</td>  
+<td class="xl938820" width="83" style="border-top:none;border-left:none;   width:62pt">122.00</td>  
+<td class="xl928820" width="83" style="border-top:none;border-left:none;   width:62pt">7721.50</td>  
+<td class="xl938820" width="89" style="border-top:none;border-left:none;   width:67pt">3606.00</td>  
+<td class="xl928820" width="83" style="border-top:none;border-left:none;   width:62pt">1978.30</td>  
+<td class="xl938820" width="89" style="border-top:none;border-left:none;   width:67pt">141848.00</td>  
+<td class="xl928820" width="96" style="border-top:none;border-left:none;   width:72pt">15381.00</td>  
+<td class="xl938820" width="100" style="border-top:none;border-left:none;   width:75pt">65568.00</td> </tr> 
+<tr height="undefined" style="height:10.5pt">  
+<td height="14" class="xl868820" style="height:10.5pt"></td>  
+<td class="xl858820"></td>  
+<td class="xl858820"></td>  
+<td class="xl768820"></td>  
+<td class="xl768820"></td>  
+<td class="xl768820"></td>  
+<td class="xl768820"></td>  
+<td class="xl768820"></td>  
+<td class="xl768820"></td> </tr> 
+<tr height="undefined" style="height:10.5pt">  
+<td height="14" class="xl878820" colspan="5" style="height:10.5pt">Note : Ground   work for the remaining 60899 dwelling units is under progress.</td>  
+<td class="xl778820"></td>  
+<td class="xl778820"></td>  
+<td class="xl768820"></td>  
+<td class="xl768820"></td> </tr> 
+<tr height="undefined" style="height:10.5pt">  
+<td height="14" class="xl788820" colspan="4" style="height:10.5pt">Source : Lok   Sabha Unstarred Question No. 54, dated on 24.02.2016.</td>  
+<td class="xl768820"></td>  
+<td class="xl768820"></td>  
+<td class="xl768820"></td>  
+<td class="xl768820"></td>  
+<td class="xl768820"></td> </tr> 
+<tr height="undefined" style="height:10.5pt">  
+<td height="14" class="xl868820" style="height:10.5pt"></td>  
+<td class="xl858820"></td>  
+<td class="xl858820"></td>  
+<td class="xl768820"></td>  
+<td class="xl768820"></td>  
+<td class="xl768820"></td>  
+<td class="xl768820"></td>  
+<td class="xl768820"></td>  
+<td class="xl768820"></td> </tr> <!--[if supportMisalignedColumns]--> 
+<tr height="undefined" style="display:none">  
+<td width="191" style="width:143pt"></td>  
+<td width="83" style="width:62pt"></td>  
+<td width="83" style="width:62pt"></td>  
+<td width="83" style="width:62pt"></td>  
+<td width="89" style="width:67pt"></td>  
+<td width="83" style="width:62pt"></td>  
+<td width="89" style="width:67pt"></td>  
+<td width="96" style="width:72pt"></td>  
+<td width="100" style="width:75pt"></td> </tr> <!--[endif]--></tbody></table></div> <!-----------------------------><!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD--><!-----------------------------></body></html>

@@ -1,0 +1,571 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 12">
+<link rel=File-List href="1022145_files/filelist.xml">
+<style id="HTML - Statistical Handbook Tamil Nadu 2015_16792_Styles">
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+.font516792
+	{color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;}
+.font616792
+	{color:white;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;}
+.xl7716792
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#7F7F7F;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7816792
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7916792
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;
+	padding-right:9px;
+	mso-char-indent-count:1;}
+.xl8016792
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;
+	padding-left:9px;
+	mso-char-indent-count:1;}
+.xl8116792
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	background:#8BC4F3;
+	mso-pattern:black none;
+	white-space:nowrap;
+	padding-right:9px;
+	mso-char-indent-count:1;}
+.xl8216792
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	background:#DFF0FF;
+	mso-pattern:black none;
+	white-space:nowrap;
+	padding-right:9px;
+	mso-char-indent-count:1;}
+.xl8316792
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:right;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	background:#DFF0FF;
+	mso-pattern:black none;
+	white-space:nowrap;
+	padding-right:9px;
+	mso-char-indent-count:1;}
+.xl8416792
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;
+	padding-left:9px;
+	mso-char-indent-count:1;}
+.xl8516792
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;
+	padding-right:9px;
+	mso-char-indent-count:1;}
+.xl8616792
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	background:#005195;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl8716792
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	background:#8BC4F3;
+	mso-pattern:black none;
+	white-space:nowrap;
+	padding-left:9px;
+	mso-char-indent-count:1;}
+.xl8816792
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	background:#8BC4F3;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8916792
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	background:#8BC4F3;
+	mso-pattern:black none;
+	white-space:normal;
+	padding-right:9px;
+	mso-char-indent-count:1;}
+-->
+</style>
+</head>
+
+ <body oncontextmenu='return false;' onload='javascript:MyIpIs();'  onkeydown='return onkeyDowEvent(event)'>  </noscript> <script language='JavaScript'>  function msg() { alert('Please download file, Save as not allowed');  }  function MyIpIs() { var elem = document.getElementById('toc'); elem.style.visibility='hidden';   var url=window.location.href;  var ind =url.indexOf('.com'); var ind1 =url.indexOf('.local'); if(ind == -1 || ind1 ==-1 ) { elem.style.visibility='visible'; } else { elem.style.visibility='hidden'; elem.parentNode.removeChild(elem); msg(); } } </script> <script type='text/javascript'>  function onkeyDowEvent(e) { var keycode; var keyName=''; if(window.event) {if(e.ctrlKey){return false ; } else {return true; }            } return true; } </script> <span style='display:none;' id='myIp'></span><span style='display:none;' id='S1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div id='toc' style='visibility=hidden;' oncopy='retuns false;'>
+<!--[if !excel]>&nbsp;&nbsp;<![endif]-->
+<!--The following information was generated by Microsoft Office Excel's Publish
+as Web Page wizard.-->
+<!--If the same item is republished from Excel, all information between the DIV
+tags will be replaced.-->
+<!----------------------------->
+<!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
+<!----------------------------->
+
+<div id="HTML - Statistical Handbook Tamil Nadu 2015_16792" align=center
+x:publishsource="Excel">
+
+<table border=0 cellpadding=0 cellspacing=0 width=976 class=xl7816792
+ style='border-collapse:collapse;table-layout:fixed;width:731pt'>
+ <col class=xl7816792 width=133 style='mso-width-source:userset;mso-width-alt:
+ 4864;width:100pt'>
+ <col class=xl7816792 width=91 span=4 style='mso-width-source:userset;
+ mso-width-alt:3328;width:68pt'>
+ <col class=xl7816792 width=98 style='mso-width-source:userset;mso-width-alt:
+ 3584;width:74pt'>
+ <col class=xl7816792 width=103 style='mso-width-source:userset;mso-width-alt:
+ 3766;width:77pt'>
+ <col class=xl7816792 width=91 span=2 style='mso-width-source:userset;
+ mso-width-alt:3328;width:68pt'>
+ <col class=xl7816792 width=96 style='mso-width-source:userset;mso-width-alt:
+ 3510;width:72pt'>
+ <tr height=36 style='mso-height-source:userset;height:27.0pt'>
+  <td colspan=10 height=36 class=xl8616792 width=976 style='height:27.0pt;
+  width:731pt'><font class="font616792">Water Level and Release of Water in
+  Certain Reservoirs in Tamil Nadu</font><font class="font516792"><br>
+    (2013-2014)</font></td>
+ </tr>
+ <tr height=25 style='mso-height-source:userset;height:18.75pt'>
+  <td rowspan=2 height=43 class=xl8716792 style='height:32.85pt;border-top:
+  none'>Reservoirs</td>
+  <td colspan=2 class=xl8816792 style='border-left:none'>Full Reservoir Depth
+  in</td>
+  <td rowspan=2 class=xl8916792 width=91 style='border-top:none;width:68pt'>Capacity
+  @<br>
+    F.R.L in<br>
+    M.Cum</td>
+  <td rowspan=2 class=xl8916792 width=91 style='border-top:none;width:68pt'>Capacity
+  @<br>
+    F.R.L in<br>
+    M.cft</td>
+  <td colspan=2 class=xl8816792 style='border-left:none'>Highest Level Reached</td>
+  <td colspan=2 class=xl8816792 style='border-left:none'>Lowest Level Reached</td>
+  <td rowspan=2 class=xl8916792 width=96 style='border-top:none;width:72pt'>Total
+  Water<br>
+    Released<br>
+    (In TMC)</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td height=18 class=xl8116792 style='height:14.1pt;border-top:none;
+  border-left:none'>Metres</td>
+  <td class=xl8116792 style='border-top:none;border-left:none'>Feet</td>
+  <td class=xl8116792 style='border-top:none;border-left:none'>Metres</td>
+  <td class=xl8116792 style='border-top:none;border-left:none'>Date</td>
+  <td class=xl8116792 style='border-top:none;border-left:none'>Metres</td>
+  <td class=xl8116792 style='border-top:none;border-left:none'>Date</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8416792 style='height:12.95pt;border-top:none'>Mettur</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>36.58</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>120</td>
+  <td class=xl8216792 style='border-top:none;border-left:none'>2647</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>93470</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>36.92</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>07.08.2013</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>4.73</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>25.06.2013</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>222.51</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8416792 style='height:12.95pt;border-top:none'>Bhavanisagar</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>32.00</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>105</td>
+  <td class=xl8216792 style='border-top:none;border-left:none'>929</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>32800</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>26.00</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>23.08.2013</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>9.54</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>01.06.2013</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>49.03</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8416792 style='height:12.95pt;border-top:none'>Amaravathy</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>27.43</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>90</td>
+  <td class=xl8216792 style='border-top:none;border-left:none'>115</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>4047</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>26.70</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>13.09.2013</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>5.15</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>06.06.2013</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>12.36</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8416792 style='height:12.95pt;border-top:none'>Periyar</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>46.33</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>152</td>
+  <td class=xl8216792 style='border-top:none;border-left:none'>299</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>10570</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>41.21</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>09.08.2013</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>33.28</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>27.04.2014</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>21.53</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8416792 style='height:12.95pt;border-top:none'>Vaigai</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>21.64</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>71</td>
+  <td class=xl8216792 style='border-top:none;border-left:none'>172</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>6091</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>18.32</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>23.09.2013</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>6.58</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>06.05.2014</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>14.59</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8416792 style='height:12.95pt;border-top:none'>Papanasam</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>43.59</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>143</td>
+  <td class=xl8216792 style='border-top:none;border-left:none'>156</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>5500</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>39.36</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>08.08.2013</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>9.83</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>06.05.2014</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>23.76</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8416792 style='height:12.95pt;border-top:none'>Manimuthar</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>35.97</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>118</td>
+  <td class=xl8216792 style='border-top:none;border-left:none'>156</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>5511</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>25.72</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>23.01.2014</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>15.32</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>02.11.2013</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>4.32</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8416792 style='height:12.95pt;border-top:none'>Pechiparai</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>14.63</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>48</td>
+  <td class=xl8216792 style='border-top:none;border-left:none'>126</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>4450</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>8.58</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>30.06.2013</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>2.09</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>16.03.2014</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>8.38</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8416792 style='height:12.95pt;border-top:none'>Perunchani</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>23.47</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>77</td>
+  <td class=xl8216792 style='border-top:none;border-left:none'>82</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>2890</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>20.21</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>10.08.2013</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>4.54</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>01.06.2013</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>4.78</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8416792 style='height:12.95pt;border-top:none'>Krishnagiri</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>15.85</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>52</td>
+  <td class=xl8216792 style='border-top:none;border-left:none'>47</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>1666</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>5.74</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>27.11.2013</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>10.01</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>24.04.2014</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>5.93</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8416792 style='height:12.95pt;border-top:none'>Sathanur</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>36.27</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>119</td>
+  <td class=xl8216792 style='border-top:none;border-left:none'>207</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>7321</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>27.14</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>31.12.2013</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>21.11</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>13.09.2013</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>0.97</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8416792 style='height:12.95pt;border-top:none'>Poondi</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>10.66</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>35</td>
+  <td class=xl8216792 style='border-top:none;border-left:none'>91</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>3231</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>7.45</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>28.11.2013</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>5.38</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>01.04.2014</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>6.50</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8416792 style='height:12.95pt;border-top:none'>Sholayar</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>48.77</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>160</td>
+  <td class=xl8216792 style='border-top:none;border-left:none'>143</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>5052</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>50.11</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>25.07.2013</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>0.77</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>05.04.2014</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>27.21</td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td height=29 class=xl8416792 style='height:21.75pt;border-top:none'>Parambikulam</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>21.95</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>72</td>
+  <td class=xl8216792 style='border-top:none;border-left:none'>380</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>13408</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>21.95</td>
+  <td class=xl8516792 width=103 style='border-top:none;border-left:none;
+  width:77pt'>09.08.2013 and<br>
+    20.09.2013</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>2.64</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>20.06.2013</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>25.20</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8416792 style='height:12.95pt;border-top:none'>Aliyar</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>36.58</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>120</td>
+  <td class=xl8216792 style='border-top:none;border-left:none'>109</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>3864</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>50.84</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>09.11.2013</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>16.76</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>07.06.2013</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>10.99</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8416792 style='height:12.95pt;border-top:none'>Thirumoorthy</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>18.29</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>60</td>
+  <td class=xl8216792 style='border-top:none;border-left:none'>49</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>1744</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>16.69</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>08.01.2014</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>0.57</td>
+  <td class=xl7916792 style='border-top:none;border-left:none'>08.08.2013</td>
+  <td class=xl8316792 style='border-top:none;border-left:none'>17.17</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8016792 style='height:12.95pt'></td>
+  <td class=xl7816792></td>
+  <td class=xl7816792></td>
+  <td class=xl7816792></td>
+  <td class=xl7816792></td>
+  <td class=xl7816792></td>
+  <td class=xl7816792></td>
+  <td class=xl7816792></td>
+  <td class=xl7816792></td>
+  <td class=xl7816792></td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl7716792 colspan=5 style='height:12.95pt'>Source :
+  Department of Economics and Statistics, Govt. of Tamil Nadu. (16954)</td>
+  <td class=xl7816792></td>
+  <td class=xl7816792></td>
+  <td class=xl7816792></td>
+  <td class=xl7816792></td>
+  <td class=xl7816792></td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8016792 style='height:12.95pt'></td>
+  <td class=xl7816792></td>
+  <td class=xl7816792></td>
+  <td class=xl7816792></td>
+  <td class=xl7816792></td>
+  <td class=xl7816792></td>
+  <td class=xl7816792></td>
+  <td class=xl7816792></td>
+  <td class=xl7816792></td>
+  <td class=xl7816792></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=133 style='width:100pt'></td>
+  <td width=91 style='width:68pt'></td>
+  <td width=91 style='width:68pt'></td>
+  <td width=91 style='width:68pt'></td>
+  <td width=91 style='width:68pt'></td>
+  <td width=98 style='width:74pt'></td>
+  <td width=103 style='width:77pt'></td>
+  <td width=91 style='width:68pt'></td>
+  <td width=91 style='width:68pt'></td>
+  <td width=96 style='width:72pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</div>
+
+
+<!----------------------------->
+<!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
+<!----------------------------->
+</body>  </div>   </body></html>

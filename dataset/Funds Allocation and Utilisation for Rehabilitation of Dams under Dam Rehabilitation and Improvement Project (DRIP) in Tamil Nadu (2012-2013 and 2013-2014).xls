@@ -1,0 +1,131 @@
+<html>
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>New Page 1</title>
+<style>
+<!--
+.Header1     { font-family: Verdana; font-size: 10pt; color: #306460; font-weight: bold; 
+               text-align: Center; background-color: #FFCC90 }
+.FirstCol    { font-family: Verdana; font-size: 8pt; line-height: 8pt; text-align: Left }
+.Footer      { font-family: Verdana; font-size: 8pt; color: #808080; text-align: Left; 
+               margin-left: 40; margin-right: 80 }
+.Column_Normal { font-family: Verdana; font-size: 8pt; line-height: 8pt;text-align: Right }
+.Column_Color { font-family: Verdana; font-size: 8pt; background-color: #FFD8A8; line-height: 8pt; text-align: 
+               Right }
+.Header2     { font-family: Verdana; font-size: 8pt; color: #306460; background-color: 
+               #A5E3E7; font-weight: bold; text-align: Center }
+-->
+</style>
+</head>
+
+ <body oncontextmenu='return false;' onload='javascript:MyIpIs();'  onkeydown='return onkeyDowEvent(event)'>  </noscript> <script language='JavaScript'>  function msg() { alert('Please download file, Save as not allowed');  }  function MyIpIs() { var elem = document.getElementById('toc'); elem.style.visibility='hidden';   var url=window.location.href;  var ind =url.indexOf('.com'); var ind1 =url.indexOf('.local'); if(ind == -1 || ind1 ==-1 ) { elem.style.visibility='visible'; } else { elem.style.visibility='hidden'; elem.parentNode.removeChild(elem); msg(); } } </script> <script type='text/javascript'>  function onkeyDowEvent(e) { var keycode; var keyName=''; if(window.event) {if(e.ctrlKey){return false ; } else {return true; }            } return true; } </script> <span style='display:none;' id='myIp'></span><span style='display:none;' id='S1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div id='toc' style='visibility=hidden;' oncopy='retuns false;'>
+
+<div align="center">
+  <center>
+  <table width="500" border="1" cellspacing="0" cellpadding="0" height="1">
+    <col width="125" span="6" style="mso-width-source:userset;mso-width-alt:4571;
+ width:94pt">
+   <tr height="40" style="mso-height-source:userset;height:30.0pt">
+      <td colspan="6" class="Header1" style="width: 564pt" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="center">
+		<font face="Verdana" size="2">	Funds Allocation and Utilisation for Rehabilitation of Dams under Dam Rehabilitation and Improvement Project (DRIP) in Tamil Nadu <BR>
+		</font><font face="Verdana" size="1">(2012-2013 and 2013-2014)</font></p>
+      </td>
+    </tr>
+  </center>
+ <tr height="20" style="mso-height-source:userset;height:15.0pt">
+    <td colspan="6" class="Header2" style="width: 564pt" height="13">
+      <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">(Amount
+      : Rs. in Lakh)</font></p>
+    </td>
+  </tr>
+  <center>
+  <tr height="40" style="mso-height-source:userset;height:30.0pt">
+    <td rowspan="2" class="Header2" style="width: 94pt" height="28">
+      <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Implementing
+      Agency</font></p>
+    </td>
+    <td colspan="2" class="Header2" style="width: 188pt" height="13">
+      <p style="margin-left: 2; margin-right: 2" align="center"><font size="1" face="Verdana">2012-2013</font></p>
+    </td>
+    <td colspan="2" class="Header2" style="width: 188pt" height="13">
+      <p style="margin-left: 2; margin-right: 2" align="center"><font size="1" face="Verdana">2013-2014</font></p>
+    </td>
+    <td rowspan="2" class="Header2" style="width: 94pt" height="28">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">Total
+      Utilisation*</font></p>
+    </td>
+  </tr>
+  <tr height="20" style="height:15.0pt">
+    <td class="Header2" style="width: 94pt" height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">Allocation</font></p>
+    </td>
+    <td class="Header2" style="width: 94pt" height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">Utilisation</font></p>
+    </td>
+    <td class="Header2" style="width: 94pt" height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">Allocation</font></p>
+    </td>
+    <td class="Header2" style="width: 94pt" height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">Utilisation</font></p>
+    </td>
+  </tr>
+  <tr height="20" style="height:15.0pt">
+    <td class="FirstCol" align="left" style="width: 94pt" height="13">
+      <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Tamil
+      Nadu</font></p>
+    </td>
+    <td class="Column_Color" style="width: 94pt" height="13">
+      <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana">120.65</font></p>
+    </td>
+    <td class="Column_Normal" style="width: 94pt" height="13">
+      <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana">55.89</font></p>
+    </td>
+    <td class="Column_Color" style="width: 94pt" height="13">
+      <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana">39487.00</font></p>
+    </td>
+    <td class="Column_Normal" style="width: 94pt" height="13">
+      <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana">596.56</font></p>
+    </td>
+    <td class="Column_Color" style="width: 94pt" height="13">
+      <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana">652.45</font></p>
+    </td>
+  </tr>
+ <tr height="20" style="height:15.0pt">
+    <td class="FirstCol" align="left" style="width: 94pt" height="13">
+      <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana"><b>India</b></font></p>
+    </td>
+    <td class="Column_Color" style="width: 94pt" height="13">
+      <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana"><b>7225.65</b></font></p>
+    </td>
+    <td class="Column_Normal" style="width: 94pt" height="13">
+      <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana"><b>343.95</b></font></p>
+    </td>
+    <td class="Column_Color" style="width: 94pt" height="13">
+      <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana"><b>55149.00</b></font></p>
+    </td>
+    <td class="Column_Normal" style="width: 94pt" height="13">
+      <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana"><b>2891.63</b></font></p>
+    </td>
+    <td class="Column_Color" style="width: 94pt" height="13">
+      <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana"><b>3235.58</b></font></p>
+    </td>
+  </tr></table>
+  </center>
+</div>
+<p style="margin-left: 80; margin-right: 40" class="Footer"><font face="Verdana" size="1">
+Note : Dam Rehabilitation and Improvement Project (DRIP) is a World Bank funded<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; project which came into
+effect from 18th&nbsp;April, 2012 and will be implemented<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; over a period of
+six-years. DRIP currently involves rehabilitation of about 223<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; large dams in four states
+i.e. Tamil Nadu.<br>
+&nbsp;&nbsp;&nbsp;&nbsp; * : As on March, 2014.<br>
+Source : Press Information Bureau (PIB) released on 17.07.2014.
+<br></font></p>
+
+</body>  </div>   </body></html>

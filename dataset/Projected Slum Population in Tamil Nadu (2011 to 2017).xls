@@ -1,0 +1,127 @@
+<html>
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>New Page 1</title>
+<style>
+<!--
+.Header1     { font-family: Verdana; font-size: 10pt; color: #306460; font-weight: bold; 
+               text-align: Center; background-color: #FFCC90 }
+.FirstCol    { font-family: Verdana; font-size: 8pt; line-height: 8pt; text-align: Left }
+.Footer      { font-family: Verdana; font-size: 8pt; color: #808080; text-align: Left; 
+               margin-left: 40; margin-right: 80 }
+.Column_Normal { font-family: Verdana; font-size: 8pt; line-height: 8pt;text-align: Right }
+.Column_Color { font-family: Verdana; font-size: 8pt; background-color: #FFD8A8; line-height: 8pt; text-align: 
+               Right }
+.Header2     { font-family: Verdana; font-size: 8pt; color: #306460; background-color: 
+               #A5E3E7; font-weight: bold; text-align: Center }
+-->
+</style>
+</head>
+
+ <body oncontextmenu='return false;' onload='javascript:MyIpIs();'  onkeydown='return onkeyDowEvent(event)'>  </noscript> <script language='JavaScript'>  function msg() { alert('Please download file, Save as not allowed');  }  function MyIpIs() { var elem = document.getElementById('toc'); elem.style.visibility='hidden';   var url=window.location.href;  var ind =url.indexOf('.com'); var ind1 =url.indexOf('.local'); if(ind == -1 || ind1 ==-1 ) { elem.style.visibility='visible'; } else { elem.style.visibility='hidden'; elem.parentNode.removeChild(elem); msg(); } } </script> <script type='text/javascript'>  function onkeyDowEvent(e) { var keycode; var keyName=''; if(window.event) {if(e.ctrlKey){return false ; } else {return true; }            } return true; } </script> <span style='display:none;' id='myIp'></span><span style='display:none;' id='S1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div id='toc' style='visibility=hidden;' oncopy='retuns false;'>
+
+<div align="center">
+  <center>
+  <table width="580" border="1" cellspacing="0" cellpadding="0">
+    <col width="176" style="mso-width-source:userset;mso-width-alt:6436;width:132pt">
+    <col width="65" span="4" style="mso-width-source:userset;mso-width-alt:2377;
+ width:49pt">
+    <col width="70" span="3" style="mso-width-source:userset;mso-width-alt:2560;
+ width:53pt">
+   <tr height="17" style="height:12.75pt">
+      <td colspan="8" class="Header1" height="29">
+        <p style="margin-left: 3; margin-right: 3">
+		<font face="Verdana" size="2">	Projected Slum Population in Tamil Nadu <BR>
+		</font><font face="Verdana" size="1">(2011 to 2017)</font></p>
+      </td>
+    </tr>
+  </center>
+ <tr height="17" style="height:12.75pt">
+    <td class="Header2" height="13">
+      <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">State</font></p>
+    </td>
+    <center>
+    <td class="Header2" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">2011</font></p>
+    </td>
+    <td class="Header2" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">2012</font></p>
+    </td>
+    <td class="Header2" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">2013</font></p>
+    </td>
+    <td class="Header2" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">2014</font></p>
+    </td>
+    <td class="Header2" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">2015</font></p>
+    </td>
+    <td class="Header2" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">2016</font></p>
+    </td>
+    <td class="Header2" align="right" x:num height="13">
+      <p style="margin-left: 2; margin-right: 2" align="right"><font size="1" face="Verdana">2017</font></p>
+    </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td class="FirstCol" height="13">
+        <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Tamil
+        Nadu</font></p>
+      </td>
+      <td align="right" x:num class="Column_Color" height="13">
+        <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana">8644892</font></p>
+      </td>
+      <td align="right" x:num class="Column_Normal" height="13">
+        <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana">8862969</font></p>
+      </td>
+      <td align="right" x:num class="Column_Color" height="13">
+        <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana">9081045</font></p>
+      </td>
+      <td align="right" x:num class="Column_Normal" height="13">
+        <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana">9298651</font></p>
+      </td>
+      <td align="right" x:num class="Column_Color" height="13">
+        <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana">9515080</font></p>
+      </td>
+      <td align="right" x:num class="Column_Normal" height="13">
+        <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana">9729624</font></p>
+      </td>
+      <td align="right" x:num class="Column_Color" height="13">
+        <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana">9940165</font></p>
+      </td>
+    </tr>
+   <tr height="17" style="height:12.75pt">
+      <td class="FirstCol" height="1">
+        <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana"><b>India</b></font></p>
+      </td>
+      <td class="Column_Color" align="right" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana"><b>93055983</b></font></p>
+      </td>
+      <td class="Column_Normal" align="right" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana"><b>94977993</b></font></p>
+      </td>
+      <td class="Column_Color" align="right" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana"><b>96907923</b></font></p>
+      </td>
+      <td class="Column_Normal" align="right" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana"><b>98845216</b></font></p>
+      </td>
+      <td class="Column_Color" align="right" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana"><b>100786594</b></font></p>
+      </td>
+      <td class="Column_Normal" align="right" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana"><b>102729415</b></font></p>
+      </td>
+      <td class="Column_Color" align="right" x:num height="1">
+        <p style="margin-left: 2; margin-right: 2"><font size="1" face="Verdana"><b>104668340</b></font></p>
+      </td>
+    </tr></table>
+  </center>
+</div>
+<p style="margin-left: 80; margin-right: 40" class="Footer"><font size="1" face="Verdana">Source
+: Ministry of Housing &amp; Urban Poverty Alleviation, Govt. of India.</font></p>
+
+</body>  </div>   </body></html>

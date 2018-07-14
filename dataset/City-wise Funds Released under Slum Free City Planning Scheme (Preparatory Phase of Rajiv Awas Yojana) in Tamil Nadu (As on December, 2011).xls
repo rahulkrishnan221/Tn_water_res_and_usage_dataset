@@ -1,0 +1,120 @@
+<html>
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>New Page 1</title>
+<style>
+<!--
+.Header1     { font-family: Verdana; font-size: 10pt; color: #306460; font-weight: bold; 
+               text-align: Center; background-color: #FFCC90 }
+.FirstCol    { font-family: Verdana; font-size: 8pt; line-height: 8pt; text-align: Left }
+.Footer      { font-family: Verdana; font-size: 8pt; color: #808080; text-align: Left; 
+               margin-left: 40; margin-right: 80 }
+.Column_Normal { font-family: Verdana; font-size: 8pt; line-height: 8pt;text-align: Right }
+.Column_Color { font-family: Verdana; font-size: 8pt; background-color: #FFD8A8; line-height: 8pt; text-align: 
+               Right }
+.Header2     { font-family: Verdana; font-size: 8pt; color: #306460; background-color: 
+               #A5E3E7; font-weight: bold; text-align: Center }
+-->
+</style>
+</head>
+
+ <body oncontextmenu='return false;' onload='javascript:MyIpIs();'  onkeydown='return onkeyDowEvent(event)'>  </noscript> <script language='JavaScript'>  function msg() { alert('Please download file, Save as not allowed');  }  function MyIpIs() { var elem = document.getElementById('toc'); elem.style.visibility='hidden';   var url=window.location.href;  var ind =url.indexOf('.com'); var ind1 =url.indexOf('.local'); if(ind == -1 || ind1 ==-1 ) { elem.style.visibility='visible'; } else { elem.style.visibility='hidden'; elem.parentNode.removeChild(elem); msg(); } } </script> <script type='text/javascript'>  function onkeyDowEvent(e) { var keycode; var keyName=''; if(window.event) {if(e.ctrlKey){return false ; } else {return true; }            } return true; } </script> <span style='display:none;' id='myIp'></span><span style='display:none;' id='S1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div id='toc' style='visibility=hidden;' oncopy='retuns false;'>
+
+<div align="center">
+  <center>
+  <table width="477" border="1" cellspacing="0" cellpadding="0" height="1">
+    <col width="185" style="mso-width-source:userset;mso-width-alt:6765;width:139pt">
+    <col width="185" style="mso-width-source:userset;mso-width-alt:6765;width:139pt">
+    <col width="109" style="mso-width-source:userset;mso-width-alt:3986;width:82pt">
+   <tr height="59" style="mso-height-source:userset;height:44.25pt">
+      <td colspan="3" class="Header1" height="61" width="473">
+        <p style="margin-left: 2; margin-right: 2" align="center">
+		<font face="Verdana" size="2">	City-wise Funds Released under Slum Free City<br>
+        Planning Scheme (Preparatory Phase of Rajiv<br>
+        Awas Yojana) in Tamil Nadu <BR>
+		</font><font face="Verdana" size="1">(As on December, 2011)</font></p>
+      </td>
+    </tr>
+   <tr height="68" style="height:51.0pt">
+      <td class="Header2" height="15" width="173">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font face="Verdana" size="1">State</font></p>
+      </td>
+      <td class="Header2" height="15" width="176">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font face="Verdana" size="1">Cities-Fund
+        Released<br>
+        for SFCP</font></p>
+      </td>
+      <td class="Header2" height="15" width="120">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">Amount
+        Released&nbsp;<br>
+        (Rs. in Lakh)<br>
+        Number of Cities</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td rowspan="9" class="FirstCol" height="1" width="173">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font face="Verdana" size="1">Tamil
+        Nadu</font></p>
+      </td>
+      <td class="Column_Color" height="1" width="176">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font face="Verdana" size="1">Chennai
+        Muncipal Corporation</font></p>
+      </td>
+      <td rowspan="9" class="Column_Normal" height="1" width="120">
+        <p style="margin-left: 2; margin-right: 2" align="right"><font face="Verdana" size="1">480.14
+        (9 Cities)</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td class="Column_Color" height="13" width="176">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font face="Verdana" size="1">Coimbatore</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td class="Column_Color" height="13" width="176">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font face="Verdana" size="1">Madurai</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td class="Column_Color" height="13" width="176">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font face="Verdana" size="1">Tiruchirappalli</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td class="Column_Color" height="13" width="176">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font face="Verdana" size="1">Salem</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td class="Column_Color" height="13" width="176">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font face="Verdana" size="1">Tiruppur</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td class="Column_Color" height="13" width="176">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font face="Verdana" size="1">Tiruneiveli</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td class="Column_Color" height="13" width="176">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font face="Verdana" size="1">Erode</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td class="Column_Color" height="1" width="176">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font face="Verdana" size="1">Vellore</font></p>
+      </td>
+    </tr>
+   </table>
+  </center>
+</div>
+<p style="margin-left: 80; margin-right: 40" class="Footer"><font face="Verdana" size="1">Source
+: Rajya Sabha Unstarred Question No. 3203, dated on 21.12.2011.<br>
+<br>
+
+</font></p>
+
+</body>  </div>   </body></html>

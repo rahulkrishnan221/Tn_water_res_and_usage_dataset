@@ -1,0 +1,172 @@
+<html>
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Tamil Nadu.com Revealing Tamil Nadu....&nbsp;&nbsp;Statistically ! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</title>
+<style>
+<!--
+.Header1     { font-family: Verdana; font-size: 10pt; color: #306460; font-weight: bold; 
+               text-align: Center; background-color: #FFCC90 }
+.FirstCol    { font-family: Verdana; font-size: 8pt; line-height: 8pt; text-align: Left }
+.Footer      { font-family: Verdana; font-size: 8pt; color: #808080; text-align: Left; 
+               margin-left: 40; margin-right: 80 }
+.Column_Normal { font-family: Verdana; font-size: 8pt; line-height: 8pt;text-align: Right }
+.Column_Color { font-family: Verdana; font-size: 8pt; background-color: #FFD8A8; line-height: 8pt; text-align: 
+               Right }
+.Header2     { font-family: Verdana; font-size: 8pt; color: #306460; background-color: 
+               #A5E3E7; font-weight: bold; text-align: Center }
+-->
+</style>
+</head>
+
+ <body oncontextmenu='return false;' onload='javascript:MyIpIs();'  onkeydown='return onkeyDowEvent(event)'>  </noscript> <script language='JavaScript'>  function msg() { alert('Please download file, Save as not allowed');  }  function MyIpIs() { var elem = document.getElementById('toc'); elem.style.visibility='hidden';   var url=window.location.href;  var ind =url.indexOf('.com'); var ind1 =url.indexOf('.local'); if(ind == -1 || ind1 ==-1 ) { elem.style.visibility='visible'; } else { elem.style.visibility='hidden'; elem.parentNode.removeChild(elem); msg(); } } </script> <script type='text/javascript'>  function onkeyDowEvent(e) { var keycode; var keyName=''; if(window.event) {if(e.ctrlKey){return false ; } else {return true; }            } return true; } </script> <span style='display:none;' id='myIp'></span><span style='display:none;' id='S1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div id='toc' style='visibility=hidden;' oncopy='retuns false;'>
+
+<div align="center">
+<center>
+<table width='580' border='1' cellspacing='0' cellpadding='0'>
+<tr height="17"  style="height:12.75pt">
+   <td colspan="10" class="Header1" style="height:12.75pt;
+   width:485pt">
+    <p style="margin-left: 2; margin-right: 2"><font face="Verdana" size="2">
+ Identified/Estimated  Slum Population  in Tamil Nadu<br>
+    </font><font size="1" face="Verdana">(During 1981, 1991 & 2001)</font></p>
+   </td>
+</tr>
+</center>
+
+    <tbody>
+    <tr height="17" style="HEIGHT: 12.75pt">
+      <td class="Header2" colSpan="10" style="WIDTH: 524pt">
+        <p align="right" style="margin-left: 2; margin-right: 2"><font face="Verdana" size="1">(Population
+        in Lakh)</font></p>
+      </td>
+    </tr>
+    <center>
+    <tr height="17" style="HEIGHT: 12.75pt">
+      <td class="Header2" style="WIDTH: 92pt">
+        <p style="margin-left: 2; margin-right: 2"><span style="mso-spacerun: yes"><font face="Verdana" size="1">&nbsp;</font></span></p>
+      </td>
+      <td class="Header2" colSpan="3" style="WIDTH: 144pt" x:num>
+        <p style="margin-left: 2; margin-right: 2"><font face="Verdana" size="1">1981</font></p>
+      </td>
+      <td class="Header2" colSpan="3" style="WIDTH: 144pt" x:num>
+        <p style="margin-left: 2; margin-right: 2"><font face="Verdana" size="1">1991</font></p>
+      </td>
+      <td class="Header2" colSpan="3" style="WIDTH: 144pt" x:num>
+        <p style="margin-left: 2; margin-right: 2"><font face="Verdana" size="1">2001</font></p>
+      </td>
+    </tr>
+    <tr height="51" style="HEIGHT: 38.25pt">
+      <td class="Header2" style="WIDTH: 92pt">
+        <p style="margin-left: 2; margin-right: 2"><font face="Verdana" size="1">State</font></p>
+      </td>
+      <td class="Header2" style="WIDTH: 48pt">
+        <p align="right" style="margin-left: 2; margin-right: 2"><font face="Verdana" size="1">Urban
+        Popl.</font></p>
+      </td>
+      <td class="Header2" style="WIDTH: 48pt">
+        <p align="right" style="margin-left: 2; margin-right: 2"><font face="Verdana" size="1">Identified
+        Slum Popl.</font></p>
+      </td>
+      <td class="Header2" style="WIDTH: 48pt">
+        <p align="right" style="margin-left: 2; margin-right: 2"><font face="Verdana" size="1">%age</font></p>
+      </td>
+      <td class="Header2" style="WIDTH: 48pt">
+        <p align="right" style="margin-left: 2; margin-right: 2"><font face="Verdana" size="1">Urban
+        Popl.</font></p>
+      </td>
+      <td class="Header2" style="WIDTH: 48pt">
+        <p align="right" style="margin-left: 2; margin-right: 2"><font face="Verdana" size="1">Identified
+        Slum Popl.</font></p>
+      </td>
+      <td class="Header2" style="WIDTH: 48pt" x:str="%age ">
+        <p align="right" style="margin-left: 2; margin-right: 2"><font face="Verdana" size="1">%age</font></p>
+      </td>
+      <td class="Header2" style="WIDTH: 48pt">
+        <p align="right" style="margin-left: 2; margin-right: 2"><font face="Verdana" size="1">Urban
+        Popl.</font></p>
+      </td>
+      <td class="Header2" style="WIDTH: 48pt">
+        <p align="right" style="margin-left: 2; margin-right: 2"><font face="Verdana" size="1">Identified
+        Slum Popl.</font></p>
+      </td>
+      <td class="Header2" style="WIDTH: 48pt" x:str="%age ">
+        <p align="right" style="margin-left: 2; margin-right: 2"><font face="Verdana" size="1">%age</font></p>
+      </td>
+    </tr>
+    </tbody>
+  </center>
+ <tr height="17" style="height:12.75pt">
+<td class="FirstCol" height="1">
+<p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">
+Tamil Nadu</font></p>
+</td>   <td align="right" class="Column_Color">
+    <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">159.519</font></p>
+   </td>
+   <td align="right" class="Column_Normal">
+    <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">26.76</font></p>
+   </td>
+   <td align="right" class="Column_Color">
+    <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">16.8</font></p>
+   </td>
+   <td align="right" class="Column_Normal">
+    <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">190.776</font></p>
+   </td>
+   <td align="right" class="Column_Color">
+    <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">35.713*</font></p>
+   </td>
+   <td align="right" class="Column_Normal">
+    <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">18.7</font></p>
+   </td>
+   <td align="right" class="Column_Color">
+    <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">233.08</font></p>
+   </td>
+   <td align="right" class="Column_Normal">
+    <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">43.585</font></p>
+   </td>
+   <td align="right" class="Column_Color">
+    <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">18.7</font></p>
+   </td>
+</tr>
+
+ <tr height="17" style="height:12.75pt">
+<td class="FirstCol" height="1">
+<p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana"><b>
+India</b></font></p>
+</td>   <td align="right" class="Column_Color">
+    <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana"><b>1594.626</b></font></p>
+   </td>
+   <td align="right" class="Column_Normal">
+    <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana"><b>279.144</b></font></p>
+   </td>
+   <td align="right" class="Column_Color">
+    <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana"><b>17.5</b></font></p>
+   </td>
+   <td align="right" class="Column_Normal">
+    <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana"><b>2176.107</b></font></p>
+   </td>
+   <td align="right" class="Column_Color">
+    <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana"><b>462.608</b></font></p>
+   </td>
+   <td align="right" class="Column_Normal">
+    <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana"><b>21.3</b></font></p>
+   </td>
+   <td align="right" class="Column_Color">
+    <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana"><b>2909.437</b></font></p>
+   </td>
+   <td align="right" class="Column_Normal">
+    <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana"><b>618.258</b></font></p>
+   </td>
+   <td align="right" class="Column_Color">
+    <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana"><b>21.3</b></font></p>
+   </td>
+</tr>
+
+</table>
+</center>
+</div>
+<p class="Footer" style="MARGIN-LEFT: 80px; MARGIN-RIGHT: 40px"><font face="Verdana" size="1">* : Slum population estimates are based on the information (for Class-I and Class-II cities/towns) received from the State governments for the year 1991<br>Compiled from the statistics released by : A Compendium on Indian Slums 1996, Min. of Urban Affairs, Govt. of India and Compendium of Environment Statistics, 2000, Central Statistical Organisation, Ministry of Statistics and Programme Implementation, Govt. of India.
+<br><br><p align='left' style='margin-left: 80;margin-right: 80; margin-top: 0'><font size='1' face='Verdana' color='#808080'>Year: Period of fiscal year in India is April to March, e.g. year shown as 1990-91 relates to April 1990 to March 1991.</font></p><p align='left' style='margin-left: 80;margin-right: 80; margin-top: 0'><font size='1' face='Verdana' color='#808080'>Units: (a) 1 Lakh (or Lac) = 100000.</font></p><p align='left' style='margin-left: 115;margin-right: 80; margin-top: 0'><font size='1' face='Verdana' color='#808080'>(b) 1 Crore (or Cr.) = 10000000.</font></p><p align='left' style='margin-left: 80;margin-right: 80; margin-top: 0'><font size='1' face='Verdana' color='#808080'>Some part of the footnotes/units may not be applicable for this table.</font></p></font></p>
+</body>  </div>   </body></html>

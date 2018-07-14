@@ -1,0 +1,1655 @@
+<html>
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>New Page 1</title>
+<style>
+<!--
+.Header1     { font-family: Verdana; font-size: 10pt; color: #306460; font-weight: bold; 
+               text-align: Center; background-color: #FFCC90 }
+.FirstCol    { font-family: Verdana; font-size: 8pt; line-height: 8pt; text-align: Left }
+.Footer      { font-family: Verdana; font-size: 8pt; color: #808080; text-align: Left; 
+               margin-left: 40; margin-right: 80 }
+.Column_Normal { font-family: Verdana; font-size: 8pt; line-height: 8pt;text-align: Right }
+.Column_Color { font-family: Verdana; font-size: 8pt; background-color: #FFD8A8; line-height: 8pt; text-align: 
+               Right }
+.Header2     { font-family: Verdana; font-size: 8pt; color: #306460; background-color: 
+               #A5E3E7; font-weight: bold; text-align: Center }
+-->
+</style>
+</head>
+
+ <body oncontextmenu='return false;' onload='javascript:MyIpIs();'  onkeydown='return onkeyDowEvent(event)'>  </noscript> <script language='JavaScript'>  function msg() { alert('Please download file, Save as not allowed');  }  function MyIpIs() { var elem = document.getElementById('toc'); elem.style.visibility='hidden';   var url=window.location.href;  var ind =url.indexOf('.com'); var ind1 =url.indexOf('.local'); if(ind == -1 || ind1 ==-1 ) { elem.style.visibility='visible'; } else { elem.style.visibility='hidden'; elem.parentNode.removeChild(elem); msg(); } } </script> <script type='text/javascript'>  function onkeyDowEvent(e) { var keycode; var keyName=''; if(window.event) {if(e.ctrlKey){return false ; } else {return true; }            } return true; } </script> <span style='display:none;' id='myIp'></span><span style='display:none;' id='S1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div id='toc' style='visibility=hidden;' oncopy='retuns false;'>
+
+<div align="center">
+  <center>
+  <table border="1" cellPadding="0" cellSpacing="0" width="580">
+    <colgroup>
+      <col style="WIDTH: 31pt; mso-width-source: userset; mso-width-alt: 1499" width="41">
+      <col style="WIDTH: 56pt; mso-width-source: userset; mso-width-alt: 2706" width="74">
+      <col style="WIDTH: 78pt; mso-width-source: userset; mso-width-alt: 3803" width="104">
+      <col style="WIDTH: 48pt" width="64">
+      <col style="WIDTH: 50pt; mso-width-source: userset; mso-width-alt: 2450" width="67">
+      <col style="WIDTH: 69pt; mso-width-source: userset; mso-width-alt: 3364" width="92">
+      <col style="WIDTH: 50pt; mso-width-source: userset; mso-width-alt: 2450" width="67">
+      <col style="WIDTH: 69pt; mso-width-source: userset; mso-width-alt: 3364" width="92">
+    <tbody>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Header1" colSpan="8" style="HEIGHT: 12.75pt; WIDTH: 451pt">
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="2">Number
+          of Scheduled Caste Households by Source and Location of Drinking Water
+          and Availability of Electricity and Latrine in Tamil Nadu</font><font face="Verdana" size="1"><br>
+          (2001)</font></p>
+        </td>
+      </tr>
+    </center>
+    <tr height="17" style="HEIGHT: 12.75pt">
+      <td class="Header2" rowSpan="2" style="HEIGHT: 25.5pt; WIDTH: 31pt">
+        <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">T/R/U</font></p>
+      </td>
+      <center>
+      <td class="Header2" colSpan="2" rowSpan="2" style="WIDTH: 134pt">
+        <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Source
+        and Location of Drinking Water</font></p>
+      </td>
+      <td class="Header2" rowSpan="2">
+        <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Total
+        Number of Households</font></p>
+      </td>
+      <td class="Header2" colSpan="2" style="WIDTH: 119pt">
+        <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Electricity</font></p>
+      </td>
+      <td class="Header2" colSpan="2" style="WIDTH: 119pt">
+        <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1"><span style="mso-spacerun: yes">&nbsp;</span>Latrine</font></p>
+      </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Header2" style="HEIGHT: 12.75pt; WIDTH: 50pt">
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Available</font></p>
+        </td>
+        <td class="Header2" style="WIDTH: 69pt">
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Not
+          Available</font></p>
+        </td>
+        <td class="Header2" style="HEIGHT: 12.75pt; WIDTH: 50pt">
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Available</font></p>
+        </td>
+        <td class="Header2" style="WIDTH: 69pt">
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Not
+          Available</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" rowSpan="24" style="HEIGHT: 306pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Total</font></p>
+        </td>
+        <td class="Column_Color" rowSpan="4">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">All
+          Sources</font></p>
+        </td>
+        <td class="Column_Normal">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Total</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">3070374</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">2014945</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">1055429</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">571603</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">2498771</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Within
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">338607</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">302036</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">36571</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">204233</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">134374</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Near
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">2288411</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">1459350</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">829061</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">310148</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">1978263</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Away</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">443356</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">253559</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">189797</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">57222</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">386134</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Color" rowSpan="4" style="HEIGHT: 51pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Tap</font></p>
+        </td>
+        <td class="Column_Normal" x:str="'Total">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Total</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">1939554</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">1315531</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">624023</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">339768</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">1599786</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt" x:str="'Within Premises">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Within
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">222347</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">199903</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">22444</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">131125</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">91222</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt" x:str="'Near Premises">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Near
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">1550618</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">1017142</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">533476</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">188041</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">1362577</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Away</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">166589</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">98486</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">68103</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">20602</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">145987</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Color" rowSpan="4" style="HEIGHT: 51pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Hand
+          pump</font></p>
+        </td>
+        <td class="Column_Normal">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Total</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">698406</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">423612</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">274794</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">128069</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">570337</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Within
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">64167</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">53449</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">10718</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">35047</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">29120</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Near
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">509424</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">299835</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">209589</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">79805</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">429619</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Away</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">124815</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">70328</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">54487</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">13217</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">111598</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Color" rowSpan="4" style="HEIGHT: 51pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Tube
+          well</font></p>
+        </td>
+        <td class="Column_Normal" x:str="'Total">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Total</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">102503</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">71138</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">31365</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">29384</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">73119</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt" x:str="'Within Premises">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Within
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">19808</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">18873</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">935</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">15995</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">3813</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt" x:str="'Near Premises">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Near
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">62331</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">40602</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">21729</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">10164</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">52167</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Away</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">20364</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">11663</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">8701</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">3225</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">17139</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Color" rowSpan="4" style="HEIGHT: 51pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Well</font></p>
+        </td>
+        <td class="Column_Normal">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Total</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">207385</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">134469</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">72916</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">48607</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">158778</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Within
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">30207</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">28034</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">2173</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">20762</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">9445</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Near
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">108537</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">68021</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">40516</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">18621</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">89916</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Away</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">68641</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">38414</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">30227</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">9224</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">59417</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Color" rowSpan="4" style="HEIGHT: 51pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">All
+          others</font></p>
+        </td>
+        <td class="Column_Normal" x:str="'Total">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Total</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">122526</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">70195</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">52331</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">25775</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">96751</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt" x:str="'Within Premises">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Within
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">2078</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">1777</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">301</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">1304</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">774</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt" x:str="'Near Premises">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Near
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">57501</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">33750</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">23751</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">13517</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">43984</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Away</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">62947</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">34668</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">28279</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">10954</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">51993</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" rowSpan="24" style="HEIGHT: 306pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Rural</font></p>
+        </td>
+        <td class="Column_Color" rowSpan="4">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">All
+          Sources</font></p>
+        </td>
+        <td class="Column_Normal">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Total</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">2152565</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">1365152</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">787413</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">219409</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">1933156</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Within
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">126081</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">102435</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">23646</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">37627</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">88454</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Near
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">1729515</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">1096490</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">633025</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">157262</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">1572253</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Away</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">296969</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">166227</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">130742</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">24520</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">272449</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Color" rowSpan="4" style="HEIGHT: 51pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Tap</font></p>
+        </td>
+        <td class="Column_Normal" x:str="'Total">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Total</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">1374783</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">912419</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">462364</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">135628</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">1239155</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt" x:str="'Within Premises">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Within
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">82888</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">68216</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">14672</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">23394</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">59494</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt" x:str="'Near Premises">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Near
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">1189317</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">782958</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">406359</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">103259</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">1086058</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Away</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">102578</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">61245</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">41333</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">8975</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">93603</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Color" rowSpan="4" style="HEIGHT: 51pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Hand
+          pump</font></p>
+        </td>
+        <td class="Column_Normal">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Total</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">505292</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">292298</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">212994</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">52262</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">453030</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Within
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">27973</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">20597</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">7376</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">6578</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">21395</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Near
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">383231</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">219579</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">163652</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">38283</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">344948</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Away</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">94088</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">52122</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">41966</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">7401</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">86687</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Color" rowSpan="4" style="HEIGHT: 51pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Tube
+          well</font></p>
+        </td>
+        <td class="Column_Normal" x:str="'Total">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Total</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">69444</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">45430</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">24014</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">11319</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">58125</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt" x:str="'Within Premises">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Within
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">6626</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">6075</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">551</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">3988</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">2638</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt" x:str="'Near Premises">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Near
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">49102</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">31798</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">17304</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">5808</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">43294</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Away</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">13716</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">7557</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">6159</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">1523</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">12193</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Color" rowSpan="4" style="HEIGHT: 51pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Well</font></p>
+        </td>
+        <td class="Column_Normal">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Total</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">138005</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">82214</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">55791</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">14369</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">123636</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Within
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">7954</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">7050</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">904</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">3434</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">4520</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Near
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">79128</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">47847</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">31281</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">7095</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">72033</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Away</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">50923</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">27317</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">23606</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">3840</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">47083</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Color" rowSpan="4" style="HEIGHT: 51pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">All
+          others</font></p>
+        </td>
+        <td class="Column_Normal" x:str="'Total">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Total</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">65041</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">32791</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">32250</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">5831</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">59210</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt" x:str="'Within Premises">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Within
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">640</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">497</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">143</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">233</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">407</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt" x:str="'Near Premises">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Near
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">28737</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">14308</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">14429</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">2817</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">25920</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Away</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">35664</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">17986</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">17678</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">2781</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">32883</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" rowSpan="24" style="HEIGHT: 306pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Urban</font></p>
+        </td>
+        <td class="Column_Color" rowSpan="4">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">All
+          Sources</font></p>
+        </td>
+        <td class="Column_Normal">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Total</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">917809</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">649793</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">268016</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">352194</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">565615</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Within
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">212526</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">199601</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">12925</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">166606</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">45920</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Near
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">558896</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">362860</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">196036</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">152886</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">406010</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Away</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">146387</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">87332</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">59055</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">32702</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">113685</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Color" rowSpan="4" style="HEIGHT: 51pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Tap</font></p>
+        </td>
+        <td class="Column_Normal" x:str="'Total">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Total</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">564771</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">403112</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">161659</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">204140</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">360631</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt" x:str="'Within Premises">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Within
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">139459</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">131687</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">7772</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">107731</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">31728</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt" x:str="'Near Premises">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Near
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">361301</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">234184</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">127117</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">84782</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">276519</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Away</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">64011</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">37241</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">26770</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">11627</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">52384</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Color" rowSpan="4" style="HEIGHT: 51pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Hand
+          pump</font></p>
+        </td>
+        <td class="Column_Normal">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Total</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">193114</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">131314</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">61800</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">75807</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">117307</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Within
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">36194</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">32852</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">3342</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">28469</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">7725</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Near
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">126193</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">80256</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">45937</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">41522</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">84671</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Away</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">30727</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">18206</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">12521</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">5816</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">24911</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Color" rowSpan="4" style="HEIGHT: 51pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Tube
+          well</font></p>
+        </td>
+        <td class="Column_Normal" x:str="'Total">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Total</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">33059</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">25708</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">7351</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">18065</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">14994</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt" x:str="'Within Premises">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Within
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">13182</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">12798</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">384</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">12007</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">1175</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt" x:str="'Near Premises">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Near
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">13229</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">8804</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">4425</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">4356</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">8873</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Away</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">6648</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">4106</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">2542</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">1702</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">4946</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Color" rowSpan="4" style="HEIGHT: 51pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Well</font></p>
+        </td>
+        <td class="Column_Normal">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Total</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">69380</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">52255</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">17125</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">34238</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">35142</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Within
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">22253</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">20984</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">1269</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">17328</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">4925</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Near
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">29409</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">20174</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">9235</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">11526</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">17883</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Away</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">17718</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">11097</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">6621</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">5384</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">12334</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Color" rowSpan="4" style="HEIGHT: 51pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">All
+          others</font></p>
+        </td>
+        <td class="Column_Normal" x:str="'Total">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Total</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">57485</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">37404</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">20081</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">19944</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">37541</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt" x:str="'Within Premises">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Within
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">1438</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">1280</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">158</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">1071</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">367</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt" x:str="'Near Premises">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Near
+          Premises</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">28764</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">19442</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">9322</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">10700</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">18064</font></p>
+        </td>
+      </tr>
+      <tr height="17" style="HEIGHT: 12.75pt">
+        <td class="Column_Normal" style="HEIGHT: 12.75pt">
+          <p align="left" style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">Away</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">27283</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">16682</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">10601</font></p>
+        </td>
+        <td align="right" class="Column_Normal" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">8173</font></p>
+        </td>
+        <td align="right" class="Column_Color" x:num>
+          <p style="MARGIN-LEFT: 3px; MARGIN-RIGHT: 3px"><font face="Verdana" size="1">19110</font></p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  </center>
+</div>
+<p class="Footer" style="MARGIN-LEFT: 80px; MARGIN-RIGHT: 40px"><font face="Verdana" size="1"><a class="plink" href="/tdata/support/Definitions.htm" target="_blank"><font color="#808080">Definitions.<br>
+<br>
+</font></a>Abbr. : T : Total.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; R : Rural.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; U : Urban.<br>
+Compiled from the statistics released by : Census of India, 2001.</font></p>
+<p align="left" style="MARGIN-LEFT: 80px; MARGIN-RIGHT: 80px; MARGIN-TOP: 0px"><font color="#808080" face="Verdana" size="1">Year:
+Period of fiscal year in India is April to March, e.g. year shown as 1990-91
+relates to April 1990 to March 1991.</font></p>
+<p align="left" style="MARGIN-LEFT: 80px; MARGIN-RIGHT: 80px; MARGIN-TOP: 0px"><font color="#808080" face="Verdana" size="1">Units:
+(a) 1 Lakh (or Lac) = 100000.</font></p>
+<p align="left" style="MARGIN-LEFT: 115px; MARGIN-RIGHT: 80px; MARGIN-TOP: 0px"><font color="#808080" face="Verdana" size="1">(b)
+1 Crore (or Cr.) = 10000000.</font></p>
+<p align="left" style="MARGIN-LEFT: 80px; MARGIN-RIGHT: 80px; MARGIN-TOP: 0px"><font color="#808080" face="Verdana" size="1">Some
+part of the footnotes/units may not be applicable for this table.</font></p>
+
+</body>  </div>   </body></html>

@@ -1,0 +1,348 @@
+<html>
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>New Page 1</title>
+<style>
+<!--
+.Header1     { font-family: Verdana; font-size: 10pt; color: #306460; font-weight: bold; 
+               text-align: Center; background-color: #FFCC90 }
+.FirstCol    { font-family: Verdana; font-size: 8pt; line-height: 8pt; text-align: Left }
+.Footer      { font-family: Verdana; font-size: 8pt; color: #808080; text-align: Left; 
+               margin-left: 40; margin-right: 80 }
+.Column_Normal { font-family: Verdana; font-size: 8pt; line-height: 8pt;text-align: Right }
+.Column_Color { font-family: Verdana; font-size: 8pt; background-color: #FFD8A8; line-height: 8pt; text-align: 
+               Right }
+.Header2     { font-family: Verdana; font-size: 8pt; color: #306460; background-color: 
+               #A5E3E7; font-weight: bold; text-align: Center }
+-->
+</style>
+</head>
+
+ <body oncontextmenu='return false;' onload='javascript:MyIpIs();'  onkeydown='return onkeyDowEvent(event)'>  </noscript> <script language='JavaScript'>  function msg() { alert('Please download file, Save as not allowed');  }  function MyIpIs() { var elem = document.getElementById('toc'); elem.style.visibility='hidden';   var url=window.location.href;  var ind =url.indexOf('.com'); var ind1 =url.indexOf('.local'); if(ind == -1 || ind1 ==-1 ) { elem.style.visibility='visible'; } else { elem.style.visibility='hidden'; elem.parentNode.removeChild(elem); msg(); } } </script> <script type='text/javascript'>  function onkeyDowEvent(e) { var keycode; var keyName=''; if(window.event) {if(e.ctrlKey){return false ; } else {return true; }            } return true; } </script> <span style='display:none;' id='myIp'></span><span style='display:none;' id='S1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div id='toc' style='visibility=hidden;' oncopy='retuns false;'>
+
+<div align="center">
+  <center>
+  <table width="500" border="1" cellspacing cellpadding height="1">
+    <col width="169" style="mso-width-source:userset;mso-width-alt:6180;width:127pt">
+    <col width="105" style="mso-width-source:userset;mso-width-alt:3840;width:79pt">
+    <col width="128" style="mso-width-source:userset;mso-width-alt:4681;width:96pt">
+    <tr height="33" style="mso-height-source:userset;height:24.75pt">
+      <td colspan="3" class="Header1" height="45">
+        <p style="margin-left: 5; margin-right: 5"><font face="Verdana" size="2">District-wise
+        Places of Tourist Interest and<br>
+        Visitor Statistics in Tamil Nadu<br>
+        </font><font face="Verdana" size="1">(1999)</font></p>
+      </td>
+    </tr>
+  </center>
+  <tr height="17" style="mso-height-source:userset;height:12.75pt">
+    <td class="Header2" height="13">
+      <p align="left" style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Districts</font></p>
+    </td>
+    <td class="Header2" height="13">
+      <p align="right" style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">No.
+      of Visitors</font></p>
+    </td>
+    <td class="Header2" height="13">
+      <p align="right" style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Percentage
+      Share</font></p>
+    </td>
+  </tr>
+  <center>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Thanjavur</font></p>
+    </td>
+    <td class="Column_Color" x:num="7388176" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">7388176</font></p>
+    </td>
+    <td class="Column_Normal" x:num height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">17.9</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Kancheepuram</font></p>
+    </td>
+    <td class="Column_Color" x:num height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">4608567</font></p>
+    </td>
+    <td class="Column_Normal" x:num height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">11.2</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Tiruchirappallai</font></p>
+    </td>
+    <td class="Column_Color" x:num height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">2784547</font></p>
+    </td>
+    <td class="Column_Normal" x:num height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">6.8</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Tirunelveli</font></p>
+    </td>
+    <td class="Column_Color" x:num height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">1191075</font></p>
+    </td>
+    <td class="Column_Normal" x:num height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">2.9</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Kanniyakumari</font></p>
+    </td>
+    <td class="Column_Color" x:num height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">4376517</font></p>
+    </td>
+    <td class="Column_Normal" x:num height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">10.6</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Madurai</font></p>
+    </td>
+    <td class="Column_Color" x:num height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">687481</font></p>
+    </td>
+    <td class="Column_Normal" x:num height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">1.7</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Toothukudi</font></p>
+    </td>
+    <td class="Column_Color" x:num height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">1936712</font></p>
+    </td>
+    <td class="Column_Normal" x:num height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">4.7</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Villupuram</font></p>
+    </td>
+    <td class="Column_Color" x:num height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">165724</font></p>
+    </td>
+    <td class="Column_Normal" x:num="00.4" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">0.4</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Nagapattinam</font></p>
+    </td>
+    <td class="Column_Color" x:num height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">47326</font></p>
+    </td>
+    <td class="Column_Normal" x:num="00.1" height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">0.1</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Ramanathapuram</font></p>
+    </td>
+    <td class="Column_Color" x:num height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">4971486</font></p>
+    </td>
+    <td class="Column_Normal" x:num height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">12.1</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Vellore</font></p>
+    </td>
+    <td class="Column_Color" x:num height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">1253034</font></p>
+    </td>
+    <td class="Column_Normal" x:num height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">3.0</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Pudukottai</font></p>
+    </td>
+    <td class="Column_Color" x:num height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">88906</font></p>
+    </td>
+    <td class="Column_Normal" x:num="00.2" height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">0.2</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Nilgiris</font></p>
+    </td>
+    <td class="Column_Color" x:num height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">3410236</font></p>
+    </td>
+    <td class="Column_Normal" x:num height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">8.3</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Salem</font></p>
+    </td>
+    <td class="Column_Color" x:num height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">394542</font></p>
+    </td>
+    <td class="Column_Normal" x:num height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">1.0</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Erode</font></p>
+    </td>
+    <td class="Column_Color" x:num height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">354846</font></p>
+    </td>
+    <td class="Column_Normal" x:num="00.9" height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">0.9</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Dharmapuri</font></p>
+    </td>
+    <td class="Column_Color" x:num height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">918865</font></p>
+    </td>
+    <td class="Column_Normal" x:num height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">2.2</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Chennai</font></p>
+    </td>
+    <td class="Column_Color" x:num height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">3085244</font></p>
+    </td>
+    <td class="Column_Normal" x:num height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">7.5</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Coimbatore</font></p>
+    </td>
+    <td class="Column_Color" x:num height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">569509</font></p>
+    </td>
+    <td class="Column_Normal" x:num height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">1.4</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Dindigul</font></p>
+    </td>
+    <td class="Column_Color" x:num height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">680302</font></p>
+    </td>
+    <td class="Column_Normal" x:num height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">1.6</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Cuddalore</font></p>
+    </td>
+    <td class="Column_Color" x:num height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">78866</font></p>
+    </td>
+    <td class="Column_Normal" x:num="00.2" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">0.2</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Theni</font></p>
+    </td>
+    <td class="Column_Color" x:num height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">985135</font></p>
+    </td>
+    <td class="Column_Normal" x:num height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">2.4</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Tiruvannamalai</font></p>
+    </td>
+    <td class="Column_Color" x:num height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">291415</font></p>
+    </td>
+    <td class="Column_Normal" x:num="00.7" height="13">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">0.7</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Virudhunagar</font></p>
+    </td>
+    <td class="Column_Color" x:num height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">94181</font></p>
+    </td>
+    <td class="Column_Normal" x:num="00.2" height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">0.2</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Tiruvellore</font></p>
+    </td>
+    <td class="Column_Color" x:num height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">21639</font></p>
+    </td>
+    <td class="Column_Normal" x:num height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">0.0</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">Sivagangai</font></p>
+    </td>
+    <td class="Column_Color" x:num height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">862450</font></p>
+    </td>
+    <td class="Column_Normal" x:num height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana">2.0</font></p>
+    </td>
+  </tr>
+  <tr height="17" style="height:12.75pt">
+    <td class="FirstCol" height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana"><b>Total</b></font></p>
+    </td>
+    <td class="Column_Color" x:num height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana"><b>41246781</b></font></p>
+    </td>
+    <td class="Column_Normal" x:num height="1">
+      <p style="margin-left: 5; margin-right: 5"><font size="1" face="Verdana"><b>100.0</b></font></p>
+    </td>
+  </tr>
+  </table>
+  </center>
+</div>
+<p class="Footer" style="margin-left: 80; margin-right: 40"><font size="1" face="Verdana">Source
+: Department of Tourism, Govt. of Tamil Nadu.
+<br><br><p align='left' style='margin-left: 80;margin-right: 80; margin-top: 0'><font size='1' face='Verdana' color='#808080'>Year: Period of fiscal year in India is April to March, e.g. year shown as 1990-91 relates to April 1990 to March 1991.</font></p><p align='left' style='margin-left: 80;margin-right: 80; margin-top: 0'><font size='1' face='Verdana' color='#808080'>Units: (a) 1 Lakh (or Lac) = 100000.</font></p><p align='left' style='margin-left: 115;margin-right: 80; margin-top: 0'><font size='1' face='Verdana' color='#808080'>(b) 1 Crore (or Cr.) = 10000000.</font></p><p align='left' style='margin-left: 80;margin-right: 80; margin-top: 0'><font size='1' face='Verdana' color='#808080'>Some part of the footnotes/units may not be applicable for this table.</font></p></font></p>
+
+</body>  </div>   </body></html>

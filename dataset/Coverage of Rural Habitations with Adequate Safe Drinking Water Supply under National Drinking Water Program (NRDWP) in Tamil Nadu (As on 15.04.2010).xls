@@ -1,0 +1,108 @@
+<html>
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>New Page 1</title>
+<style>
+<!--
+.Header1     { font-family: Verdana; font-size: 10pt; color: #306460; font-weight: bold; 
+               text-align: Center; background-color: #FFCC90 }
+.FirstCol    { font-family: Verdana; font-size: 8pt; line-height: 8pt; text-align: Left }
+.Footer      { font-family: Verdana; font-size: 8pt; color: #808080; text-align: Left; 
+               margin-left: 40; margin-right: 80 }
+.Column_Normal { font-family: Verdana; font-size: 8pt; line-height: 8pt;text-align: Right }
+.Column_Color { font-family: Verdana; font-size: 8pt; background-color: #FFD8A8; line-height: 8pt; text-align: 
+               Right }
+.Header2     { font-family: Verdana; font-size: 8pt; color: #306460; background-color: 
+               #A5E3E7; font-weight: bold; text-align: Center }
+-->
+</style>
+</head>
+
+ <body oncontextmenu='return false;' onload='javascript:MyIpIs();'  onkeydown='return onkeyDowEvent(event)'>  </noscript> <script language='JavaScript'>  function msg() { alert('Please download file, Save as not allowed');  }  function MyIpIs() { var elem = document.getElementById('toc'); elem.style.visibility='hidden';   var url=window.location.href;  var ind =url.indexOf('.com'); var ind1 =url.indexOf('.local'); if(ind == -1 || ind1 ==-1 ) { elem.style.visibility='visible'; } else { elem.style.visibility='hidden'; elem.parentNode.removeChild(elem); msg(); } } </script> <script type='text/javascript'>  function onkeyDowEvent(e) { var keycode; var keyName=''; if(window.event) {if(e.ctrlKey){return false ; } else {return true; }            } return true; } </script> <span style='display:none;' id='myIp'></span><span style='display:none;' id='S1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div id='toc' style='visibility=hidden;' oncopy='retuns false;'>
+
+<div align="center">
+  <center>
+  <table width="501" border="1" cellspacing="0" cellpadding="0">
+    <col width="171" style="mso-width-source:userset;mso-width-alt:6253;width:128pt">
+    <col width="82" style="mso-width-source:userset;mso-width-alt:2998;width:62pt">
+    <col width="83" style="mso-width-source:userset;mso-width-alt:3035;width:62pt">
+    <col width="74" span="2" style="mso-width-source:userset;mso-width-alt:2706;
+ width:56pt">
+   <tr height="36" style="mso-height-source:userset;height:27.0pt">
+      <td colspan="5" class="Header1" height="45">
+        <p style="margin-left: 3; margin-right: 3">
+		<font face="Verdana" size="2">	Coverage of Rural Habitations with Adequate Safe Drinking<br>
+        Water Supply under National Drinking Water<br>
+        Program (NRDWP) in Tamil Nadu <BR>
+		</font><font face="Verdana" size="1">(As on 15.04.2010)</font></p>
+      </td>
+    </tr>
+  </center>
+ <tr height="136" style="height:102.0pt">
+    <td class="Header2" height="65">
+      <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">State</font></p>
+    </td>
+    <center>
+    <td class="Header2" height="65">
+      <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">Total
+      Habitations</font></p>
+    </td>
+    <td class="Header2" height="65">
+      <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">Habitations
+      with 0% Population Coverage</font></p>
+    </td>
+    <td class="Header2" height="65">
+      <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">Habitations
+      with Partial Population Coverage (&gt; 0 and &lt;100%)</font></p>
+    </td>
+    <td class="Header2" height="65">
+      <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">Habitations
+      with Full (100%) Population Coverage</font></p>
+    </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td class="FirstCol" height="13">
+        <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Tamil
+        Nadu</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">92689</font></p>
+      </td>
+      <td class="Column_Normal" x:num height="13">
+        <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">0</font></p>
+      </td>
+      <td class="Column_Color" x:num height="13">
+        <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">2103</font></p>
+      </td>
+      <td class="Column_Normal" x:num height="13">
+        <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">90586</font></p>
+      </td>
+    </tr>
+   <tr height="17" style="height:12.75pt">
+      <td class="FirstCol" height="1">
+        <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana"><b>India</b></font></p>
+      </td>
+      <td class="Column_Color" x:num height="1">
+        <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana"><b>1658323</b></font></p>
+      </td>
+      <td class="Column_Normal" x:num height="1">
+        <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana"><b>51290</b></font></p>
+      </td>
+      <td class="Column_Color" x:num height="1">
+        <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana"><b>361352</b></font></p>
+      </td>
+      <td class="Column_Normal" x:num height="1">
+        <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana"><b>1245681</b></font></p>
+      </td>
+    </tr></table>
+  </center>
+</div>
+<p style="margin-left: 80; margin-right: 40" class="Footer"><font face="Verdana" size="1">Abbr.
+: NRDWP : National Rural Drinking Water Programme.<br>
+Source
+: Press Information Bureau, Govt. of India.</font></p>
+
+</body>  </div>   </body></html>

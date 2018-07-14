@@ -1,0 +1,133 @@
+Sl.No,Name of the ULB,Total no. of HSC given for Domestic,Total no. of HSC given for Commercial,Total no. of HSC given for Industrial,Total no. of HSC given for all,Region
+1,Chengalpattu,8322,138,1,8461,Chengalpattu
+2,Kancheepuram,31218,531,3,31752,Chengalpattu
+3,Madurantakam,2813,54,0,2867,Chengalpattu
+4,Tambaram,14059,909,0,14968,Chengalpattu
+5,Pallavapuram,20146,674,0,20820,Chengalpattu
+6,Anakaputtur,7045,0,0,7045,Chengalpattu
+7,Maraimalai Nagar,4318,99,143,4560,Chengalpattu
+8,Pammal ,11185,21,14,11220,Chengalpattu
+9,Sembakkam,0,0,0,0,Chengalpattu
+10,Avadi,644,0,0,644,Chengalpattu
+11,Tiruvallur,3860,235,0,4095,Chengalpattu
+12,Poonammallee,4055,40,0,4095,Chengalpattu
+13,Tiruthani,1987,20,0,2007,Chengalpattu
+14,Thiruverkadu,0,0,0,0,Chengalpattu
+15,Chidambaram,5865,143,0,6008,Chengalpattu
+16,Cuddalore,10751,108,0,10859,Chengalpattu
+17,Nellikuppam,3881,25,0,3906,Chengalpattu
+18,Panruti,6611,16,0,6627,Chengalpattu
+19,Virudhachalam,7387,119,0,7506,Chengalpattu
+Total,Total,144147,3132,161,147440,Chengalpattu
+20,Ambur,9598,54,4,9656,Vellore
+21,Arakkonam,8515,60,0,8575,Vellore
+22,Arcot,7330,164,0,7494,Vellore
+23,Gudiyatham,9306,117,0,9423,Vellore
+24,Ranipet,7272,292,13,7577,Vellore
+25,Tirupathur,6992,2380,0,9372,Vellore
+26,Vaniyambadi,8259,195,0,8454,Vellore
+27,Walajapet,5613,53,0,5666,Vellore
+28,Jolarpet,2711,16,0,2727,Vellore
+29,Melvisharam,6025,43,0,6068,Vellore
+30,Pernambut,5103,73,0,5176,Vellore
+31,Tiruvannamalai,18726,235,0,18961,Vellore
+32,Arani,5557,160,0,5717,Vellore
+33,Thiruvathipuram,5266,224,0,5490,Vellore
+34,Vandavasi,4403,106,0,4509,Vellore
+35,Villupuram,7819,315,0,8134,Vellore
+36,Tindivanam,3763,80,0,3843,Vellore
+37,Kallakurichi,6169,223,0,6392,Vellore
+Total,TOTAL,128427,4790,17,133234,Vellore
+38,Tenkasi,12513,208,0,12721,Tirunelveli 
+39,Sengottai,4790,92,0,4882,Tirunelveli 
+40,Kadayanallur,13764,207,0,13971,Tirunelveli 
+41,Puliyangudi,10107,115,5,10227,Tirunelveli 
+42,Sankarankoil,11802,336,0,12138,Tirunelveli 
+43,Ambasamudram,7801,215,1,8017,Tirunelveli 
+44,Vickramasingapuram,10419,269,0,10688,Tirunelveli 
+45,Kovilpatti,18364,382,76,18822,Tirunelveli 
+46,Kayalpattinam,9200,15,0,9215,Tirunelveli 
+47,Nagercoil,38118,9798,172,48088,Tirunelveli 
+48,Colachel,4468,124,1,4593,Tirunelveli 
+49,Kuzhithurai,4230,167,0,4397,Tirunelveli 
+50,Padmanabhapuram,3416,105,0,3521,Tirunelveli 
+51,Virudhunagar,14433,287,59,14779,Tirunelveli 
+52,Aruppukottai,13752,579,0,14331,Tirunelveli 
+53,Rajapalayam,26494,320,110,26924,Tirunelveli 
+54,Srivilliputhur,12527,141,133,12801,Tirunelveli 
+55,Sivakasi,12374,451,333,13158,Tirunelveli 
+56,Sattur,4656,92,43,4791,Tirunelveli 
+57,Tiruthangal,4104,10,17,4131,Tirunelveli 
+Total,Total,237332,13913,950,252195,Tirunelveli 
+58,Attur,9708,167,0,9875,Salem  (upto 1.12.2017)
+59,Mettur,7509,152,17,7678,Salem  (upto 1.12.2017)
+60,Idappadi,6765,96,5,6866,Salem  (upto 1.12.2017)
+61,Narasingapuram,3036,20,0,3056,Salem  (upto 1.12.2017)
+62,Namakkal,21550,1204,0,22754,Salem  (upto 1.12.2017)
+63,Tiruchengode,15153,328,0,15481,Salem  (upto 1.12.2017)
+64,Komarapalayam,10121,719,0,10840,Salem  (upto 1.12.2017)
+65,Rasipuram,9886,154,0,10040,Salem  (upto 1.12.2017)
+66,Pallipalayam,4588,185,0,4773,Salem  (upto 1.12.2017)
+67,Dharmapuri,8863,780,0,9643,Salem  (upto 1.12.2017)
+68,Krishnagiri,8531,202,92,8825,Salem  (upto 1.12.2017)
+69,Hosur,29304,117,0,29421,Salem  (upto 1.12.2017)
+70,Karur,41642,1569,13,43224,Salem  (upto 1.12.2017)
+71,Kulithalai,1956,51,0,2007,Salem  (upto 1.12.2017)
+Total,TOTAL,178612,5744,127,184483,Salem  (upto 1.12.2017)
+72,Pollachi,14617,810,0,15427,Tiruppur
+73,Mettupalayam,10880,576,48,11504,Tiruppur
+74,Valparai,1480,122,0,1602,Tiruppur
+75,Udumalpet,9813,483,12,10308,Tiruppur
+76,Dharapuram,8281,275,0,8556,Tiruppur
+77,Kangeyam,5815,59,4,5878,Tiruppur
+78,Palladam,9254,295,75,9624,Tiruppur
+79,Vellakoil,6582,149,30,6761,Tiruppur
+80,Gobichettipalayam,11309,220,0,11529,Tiruppur
+81,Sathyamangalam,5867,275,0,6142,Tiruppur
+82,Bhavani,4887,108,0,4995,Tiruppur
+83,Punjaipuliampatti,4564,125,0,4689,Tiruppur
+84,Nilagiri District,NA,NA,NA,0,Tiruppur
+85,Udhagamandalam,12008,884,0,12892,Tiruppur
+86,Coonoor,6593,389,0,6982,Tiruppur
+87,Gudalur,3981,280,3,4264,Tiruppur
+88,Nelliyalam,622,11,0,633,Tiruppur
+Total,Total ,116553,5061,172,121786,Tiruppur
+89,Kumbakonam,12072,544,0,12616,Thanjavur 
+90,Pattukotai,7490,470,0,7960,Thanjavur 
+91,Nagapattinam,8410,124,16,8550,Thanjavur 
+92,Mayiladuthurai,10203,485,8,10696,Thanjavur 
+93,Sirkali,752,5,0,757,Thanjavur 
+94,Vedharaniyam,1450,47,0,1497,Thanjavur 
+95,Tiruvarur,3740,5,1,3746,Thanjavur 
+96,Mannargudi,9673,152,0,9825,Thanjavur 
+97,Thiruthuraipoondi,2029,104,0,2133,Thanjavur 
+98,Koothanallur,1942,22,0,1964,Thanjavur 
+99,Pudukkottai,18348,194,14,18556,Thanjavur 
+100,Aranthangi,6050,207,0,6257,Thanjavur 
+101,Manapparai,7584,48,0,7632,Thanjavur 
+102,Thuraiyur,5472,114,0,5586,Thanjavur 
+103,Thuvakudi,3624,7,0,3631,Thanjavur 
+104,Perambalur,7316,169,0,7485,Thanjavur 
+105,Ariyalur,4098,93,0,4191,Thanjavur 
+106,Jayankondam,5339,105,0,5444,Thanjavur 
+Total,TOTAL,115592,2895,39,118526,Thanjavur 
+107,Tirumangalam,5708,144,0,5852,Madurai
+108,Melur,2326,27,0,2353,Madurai
+109,Usilampatti,5731,112,0,5843,Madurai
+110,Theni-Allinagaram,11587,476,0,12063,Madurai
+111,Bodinayakanur,12497,248,0,12745,Madurai
+112,Chinnamanur,7694,75,0,7769,Madurai
+113,Cumbum,13175,362,0,13537,Madurai
+114,Periyakulam,6973,116,0,7089,Madurai
+115,Gudalur,7051,40,0,7091,Madurai
+116,Sivagangai,6326,162,0,6488,Madurai
+117,Devakottai,7968,168,0,8136,Madurai
+118,Karaikudi,14856,470,0,15326,Madurai
+119,Ramanathapuram,5276,114,0,5390,Madurai
+120,Paramakudi,9767,125,0,9892,Madurai
+121,Rameswaram,1567,52,0,1619,Madurai
+122,Keelakarai,806,2,0,808,Madurai
+123,Palani,7878,415,0,8293,Madurai
+124,Kodaikanal,5634,514,0,6148,Madurai
+125,Oddanchatram,5108,146,0,5254,Madurai
+Total,TOTAL,137928,3768,0,141696,Madurai

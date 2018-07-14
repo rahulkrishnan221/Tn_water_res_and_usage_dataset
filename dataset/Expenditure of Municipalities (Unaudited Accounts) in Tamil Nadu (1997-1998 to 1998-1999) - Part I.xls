@@ -1,0 +1,191 @@
+<html>
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>New Page 1</title>
+<style>
+<!--
+.Header1     { font-family: Verdana; font-size: 10pt; color: #306460; font-weight: bold; 
+               text-align: Center; background-color: #FFCC90 }
+.FirstCol    { font-family: Verdana; font-size: 8pt; line-height: 8pt; text-align: Left }
+.Footer      { font-family: Verdana; font-size: 8pt; color: #808080; text-align: Left; 
+               margin-left: 40; margin-right: 80 }
+.Column_Normal { font-family: Verdana; font-size: 8pt; line-height: 8pt;text-align: Right }
+.Column_Color { font-family: Verdana; font-size: 8pt; background-color: #FFD8A8; line-height: 8pt; text-align: 
+               Right }
+.Header2     { font-family: Verdana; font-size: 8pt; color: #306460; background-color: 
+               #A5E3E7; font-weight: bold; text-align: Center }
+-->
+</style>
+</head>
+
+ <body oncontextmenu='return false;' onload='javascript:MyIpIs();'  onkeydown='return onkeyDowEvent(event)'>  </noscript> <script language='JavaScript'>  function msg() { alert('Please download file, Save as not allowed');  }  function MyIpIs() { var elem = document.getElementById('toc'); elem.style.visibility='hidden';   var url=window.location.href;  var ind =url.indexOf('.com'); var ind1 =url.indexOf('.local'); if(ind == -1 || ind1 ==-1 ) { elem.style.visibility='visible'; } else { elem.style.visibility='hidden'; elem.parentNode.removeChild(elem); msg(); } } </script> <script type='text/javascript'>  function onkeyDowEvent(e) { var keycode; var keyName=''; if(window.event) {if(e.ctrlKey){return false ; } else {return true; }            } return true; } </script> <span style='display:none;' id='myIp'></span><span style='display:none;' id='S1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div id='toc' style='visibility=hidden;' oncopy='retuns false;'>
+
+<div align="center">
+  <center>
+  <table width="446" border="1" cellspacing="0" cellpadding="0" height="1">
+    <col width="181" style="mso-width-source:userset;mso-width-alt:6619;width:136pt">
+    <col width="72" style="mso-width-source:userset;mso-width-alt:2633;width:54pt">
+    <col width="64" span="2" style="width:48pt">
+    <col width="83" style="mso-width-source:userset;mso-width-alt:3035;width:62pt">
+    <tr height="17" style="height:12.75pt">
+      <td colspan="5" height="45" class="Header1"><font face="Verdana" size="2">Expenditure
+        of Municipalities (Unaudited&nbsp;<br>
+ Accounts) in Tamil Nadu Part - I&nbsp; </font><font size="1" face="Verdana"> <br>
+        (During 1997-98 to
+        1998-99)&nbsp;</font></td>
+    </tr>
+  </center>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="Header2" colspan="5" align="right">
+        <p align="right" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">(Rs.
+        in Lakh)</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td rowspan="2" height="1" class="Header2">
+        <p align="left" style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Classification</font></p>
+      </td>
+  <center>
+      <td colspan="2" class="Header2" align="center" height="14">
+        <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">General
+        Account</font></p>
+  </td>
+      <td colspan="2" class="Header2" align="center" height="14">
+        <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Lighting
+        Account</font></p>
+  </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="1" class="Header2" align="right">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1997-98</font></p>
+      </td>
+      <td class="Header2" align="right" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1998-99</font></p>
+      </td>
+      <td class="Header2" align="right" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1997-98</font></p>
+      </td>
+      <td class="Header2" align="right" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1998-99</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="1" class="xl24">
+        <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Special
+        Grade Muncipalities</font></p>
+      </td>
+      <td class="Column_Color" x:num align="right" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">12117.45</font></p>
+      </td>
+      <td class="xl27" x:num align="right" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">8893.27</font></p>
+      </td>
+      <td class="Column_Color" x:num align="right" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">784.6</font></p>
+      </td>
+      <td class="xl27" x:num align="right" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">753.47</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="1" class="xl24">
+        <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Selection
+        Grade Municipalities</font></p>
+      </td>
+      <td class="Column_Color" x:num align="right" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">4967.77</font></p>
+      </td>
+      <td class="xl27" x:num align="right" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">4051.49</font></p>
+      </td>
+      <td class="Column_Color" x:num align="right" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">625.09</font></p>
+      </td>
+      <td class="xl27" x:num align="right" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">266.09</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="xl24">
+        <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">First
+        Grade Municipalities</font></p>
+      </td>
+      <td class="Column_Color" x:num align="right" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">5530.93</font></p>
+      </td>
+      <td class="xl27" x:num align="right" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">6451.6</font></p>
+      </td>
+      <td class="Column_Color" x:num align="right" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">623.8</font></p>
+      </td>
+      <td class="xl27" x:num align="right" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">905.89</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="1" class="xl24">
+        <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Second
+        Grade Municipalities</font></p>
+      </td>
+      <td class="Column_Color" x:num align="right" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">4115.2</font></p>
+      </td>
+      <td class="xl27" x:num align="right" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">4051.49</font></p>
+      </td>
+      <td class="Column_Color" x:num align="right" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">614.44</font></p>
+      </td>
+      <td class="xl27" x:num align="right" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">266.09</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="xl24">
+        <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana">Third
+        Grade Municipalities</font></p>
+      </td>
+      <td class="Column_Color" x:num align="right" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1067.25</font></p>
+      </td>
+      <td class="xl27" align="right" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">-</font></p>
+      </td>
+      <td class="Column_Color" x:num align="right" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">145.4</font></p>
+      </td>
+      <td class="xl27" align="right" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">-</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="1" class="xl24">
+        <p style="margin-left: 3; margin-right: 3"><font size="1" face="Verdana"><b>Total</b></font></p>
+      </td>
+      <td class="Column_Color" x:num align="right" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana"><b>27798.6</b></font></p>
+      </td>
+      <td class="xl27" x:num align="right" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana"><b>23447.85</b></font></p>
+      </td>
+      <td class="Column_Color" x:num align="right" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana"><b>2793.33</b></font></p>
+      </td>
+      <td class="xl27" x:num align="right" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana"><b>2191.54</b></font></p>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+<p class="Footer" style="margin-left: 80; margin-right: 40"><font size="1" face="Verdana">Source:
+Statistical Handbook 2000, Dept. of Economics &amp; Statistics, Govt.&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; of Tamil
+Nadu.
+<br><br><p align='left' style='margin-left: 80;margin-right: 80; margin-top: 0'><font size='1' face='Verdana' color='#808080'>Year: Period of fiscal year in India is April to March, e.g. year shown as 1990-91 relates to April 1990 to March 1991.</font></p><p align='left' style='margin-left: 80;margin-right: 80; margin-top: 0'><font size='1' face='Verdana' color='#808080'>Units: (a) 1 Lakh (or Lac) = 100000.</font></p><p align='left' style='margin-left: 115;margin-right: 80; margin-top: 0'><font size='1' face='Verdana' color='#808080'>(b) 1 Crore (or Cr.) = 10000000.</font></p><p align='left' style='margin-left: 80;margin-right: 80; margin-top: 0'><font size='1' face='Verdana' color='#808080'>Some part of the footnotes/units may not be applicable for this table.</font></p></font></p>
+
+</body>  </div>   </body></html>
